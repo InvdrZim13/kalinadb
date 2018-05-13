@@ -1,0 +1,20 @@
+{
+  "100": {
+    "rarity": "4",
+    "attacks": "0102020203",
+    "maxATK": "8,629",
+    "id": "100",
+    "name": "Helena",
+    "servantClass": "Caster",
+    "cost": "12",
+    "baseHP": "1,901",
+    "baseATK": "1,438",
+    "maxHP": "11,882",
+    "image": "http://fate-go.cirnopedia.org/icons/servant/servant_1001.png",
+    "link": "http://fate-go.cirnopedia.org/servant_profile.php?servant=100",
+    "note": "\n",
+    "NP": "(Arts) Sanat Kumara\nVenus God Lord of the Flames\nDeal heavy damage to all enemies [Level]\nDecrease DEF (3 turns) [Overcharge]\nDecrease Critical Hit Rate (3 turns) [Overcharge]\nDecrease Debuff Resist (3 turns) [Overcharge]\nTarget: All Enemies",
+    "alignment": "Chaotic Good",
+    "desc": "A female occultist from the 19th Century, a founder of theosophy. Despite having married young to a Russian aristocrat, she soon eloped and then lived gorgeously in the magic world. Popularly known as Madame Blavatsky. She is considered to have immersed herself on mysticism out of belief in the existence of the Lemurian continent, eventually coming in contact with a higher existence ?Mahatma? and its collective body ?Hierarchy?, acquiring many wisdoms in the process. If that is indeed the case, she might have caught a glimpse of a possibility towards the Root.",
+    "item": "Caster Piece: 4\n\nCaster Piece: 10\nVoid's Dust: 12\n\nCaster Monument: 4\nGhost Lantern: 8\nHomunculus Baby: 4\n\nCaster Monument: 10\nHomunculus Baby: 8\nForbidden Page: 10"
+  }
