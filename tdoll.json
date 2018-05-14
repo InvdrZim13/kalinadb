@@ -1299,7 +1299,7 @@
 	"maxROF": "61",
 	"skill": "High-explosive Grenade",
 	"skillDesc": "Launch a grenade that deals 2.5 times StG44s damage to enemies within a radius of 4 unit. (16s CD, 8s initial CD",
-	"tile": ":black_circle: :black_circle: :black_circle:\n:black_circle: :white_circle: :large_blue_circle:\n:black_circle: :black_circle: :black_circle: :black_circle:",
+	"tile": ":black_circle: :black_circle: :black_circle:\n:black_circle: :white_circle: :large_blue_circle:\n:black_circle: :black_circle: :black_circle:",
 	"image": "https://en.gfwiki.com/images/b/bc/StG44_S.png",
 	"link": "https://en.gfwiki.com/wiki/StG44",
 	"note": "\n"
