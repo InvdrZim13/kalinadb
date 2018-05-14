@@ -603,7 +603,7 @@
     "maxROF": "93",
     "skill": "Hand Grenade",
     "skillDesc": "Throws a grenade that deals 6x of PPS-43's damage to enemies within a 2.5 unit radius. (16s CD)",
-    "tile": ":large_blue_circle:  :black_circle: :black_circle:\n:large_blue_circle: :white_circle: :black_circle:\n:large_blue_circle::black_circle: :black_circle:",
+    "tile": ":large_blue_circle: :black_circle: :black_circle:\n:large_blue_circle: :white_circle: :black_circle:\n:large_blue_circle: :black_circle: :black_circle:",
     "image": "https://en.gfwiki.com/images/f/fb/PPS-43_S.png",
     "link": "https://en.gfwiki.com/wiki/PPS-43",
     "note": "\n"
