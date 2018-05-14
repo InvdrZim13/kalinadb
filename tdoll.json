@@ -752,5 +752,34 @@
     "image": "https://en.gfwiki.com/images/e/e7/Skorpion_S.png",
     "link": "https://en.gfwiki.com/wiki/Skorpion",
     "note": "\n"
-  } 
+  },
+          "31": {
+    "rarity": "2",
+    "maxDMG": "33",
+    "name": "Beretta Model 38",
+    "dollRole": "SMG",
+    "baseHP": "102 (x1)",
+    "baseDMG": "12",
+    "moveSPD": "12",
+    "baseAccuracy": "2",
+    "maxAccuracy": "12",
+    "baseEvasion": "7",
+    "maxEvasion": "52",
+    "maxHP": "203 (x1)/1015 (x5)",
+    "armor": "0",
+    "critRate": "5%",
+    "critDamage": "50%",
+    "armorPen": "10",
+    "ammo": "25 (x1)/85 (x5)",
+    "ration": "20 (x1)/60 (x5)",
+    "acq": "1:30:00",
+    "baseROF": "52",
+    "maxROF": "75",
+    "skill": "Flashbang",
+    "skillDesc": "Throws a flashbang that stuns enemies within a 2.5 unit radius for 3.2 seconds. (16.0s CD, 5s initial CD)",
+    "tile": ":large_blue_circle: :black_circle: :black_circle:\n:black_circle: :white_circle: :black_circle:\n:large_blue_circle: :black_circle: :black_circle:",
+    "image": "https://en.gfwiki.com/images/5/50/Beretta_Model_38_S.png",
+    "link": "https://en.gfwiki.com/wiki/Beretta_Model_38",
+    "note": "\n"
+  }
 }
