@@ -782,4 +782,33 @@
     "link": "https://en.gfwiki.com/wiki/Beretta_Model_38",
     "note": "\n"
   }
+          "32": {
+    "rarity": "3",
+    "maxDMG": "29",
+    "name": "Micro Uzi".
+    "dollRole": "SMG",
+    "baseHP": "80 (x1)",
+    "baseDMG": "9",
+    "moveSPD": "12",
+    "baseAccuracy": "2",
+    "maxAccuracy": "12",
+    "baseEvasion": "10",
+    "maxEvasion": "79",
+    "maxHP": "159 (x1)/795 (x5)",
+    "armor": "0",
+    "critRate": "5%",
+    "critDamage": "50%",
+    "armorPen": "10",
+    "ammo": "25 (x1)/85 (x5)",
+    "ration": "20 (x1)/60 (x5)",
+    "acq": "1:40:00",
+    "baseROF": "71",
+    "maxROF": "104",
+    "skill": "Incendiary Grenade",
+    "skillDesc": "Throws an incendiary grenade that deals 6.0x Micro Uzis damage and a DoT of 2.0x Micro Uzis damage for 4.0 seconds within a radius of 1 units. (16.0s CD, 3s initial CD)",
+    "tile": ":black_circle: :large_blue_circle: :black_circle:\n:black_circle: :white_circle: :black_circle:\n:black_circle: :large_blue_circle: :black_circle:",
+    "image": "https://en.gfwiki.com/images/7/71/Micro_Uzi_S.png",
+    "link": "https://en.gfwiki.com/wiki/Micro_Uzi",
+    "note": "\n"
+  }
 }
