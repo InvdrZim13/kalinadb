@@ -2,7 +2,6 @@
   "1": {
     "rarity": "4",
     "maxDMG": "36",
-    "id": "001",
     "name": "SAA (Colt Revolver)",
     "dollRole": "Handgun",
     "baseHP": "40 (x1)",
@@ -24,7 +23,7 @@
     "maxROF": "47",
     "skill": "Fire Command",
     "skillDesc": "Increases all allies damage by 22% for 8 seconds. (12s CD, 6s initial CD)",
-    "tile": "X O X\nO G O\n X O X",
+    "tile": ":red_circle: :large_blue:circle: :red_circle:\n:large_blue_circle: :white_circle: :large_blue_circle:\n:red_circle: :large_blue_circle: :red_circle:",
     "image": "https://en.gfwiki.com/images/a/a3/Colt_Revolver_S.png",
     "link": "https://en.gfwiki.com/wiki/Colt_Revolver",
     "note": "\n"
@@ -32,7 +31,6 @@
     "2": {
     "rarity": "2",
     "maxDMG": "29",
-    "id": "002",
     "name": "M1911",
     "dollRole": "Handgun",
     "baseHP": "37 (x1)",
@@ -62,7 +60,6 @@
       "3": {
     "rarity": "3",
     "maxDMG": "29",
-    "id": "003",
     "name": "M9",
     "dollRole": "Handgun",
     "baseHP": "38 (x1)",
@@ -92,7 +89,6 @@
         "5": {
     "rarity": "2",
     "maxDMG": "29",
-    "id": "005",
     "name": "M1895 (Nagant)",
     "dollRole": "Handgun",
     "baseHP": "35 (x1)",
@@ -122,7 +118,6 @@
           "6": {
     "rarity": "3",
     "maxDMG": "29",
-    "id": "006",
     "name": "Tokarev",
     "dollRole": "Handgun",
     "baseHP": "48 (x1)",
@@ -152,7 +147,6 @@
             "7": {
     "rarity": "4",
     "maxDMG": "29",
-    "id": "007",
     "name": "Stechkin",
     "dollRole": "Handgun",
     "baseHP": "42 (x1)",
