@@ -400,7 +400,7 @@
     "maxROF": "61",
     "skill": "Firepower Supression",
     "skillDesc": "Decreases the enemy squad's damage by 25% for 8 seconds. (12s CD, 6s initial CD)",
-    "tile": " :large_blue_circle: :black_circle: : :large_blue_circle:\n:black_circle: :white_circle: :large_blue_circle:\n:large_blue_circle: :black_circle: : :large_blue_circle:",
+    "tile": " :large_blue_circle: :black_circle: :large_blue_circle:\n:black_circle: :white_circle: :large_blue_circle:\n:large_blue_circle: :black_circle: :large_blue_circle:",
     "image": "https://en.gfwiki.com/images/2/2c/Glock_17_S.png",
     "link": "https://en.gfwiki.com/wiki/Glock_17",
     "note": "\n"
