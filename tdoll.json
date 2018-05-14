@@ -284,7 +284,7 @@
     "maxROF": "55",
     "skill": "Cover Command N",
     "skillDesc": "Increases all allies evasion by 85% for 8 seconds, 35% for 5 seconds during day. (12s cooldown, 6s initial cooldown)",
-    "tile": " :black_circle: :large_blue_circle: :black_circle:\n :black_circle: :white_circle: :large_blue_circle:\n :black_circle: :large_blue_circle: :black_circle:",
+    "tile": ":black_circle: :large_blue_circle: :black_circle:\n:black_circle: :white_circle: :large_blue_circle:\n:black_circle: :large_blue_circle: :black_circle:",
     "image": "https://en.gfwiki.com/images/a/a2/P08_S.png",
     "link": "https://en.gfwiki.com/wiki/P08",
     "note": "\n"
