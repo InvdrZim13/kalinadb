@@ -169,6 +169,7 @@
     "maxROF": "64",
     "skill": "Assault Command T",
     "skillDesc": "Increases all allies rate of fire by 22% for 8 seconds.",
+    "tile": "X O O\nX G x\n X O O",
     "image": "https://en.gfwiki.com/images/f/f4/Stechkin_S.png",
     "link": "https://en.gfwiki.com/wiki/Stechkin",
     "note": "\n"
