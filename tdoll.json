@@ -1217,7 +1217,7 @@
     "link": "https://en.gfwiki.com/wiki/G43",
     "note": "\n"
   },
-           "48": {
+"48": {
     "rarity": "5",
     "name": "WA2000",
     "dollRole": "RF",
@@ -1244,6 +1244,35 @@
     "tile": ":black_circle: :black_circle: :black_circle:\n:black_circle: :white_circle: :large_blue_circle:\n:black_circle: :black_circle: :black_circle:",
     "image": "https://en.gfwiki.com/images/5/54/WA2000_S.png",
     "link": "https://en.gfwiki.com/wiki/WA2000",
+    "note": "\n"
+  },
+  "50": {
+    "rarity": "5",
+    "name": "Lee-Enfield",
+    "dollRole": "RF",
+    "baseHP": "40 (x1)",
+    "maxHP": "80(x1) / 400(x5)",
+    "baseDMG": "45",
+    "maxDMG": "135",
+    "moveSPD": "7",
+    "baseAccuracy": "9",
+    "maxAccuracy": "78",
+    "baseEvasion": "5",
+    "maxEvasion": "40",
+    "armor": "0",
+    "critRate": "40%",
+    "critDamage": "50%",
+    "armorPen": "10",
+    "ammo": "15 (x1)/55 (x5)",
+    "ration": "30 (x1)/90 (x5)",
+    "acq": "5:00:00",
+    "baseROF": "23",
+    "maxROF": "36",
+    "skill": "Firepower Focus",
+    "skillDesc": "Increases Lee-Enfield's damage by 75.0% for 12.8 seconds. (8s CD, 5s initial CD)",
+    "tile": ":black_circle: :large_blue_circle: :black_circle:\n:black_circle: :white_circle: :black_circle:\n:black_circle: :large_blue_circle: :black_circle:",
+    "image": "https://en.gfwiki.com/images/c/cb/Lee-Enfield_S.png",
+    "link": "https://en.gfwiki.com/wiki/Lee-Enfield",
     "note": "\n"
   }
 }
