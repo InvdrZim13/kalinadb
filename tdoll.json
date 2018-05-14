@@ -23,7 +23,7 @@
     "maxROF": "47",
     "skill": "Fire Command",
     "skillDesc": "Increases all allies damage by 22% for 8 seconds. (12s CD, 6s initial CD)",
-    "tile": ":black_circle: :large_blue:circle: :black_circle:\n:large_blue_circle: :white_circle: :large_blue_circle:\n:black_circle: :large_blue_circle: :black_circle:",
+    "tile": ":black_circle: :large_blue_circle: :black_circle:\n:large_blue_circle: :white_circle: :large_blue_circle:\n:black_circle: :large_blue_circle: :black_circle:",
     "image": "https://en.gfwiki.com/images/a/a3/Colt_Revolver_S.png",
     "link": "https://en.gfwiki.com/wiki/Colt_Revolver",
     "note": "\n"
