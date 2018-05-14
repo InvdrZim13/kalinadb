@@ -81,7 +81,7 @@
     "maxROF": "61",
     "skill": "Flashbang",
     "skillDesc": "Stuns enemies a within a radius of 2.5 units for 3.2 seconds. (12.0s CD, 3s initial CD)",
-    "tile": "X O O\nX G X\nX O O",
+    "tile": ":black_circle: :large_blue_circle: :large_blue_circle:\n:black_circle: :white_circle: :black_circle:\n:black_circle: :large_blue_circle: :large_blue_circle:",
     "image": "https://en.gfwiki.com/images/0/0a/M9_S.png",
     "link": "https://en.gfwiki.com/wiki/M9",
     "note": "\n"
@@ -110,7 +110,7 @@
     "maxROF": "44",
     "skill": "Firepower Supression N",
     "skillDesc": "Decreases the enemy squads damage by 35% for 8 seconds, 20% for 5 seconds during day. (12s CD, 6s initial CD)",
-    "tile": "X O X\nO G X\nX O X",
+    "tile": ":black_circle: :large_blue_circle: :black_circle:\n:large_blue_circle: :white_circle: :black_circle:\n:black_circle: :large_blue_circle: :black_circle:",
     "image": "https://en.gfwiki.com/images/1/1d/Nagant_Revolver_S.png",
     "link": "https://en.gfwiki.com/wiki/Nagant_Revolver",
     "note": "\n"
@@ -139,7 +139,7 @@
     "maxROF": "52",
     "skill": "Cover Command",
     "skillDesc": "Increases all allies evasion by 55% for 8 seconds. (12s CD, 6s initial CD)",
-    "tile": "X O O\nX G X\nX O )",
+    "tile": ":black_circle: :large_blue_circle: :large_blue_circle:\n:black_circle: :white_circle: :black_circle:\n:black_circle: :large_blue_circle: :large_blue_circle:",
     "image": "https://en.gfwiki.com/images/7/7f/Tokarev_S.png",
     "link": "https://en.gfwiki.com/wiki/Tokarev",
     "note": "\n"
@@ -168,7 +168,7 @@
     "maxROF": "64",
     "skill": "Assault Command T",
     "skillDesc": "Increases all allies rate of fire by 22% for 8 seconds. (12s CD, 6s inital CD)",
-    "tile": "X O O\nX G X\nX O O",
+    "tile": ":black_circle: :large_blue_circle: :large_blue_circle:\n:black_circle: :white_circle: :black_circle:\n:black_circle: :large_blue_circle: :large_blue_circle:",
     "image": "https://en.gfwiki.com/images/f/f4/Stechkin_S.png",
     "link": "https://en.gfwiki.com/wiki/Stechkin",
     "note": "\n"
