@@ -22,6 +22,8 @@
     "acq": "0:50:00",
     "baseROF": "31",
     "maxROF": "47",
+    "skill": "Assault Command T",
+    "skillDesc": "Increases all allies rate of fire by 22% for 8 seconds.",
     "image": "https://en.gfwiki.com/images/a/a3/Colt_Revolver_S.png",
     "link": "https://en.gfwiki.com/wiki/Colt_Revolver",
     "note": "\n"
@@ -49,6 +51,8 @@
     "acq": "0:20:00",
     "baseROF": "38",
     "maxROF": "58",
+    "skill": "Assault Command T",
+    "skillDesc": "Increases all allies rate of fire by 22% for 8 seconds.",
     "image": "https://en.gfwiki.com/images/b/b7/M1911_S.png",
     "link": "https://en.gfwiki.com/wiki/M1911",
     "note": "\n"
@@ -76,6 +80,8 @@
     "acq": "0:40:00",
     "baseROF": "42",
     "maxROF": "61",
+    "skill": "Assault Command T",
+    "skillDesc": "Increases all allies rate of fire by 22% for 8 seconds.",
     "image": "https://en.gfwiki.com/images/0/0a/M9_S.png",
     "link": "https://en.gfwiki.com/wiki/M9",
     "note": "\n"
@@ -103,6 +109,8 @@
     "acq": "0:20:00",
     "baseROF": "29",
     "maxROF": "44",
+    "skill": "Assault Command T",
+    "skillDesc": "Increases all allies rate of fire by 22% for 8 seconds.",
     "image": "https://en.gfwiki.com/images/1/1d/Nagant_Revolver_S.png",
     "link": "https://en.gfwiki.com/wiki/Nagant_Revolver",
     "note": "\n"
@@ -130,6 +138,8 @@
     "acq": "0:45:00",
     "baseROF": "36",
     "maxROF": "52",
+    "skill": "Assault Command T",
+    "skillDesc": "Increases all allies rate of fire by 22% for 8 seconds.",
     "image": "https://en.gfwiki.com/images/7/7f/Tokarev_S.png",
     "link": "https://en.gfwiki.com/wiki/Tokarev",
     "note": "\n"
@@ -157,6 +167,8 @@
     "acq": "0:55:00",
     "baseROF": "45",
     "maxROF": "64",
+    "skill": "Assault Command T",
+    "skillDesc": "Increases all allies rate of fire by 22% for 8 seconds.",
     "image": "https://en.gfwiki.com/images/f/f4/Stechkin_S.png",
     "link": "https://en.gfwiki.com/wiki/Stechkin",
     "note": "\n"
