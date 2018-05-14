@@ -371,7 +371,7 @@
     "maxROF": "52",
     "skill": "Assault Command",
     "skillDesc": "Increases all allies rate of fire by 20% for 8 seconds. (12s CD, 6s initial CD)",
-    "tile": " :large_blue_circle: :black_circle: : :large_blue_circle:\n:black_circle: :white_circle: :black_circle: _circle:\n:large_blue_circle: :black_circle: : :large_blue_circle:",
+    "tile": " :large_blue_circle: :black_circle: :large_blue_circle:\n:black_circle: :white_circle: :black_circle:\n:large_blue_circle: :black_circle: :large_blue_circle:",
     "image": "https://en.gfwiki.com/images/c/c6/Astra_Revolver_S.png",
     "link": "https://en.gfwiki.com/wiki/Astra_Revolver",
     "note": "\n"
