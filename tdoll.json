@@ -748,7 +748,7 @@
     "maxROF": "95",
     "skill": "Incendiary Grenade",
     "skillDesc": "Throws an incendiary grenade that deals 6.0x Skorpions damage and a DoT of 2.0x Skorpions damage for 4.0 seconds within a radius of 1 units. (16.0s CD, 3s initial CD)",
-    "tile": ":black_circle :black_circle: :black_circle:\n:large_blue_circle: :white_circle: :black_circle:\n:black_circle :black_circle: :black_circle:",
+    "tile": ":black_circle: :black_circle: :black_circle:\n:large_blue_circle: :white_circle: :black_circle:\n:black_circle: :black_circle: :black_circle:",
     "image": "https://en.gfwiki.com/images/e/e7/Skorpion_S.png",
     "link": "https://en.gfwiki.com/wiki/Skorpion",
     "note": "\n"
