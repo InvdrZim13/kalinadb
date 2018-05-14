@@ -1299,7 +1299,7 @@
 	"maxROF": "32",
 	"skill": "Firepower Focus",
 	"skillDesc": "Increases FF-49's damage by 55.0% for 5.0 seconds (8s CD, 5s initial CD)",
-	"tile": ":black_circle: :black_circle: :large_blue_circle:\n:black_circle: :white_circle: :black_circle:\n :black_circle: :black_circle: :large_blue_circle:",
+	"tile": ":black_circle: :black_circle: :large_blue_circle:\n:black_circle: :white_circle: :black_circle:\n:black_circle: :black_circle: :large_blue_circle:",
 	"image": "https://en.gfwiki.com/images/a/ac/FN-49_S.png",
 	"link": "https://en.gfwiki.com/wiki/FN-49",
 	"note": "\n"
@@ -1444,7 +1444,7 @@
 	"maxROF": "78",
 	"skill": "Anti-Personnel Grenade",
 	"skillDesc": "Launch a grenade that deals 9.0x M4 SOPMOD II's damage to enemies within a radius of 1 unit (16s CD, 8s initial CD)",
-	"tile": ":black_circle: :black_circle: :large_blue_circle:\n:black_circle: :white_circle: :large_blue_circle:\n :black_circle: :black_circle: :large_blue_circle:",
+	"tile": ":black_circle: :black_circle: :large_blue_circle:\n:black_circle: :white_circle: :large_blue_circle:\n:black_circle: :black_circle: :large_blue_circle:",
 	"image": "https://en.gfwiki.com/images/f/f2/M4_SOPMOD_II_S.png",
 	"link": "https://en.gfwiki.com/wiki/M4_SOPMOD_II",
 	"note": "\n"
@@ -1473,7 +1473,7 @@
 	"maxROF": "77",
 	"skill": "Assault Focus T",
 	"skillDesc": "Increases ST AR-15's rate of fire by 45.0% for 15.0 seconds (16s CD, 5s initial CD)",
-	"tile": ":black_circle: :black_circle: :large_blue_circle:\n:black_circle: :white_circle: :large_blue_circle:\n :black_circle: :black_circle: :large_blue_circle:",
+	"tile": ":black_circle: :black_circle: :large_blue_circle:\n:black_circle: :white_circle: :large_blue_circle:\n:black_circle: :black_circle: :large_blue_circle:",
 	"image": "https://en.gfwiki.com/images/a/a2/ST_AR-15_S.png",
 	"link": "https://en.gfwiki.com/wiki/ST_AR-15",
 	"note": "\n"
