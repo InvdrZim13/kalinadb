@@ -1278,7 +1278,7 @@
    "61": {
 	"rarity": "3",
 	"name": "StG44",
-	"dollRole": "SMG",
+	"dollRole": "AR",
 	"baseHP": "64 (x1)",
 	"maxHP": "127(x1) / 635(x5)",
 	"baseDMG": "19",
