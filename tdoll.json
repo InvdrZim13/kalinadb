@@ -85,6 +85,7 @@
     "skillDesc": "Stuns enemies a within a radius of 2.5 units for 3.2 seconds. (12.0s CD, 3s initial CD)",
     "tile": ":black_circle: :large_blue_circle: :large_blue_circle:\n:black_circle: :white_circle: :black_circle:\n:black_circle: :large_blue_circle: :large_blue_circle:",
     "image": "https://en.gfwiki.com/images/0/0a/M9_S.png",
+    "formBonus": "Increases evasion by 10% (x1), increases damage by 10% (x1)",
     "link": "https://en.gfwiki.com/wiki/M9",
     "note": "\n"
   },
