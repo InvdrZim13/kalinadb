@@ -54,7 +54,7 @@
     "skill": "Smoke Grenade",
     "skillDesc": "Decreases the enemy's rate of fire by 36.0% and movement speed by 45.0 within a radius of 2.5 units for 4.0 seconds. (12.0s CD, 1.0s initial CD)",
     "tile": ":black_circle: :large_blue_circle: :black_circle:\n:large_blue_circle: :white_circle: :large_blue_circle:\n:black_circle: :large_blue_circle: :black_circle:",
-    "formBonus": "Increase ROF by 12%(x1), increase accuracy by 30% (x1).",
+    "formBonus": "Increases ROF by 12% (x1), increases accuracy by 30% (x1).",
     "image": "https://en.gfwiki.com/images/b/b7/M1911_S.png",
     "link": "https://en.gfwiki.com/wiki/M1911",
     "note": "\n"
