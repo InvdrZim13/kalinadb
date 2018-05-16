@@ -34,5 +34,14 @@
     "stats": "Night Vision +52%",
     "image": "https://images-ext-1.discordapp.net/external/JyA3y3U1nYjsO74vAW8Es4Qgqo95S3yYzavI2QXV3nM/https/i.imgur.com/o03gzHo.png",
     "link": "https://en.gfwiki.com/wiki/PEQ-2"
+  },
+    "5": {
+    "name": "AMP COMPM2",
+    "rarity": "2",
+    "type": "Red Dot Sight",
+    "craft": "00:10:00",
+    "stats": "Accuracy +2-3, ROF -1",
+    "image": "https://en.gfwiki.com/images/f/f9/Generic_Red_Dot_Sight.png",
+    "link": "https://en.gfwiki.com/wiki/AMP_COMPM2"
   }
 }
