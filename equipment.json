@@ -1,6 +1,6 @@
 {
   "1": {
-    "name": "BM 3-12X40",
+    "name": "BM 3-12x40",
     "rarity": "2",
     "type": "Telescopic Sight",
     "craft": "00:05:00",
@@ -68,5 +68,65 @@
     "use": "HG, SMG, AR",
     "image": "https://en.gfwiki.com/images/6/68/Generic_Exoskeleton.png",
     "link": "https://en.gfwiki.com/wiki/IOP_T1_Exoskeleton"
+  },
+          "8": {
+    "name": "ILM Hollow Point (2 Star)",
+    "rarity": "2",
+    "type": "Ammo",
+    "craft": "00:13:00",
+    "stats": "Damage +1, Armor Penetration -1",
+    "use": "HG, SMG",
+    "image": "https://images-ext-2.discordapp.net/external/NzxC1mK2_e1Jv1O6uo-Hi3R8NEBr8nbJ7gqNr7c_3Fo/https/i.imgur.com/yfIIgZi.png",
+    "link": "https://en.gfwiki.com/wiki/ILM_Hollow_Point_(2-Star)"
+  },
+            "9": {
+    "name": "BK Slug Ammo",
+    "rarity": "2",
+    "type": "Ammo",
+    "craft": "00:14:00",
+    "stats": "Target -2, Damage *3, Accuracy +1-2",
+    "use": "SG",
+    "image": "https://en.gfwiki.com/images/5/58/Generic_Slug_Shotgun_Ammo.png",
+    "link": "https://en.gfwiki.com/wiki/%EF%BC%831_Buckshot_Ammo"
+  },
+              "10": {
+    "name": "M61 Armor Piercing Ammo",
+    "rarity": "2",
+    "type": "Ammo",
+    "craft": "00:15:00",
+    "stats": "Armor Penetration +34",
+    "use": "MG, RF",
+    "image": "https://en.gfwiki.com/images/3/30/Generic_Armor-Piercing_Ammo.png",
+    "link": "https://en.gfwiki.com/wiki/M61_Armor_Piercing_Ammo"
+  },
+                "11": {
+    "name": "Ragged Cape",
+    "rarity": "2",
+    "type": "Camouflage",
+    "craft": "00:16:00",
+    "stats": "Critical Damage +3, Movement Speed -3",
+    "use": "RF",
+    "image": "https://images-ext-2.discordapp.net/external/h9Y1QiVPsUsTNJr5ID1oS1o0nxE_6MCupzZSjrIezeo/https/i.imgur.com/NIk5UJQ.png?width=80&height=80",
+    "link": "https://en.gfwiki.com/wiki/Ragged_Cape"
+  },
+"12": {
+    "name": "FMJ High-Velocity Ammo",
+    "rarity": "2",
+    "type": "Ammo",
+    "craft": "00:18:00",
+    "stats": "Damage +2",
+    "use": "AR",
+    "image": "https://en.gfwiki.com/images/4/41/Generic_High-Velocity_Ammo.png",
+    "link": "https://en.gfwiki.com/wiki/FMJ_High-Velocity_Ammo"
+  },
+  "13": {
+    "name": "LRA 2-12x50",
+    "rarity": "3",
+    "type": "Telescopic Sight",
+    "craft": "00:20:00",
+    "stats": "Critical Hit Chance +9-12%",
+    "use": "SMG, AR, MG, RF, SG",
+    "image": "https://en.gfwiki.com/images/0/06/Generic_Telescopic_Sight.png",
+    "link": "https://en.gfwiki.com/wiki/LRA_2-12x50"
   }
 }
