@@ -44,4 +44,13 @@
     "image": "https://en.gfwiki.com/images/f/f9/Generic_Red_Dot_Sight.png",
     "link": "https://en.gfwiki.com/wiki/AMP_COMPM2"
   }
+      "6": {
+    "name": "IOP X1 Exoskeleton",
+    "rarity": "2",
+    "type": "Exoskeleton",
+    "craft": "00:12:00",
+    "stats": "Evasion +2",
+    "image": "https://en.gfwiki.com/images/6/68/Generic_Exoskeleton.png",
+    "link": "https://en.gfwiki.com/wiki/IOP_X1_Exoskeleton"
+  }
 }
