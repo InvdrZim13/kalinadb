@@ -28,13 +28,13 @@
     "use": "SMG, AR, MG, RF, SG",
     "image": "https://en.gfwiki.com/images/1/12/Generic_Holographic_Sight.png",
     "link": "https://en.gfwiki.com/wiki/EOT_506"
-  } ,     
+  },     
   "4": {
     "name": "PEQ-2",
     "rarity": "2",
     "type": "Night Combat Equipment",
     "craft": "00:09:00",
-    "stats": "Night Vision +52%",
+    "stats": "Night Vision +51-55%",
     "use": "HG, SMG, AR, SG",
     "image": "https://images-ext-1.discordapp.net/external/JyA3y3U1nYjsO74vAW8Es4Qgqo95S3yYzavI2QXV3nM/https/i.imgur.com/o03gzHo.png",
     "link": "https://en.gfwiki.com/wiki/PEQ-2"
@@ -87,7 +87,7 @@
     "stats": "Target -2, Damage *3, Accuracy +1-2",
     "use": "SG",
     "image": "https://en.gfwiki.com/images/5/58/Generic_Slug_Shotgun_Ammo.png",
-    "link": "https://en.gfwiki.com/wiki/%EF%BC%831_Buckshot_Ammo"
+    "link": "https://en.gfwiki.com/wiki/BK_Slug_Ammo"
   },
               "10": {
     "name": "M61 Armor Piercing Ammo",
@@ -128,5 +128,435 @@
     "use": "SMG, AR, MG, RF, SG",
     "image": "https://en.gfwiki.com/images/0/06/Generic_Telescopic_Sight.png",
     "link": "https://en.gfwiki.com/wiki/LRA_2-12x50"
+  },
+    "14": {
+    "name": "AC2 Silencer",
+    "rarity": "3",
+    "type": "Silencer",
+    "craft": "00:22:00",
+    "stats": "Critical Hit Rate +6-8%, Evasion +3",
+    "use": "HG, SMG, AR, RF",
+    "image": "https://en.gfwiki.com/images/c/cc/Generic_Silencer.png",
+    "link": "https://en.gfwiki.com/wiki/AC2_Silencer"
+  },
+  "15": {
+    "name": "EOT 512",
+    "rarity": "3",
+    "type": "Holographic Sight",
+    "craft": "00:23:00",
+    "stats": "Accuracy +2, Damage +1-2, ROF -2",
+    "use": "SMG, AR, MG, RF, SG",
+    "image": "https://en.gfwiki.com/images/1/12/Generic_Holographic_Sight.png",
+    "link": "https://en.gfwiki.com/wiki/EOT_512"
+  },
+    "16": {
+    "name": "PEQ-5",
+    "rarity": "3",
+    "type": "Night Combat Equipment",
+    "craft": "00:24:00",
+    "stats": "Night Vision +61-70%",
+    "use": "HG, SMG, AR, SG",
+    "image": "https://images-ext-1.discordapp.net/external/JyA3y3U1nYjsO74vAW8Es4Qgqo95S3yYzavI2QXV3nM/https/i.imgur.com/o03gzHo.png",
+    "link": "https://en.gfwiki.com/wiki/PEQ-5"
+  },
+    "17": {
+    "name": "AMP COMPM4",
+    "rarity": "3",
+    "type": "Red Dot Sight",
+    "craft": "00:25:00",
+    "stats": "Accuracy +4-6, ROF -1 - -2",
+    "use": "SMG, AR, MG, RF, SG",
+    "image": "https://images-ext-1.discordapp.net/external/JyA3y3U1nYjsO74vAW8Es4Qgqo95S3yYzavI2QXV3nM/https/i.imgur.com/o03gzHo.png",
+    "link": "https://en.gfwiki.com/wiki/AMP_COMPM4"
+  },
+      "18": {
+    "name": "Type 1 Ballistic Plate",
+    "rarity": "3",
+    "type": "Ballistic Plate",
+    "craft": "00:26:00",
+    "stats": "Evasion -1, Armor +4-5",
+    "use": "SG",
+    "image": "https://images-ext-2.discordapp.net/external/X7dZwmP41YTJiUkYmkBPXMYohvuPrG84JS9VNCpef0s/https/i.imgur.com/XVFyhjz.png",
+    "link": "https://en.gfwiki.com/wiki/Type_1_Ballistic_Plate"
+  },
+      "19": {
+    "name": "IOP X2 Exoskeleton",
+    "rarity": "3",
+    "type": "Exoskeleton",
+    "craft": "00:27:00",
+    "stats": "Evasion +4-5",
+    "use": "HG, SMG, AR",
+    "image": "https://en.gfwiki.com/images/6/68/Generic_Exoskeleton.png",
+    "link": "https://en.gfwiki.com/wiki/IOP_X2_Exoskeleton"
+  },          
+ "20": {
+    "name": "ILM Hollow Point (3 Star)",
+    "rarity": "3",
+    "type": "Ammo",
+    "craft": "00:28:00",
+    "stats": "Damage +2-3, Armor Penetration -2 - -3",
+    "use": "HG, SMG",
+    "image": "https://images-ext-2.discordapp.net/external/NzxC1mK2_e1Jv1O6uo-Hi3R8NEBr8nbJ7gqNr7c_3Fo/https/i.imgur.com/yfIIgZi.png",
+    "link": "https://en.gfwiki.com/wiki/ILM_Hollow_Point_(3-Star)"
+  },           
+  "21": {
+    "name": "FST Slug Ammo",
+    "rarity": "3",
+    "type": "Ammo",
+    "craft": "00:29:00",
+    "stats": "Target -2, Damage *3, Accuracy +8-12",
+    "use": "SG",
+    "image": "https://en.gfwiki.com/images/5/58/Generic_Slug_Shotgun_Ammo.png",
+    "link": "https://en.gfwiki.com/wiki/FST_Slug_Ammo"
+  },
+    "22": {
+    "name": "#0 Buckshot Ammo",
+    "rarity": "3",
+    "type": "Ammo",
+    "craft": "00:29:00",
+    "stats": "Damage +2-3, Critical Hit Damage +5-6%",
+    "use": "SG",
+    "image": "https://images-ext-1.discordapp.net/external/kSQm0hjo1PQT-xtvPKRwOi4oMdeD2JnUHbbIqu4iDV0/https/i.imgur.com/Y29Y6nK.png",
+    "link": "https://en.gfwiki.com/wiki/%EF%BC%830_Buckshot_Ammo"
+  },
+ "23": {
+    "name": "M993 Armor Piercing Ammo",
+    "rarity": "3",
+    "type": "Ammo",
+    "craft": "00:30:00",
+    "stats": "Armor Penetration +40-50",
+    "use": "MG, RF",
+    "image": "https://en.gfwiki.com/images/3/30/Generic_Armor-Piercing_Ammo.png",
+    "link": "https://en.gfwiki.com/wiki/M993_Armor-Piercing_Ammo"
+  },
+ "24": {
+    "name": "Camouflage Cape",
+    "rarity": "3",
+    "type": "Camouflage",
+    "craft": "00:31:00",
+    "stats": "Movement Speed -3, Critical Hit Damage +5-7%",
+    "use": "RF",
+    "image": "https://images-ext-2.discordapp.net/external/h9Y1QiVPsUsTNJr5ID1oS1o0nxE_6MCupzZSjrIezeo/https/i.imgur.com/NIk5UJQ.png?width=80&height=80",
+    "link": "https://en.gfwiki.com/wiki/Ragged_Cape"
+  },
+  "25": {
+    "name": "JSP High-Velocity Ammo",
+    "rarity": "3",
+    "type": "Ammo",
+    "craft": "00:33:00",
+    "stats": "Damage +2-4",
+    "use": "AR",
+    "image": "https://en.gfwiki.com/images/4/41/Generic_High-Velocity_Ammo.png",
+    "link": "https://en.gfwiki.com/wiki/JSP_High-Velocity_Ammo"
+  },
+    "26": {
+    "name": "PSO-1 Telescopic Sight",
+    "rarity": "4",
+    "type": "Telescopic Sight",
+    "craft": "00:35:00",
+    "stats": "Critical Hit Chance +13-16%",
+    "use": "SMG, AR, MG, RF, SG",
+    "image": "https://en.gfwiki.com/images/0/06/Generic_Telescopic_Sight.png",
+    "link": "https://en.gfwiki.com/wiki/PSO-1_Telescopic_Sight"
+  },
+    "27": {
+    "name": "AC3 Silencer",
+    "rarity": "4",
+    "type": "Silencer",
+    "craft": "00:37:00",
+    "stats": "Evasion +4-5, Critical hit rate +9-11",
+    "use": "SMG, AR, RF, SG",
+    "image": "https://en.gfwiki.com/images/c/cc/Generic_Silencer.png",
+    "link": "https://en.gfwiki.com/wiki/AC3_Silencer"
+  },
+    "28": {
+    "name": "EOT 516",
+    "rarity": "4",
+    "type": "Holographic Sight",
+    "craft": "00:38:00",
+    "stats": "Accuracy +3-5, Damage +2-3, ROF -3 - -4",
+    "use": "SMG, AR, MG, RF, SG",
+    "image": "https://en.gfwiki.com/images/1/12/Generic_Holographic_Sight.png",
+    "link": "https://en.gfwiki.com/wiki/EOT_516"
+  },
+      "29": {
+    "name": "PEQ-15",
+    "rarity": "4",
+    "type": "Night Combat Equipment",
+    "craft": "00:39:00",
+    "stats": "Night Vision +76-85%",
+    "use": "HG, SMG, AR, SG",
+    "image": "https://images-ext-1.discordapp.net/external/JyA3y3U1nYjsO74vAW8Es4Qgqo95S3yYzavI2QXV3nM/https/i.imgur.com/o03gzHo.png",
+    "link": "https://en.gfwiki.com/wiki/PEQ-15"
+  },
+      "30": {
+    "name": "COG M150",
+    "rarity": "4",
+    "type": "Red Dot Sight",
+    "craft": "00:40:00",
+    "stats": "Accuracy +7-10, ROF -1",
+    "use": "SMG, AR, MG, RF, SG",
+    "image": "https://images-ext-1.discordapp.net/external/JyA3y3U1nYjsO74vAW8Es4Qgqo95S3yYzavI2QXV3nM/https/i.imgur.com/o03gzHo.png",
+    "link": "https://en.gfwiki.com/wiki/COG_M150"
+  },
+"31": {
+    "name": "Type 2 Ballistic Plate",
+    "rarity": "4",
+    "type": "Ballistic Plate",
+    "craft": "00:41:00",
+    "stats": "Evasion -1, Armor +4-5",
+    "use": "SG",
+    "image": "https://images-ext-2.discordapp.net/external/X7dZwmP41YTJiUkYmkBPXMYohvuPrG84JS9VNCpef0s/https/i.imgur.com/XVFyhjz.png",
+    "link": "https://en.gfwiki.com/wiki/Type_2_Ballistic_Plate"
+  },
+"32": {
+    "name": "IOP T2 Exoskeleton",
+    "rarity": "3",
+    "type": "Exoskeleton",
+    "craft": "00:27:00",
+    "stats": "Evasion +12, Damage -4",
+    "use": "HG, SMG, AR",
+    "image": "https://en.gfwiki.com/images/6/68/Generic_Exoskeleton.png",
+    "link": "https://en.gfwiki.com/wiki/IOP_T2_Exoskeleton"
+  }, 
+"33": {
+    "name": "IOP T3 Exoskeleton",
+    "rarity": "4",
+    "type": "Exoskeleton",
+    "craft": "00:42:00",
+    "stats": "Evasion +14-16, Damage -5 - -6",
+    "use": "HG, SMG, AR",
+    "image": "https://en.gfwiki.com/images/6/68/Generic_Exoskeleton.png",
+    "link": "https://en.gfwiki.com/wiki/IOP_T3_Exoskeleton"
+  }, 
+"34": {
+    "name": "IOP X3 Exoskeleton",
+    "rarity": "4",
+    "type": "Exoskeleton",
+    "craft": "00:42:00",
+    "stats": "Evasion +6-7",
+    "use": "HG, SMG, AR",
+    "image": "https://en.gfwiki.com/images/6/68/Generic_Exoskeleton.png",
+    "link": "https://en.gfwiki.com/wiki/IOP_X3_Exoskeleton"
+  }, 
+   "35": {
+    "name": "ILM Hollow Point (4 Star)",
+    "rarity": "4",
+    "type": "Ammo",
+    "craft": "00:43:00",
+    "stats": "Damage +4-6, Armor Penetration -4 - -6",
+    "use": "HG, SMG",
+    "image": "https://images-ext-2.discordapp.net/external/NzxC1mK2_e1Jv1O6uo-Hi3R8NEBr8nbJ7gqNr7c_3Fo/https/i.imgur.com/yfIIgZi.png",
+    "link": "https://en.gfwiki.com/wiki/ILM_Hollow_Point_(4-Star)"
+  }, 
+      "36": {
+    "name": "#00 Buckshot Ammo",
+    "rarity": "4",
+    "type": "Ammo",
+    "craft": "00:44:00",
+    "stats": "Damage +4-6, Critical Hit Damage +7-9%",
+    "use": "SG",
+    "image": "https://images-ext-1.discordapp.net/external/kSQm0hjo1PQT-xtvPKRwOi4oMdeD2JnUHbbIqu4iDV0/https/i.imgur.com/Y29Y6nK.png",
+    "link": "https://en.gfwiki.com/wiki/%EF%BC%8300_Buckshot_Ammo"
+  },
+    "37": {
+    "name": "WAD Slug Ammo",
+    "rarity": "4",
+    "type": "Ammo",
+    "craft": "00:44:00",
+    "stats": "Target -2, Damage *3, Accuracy +5-7",
+    "use": "SG",
+    "image": "https://en.gfwiki.com/images/5/58/Generic_Slug_Shotgun_Ammo.png",
+    "link": "https://en.gfwiki.com/wiki/WAD_Slug_Ammo"
+  },
+      "38": {
+    "name": "VFL 6-24x56",
+    "rarity": "4",
+    "type": "Telescopic Sight",
+    "craft": "00:45:00",
+    "stats": "Critical Hit Chance +17-24%",
+    "use": "SMG, AR, MG, RF, SG",
+    "image": "https://en.gfwiki.com/images/0/06/Generic_Telescopic_Sight.png",
+    "link": "https://en.gfwiki.com/wiki/VFL_6-24x56"
+  },
+   "39": {
+    "name": "Mk169 Armor Piercing Ammo",
+    "rarity": "4",
+    "type": "Ammo",
+    "craft": "00:45:00",
+    "stats": "Armor Penetration +55-65",
+    "use": "MG, RF",
+    "image": "https://en.gfwiki.com/images/3/30/Generic_Armor-Piercing_Ammo.png",
+    "link": "https://en.gfwiki.com/wiki/Mk169_Armor-Piercing_Ammo"
+  },
+   "40": {
+    "name": "Urban Camo Cape",
+    "rarity": "4",
+    "type": "Camouflage",
+    "craft": "00:46:00",
+    "stats": "Movement Speed -3, Critical Hit Damage +8-10%",
+    "use": "RF",
+    "image": "https://images-ext-2.discordapp.net/external/h9Y1QiVPsUsTNJr5ID1oS1o0nxE_6MCupzZSjrIezeo/https/i.imgur.com/NIk5UJQ.png?width=80&height=80",
+    "link": "https://en.gfwiki.com/wiki/Urban_Camo_Cape"
+  },
+      "41": {
+    "name": "AC4 Silencer",
+    "rarity": "5",
+    "type": "Silencer",
+    "craft": "00:47:00",
+    "stats": "Evasion +6-8, Critical hit rate +12-15",
+    "use": "SMG, AR, RF, SG",
+    "image": "https://en.gfwiki.com/images/c/cc/Generic_Silencer.png",
+    "link": "https://en.gfwiki.com/wiki/AC4_Silencer"
+  },
+        "42": {
+    "name": "IOP High-Capacity Ammo Box",
+    "rarity": "5",
+    "type": "Ammo Box",
+    "craft": "00:47:00",
+    "stats": "Clip Size +1, Evasion -1",
+    "use": "MG",
+    "image": "https://en.gfwiki.com/images/2/20/Generic_Ammo_Box.png",
+    "link": "https://en.gfwiki.com/wiki/IOP_High-Capacity_Ammo_Box"
+  },
+  "43": {
+    "name": "JHP High-Velocity Ammo",
+    "rarity": "4",
+    "type": "Ammo",
+    "craft": "00:48:00",
+    "stats": "Damage +3-6",
+    "use": "AR",
+    "image": "https://en.gfwiki.com/images/4/41/Generic_High-Velocity_Ammo.png",
+    "link": "https://en.gfwiki.com/wiki/JHP_High-Velocity_Ammo"
+  },
+        "44": {
+    "name": "EOT 518",
+    "rarity": "5",
+    "type": "Holographic Sight",
+    "craft": "00:48:00",
+    "stats": "Accuracy +6-10, Damage +4-6, ROF -4 - -6",
+    "use": "SMG, AR, MG, RF, SG",
+    "image": "https://en.gfwiki.com/images/1/12/Generic_Holographic_Sight.png",
+    "link": "https://en.gfwiki.com/wiki/EOT_518"
+  }, 
+    "45": {
+    "name": "PEQ-16A",
+    "rarity": "5",
+    "type": "Night Combat Equipment",
+    "craft": "00:49:00",
+    "stats": "Night Vision +91-100%",
+    "use": "HG, SMG, AR, SG",
+    "image": "https://images-ext-1.discordapp.net/external/JyA3y3U1nYjsO74vAW8Es4Qgqo95S3yYzavI2QXV3nM/https/i.imgur.com/o03gzHo.png",
+    "link": "https://en.gfwiki.com/wiki/PEQ-16A"
+  },
+      "46": {
+    "name": "ITI Mars",
+    "rarity": "5",
+    "type": "Red Dot Sight",
+    "craft": "00:50:00",
+    "stats": "Accuracy +11-15, ROF -1 - -4",
+    "use": "SMG, AR, MG, RF, SG",
+    "image": "https://en.gfwiki.com/images/f/f9/Generic_Red_Dot_Sight.png",
+    "link": "https://en.gfwiki.com/wiki/ITI_Mars"
+  },
+        "47": {
+    "name": "Type 3 Ballistic Plate",
+    "rarity": "5",
+    "type": "Ballistic Plate",
+    "craft": "00:51:00",
+    "stats": "Evasion -2 - -3, Armor +6-8",
+    "use": "SG",
+    "image": "https://images-ext-2.discordapp.net/external/X7dZwmP41YTJiUkYmkBPXMYohvuPrG84JS9VNCpef0s/https/i.imgur.com/XVFyhjz.png",
+    "link": "https://en.gfwiki.com/wiki/Type_3_Ballistic_Plate"
+  },
+  "48": {
+    "name": "IOP X4 Exoskeleton",
+    "rarity": "5",
+    "type": "Exoskeleton",
+    "craft": "00:52:00",
+    "stats": "Evasion +8-12",
+    "use": "HG, SMG, AR",
+    "image": "https://en.gfwiki.com/images/6/68/Generic_Exoskeleton.png",
+    "link": "https://en.gfwiki.com/wiki/IOP_X4_Exoskeleton"
+  }, 
+    "49": {
+    "name": "IOP T4 Exoskeleton",
+    "rarity": "5",
+    "type": "Exoskeleton",
+    "craft": "00:52:00",
+    "stats": "Evasion +20-25, Damage -6 - -8",
+    "use": "HG, SMG, AR",
+    "image": "https://en.gfwiki.com/images/6/68/Generic_Exoskeleton.png",
+    "link": "https://en.gfwiki.com/wiki/IOP_T4_Exoskeleton"
+  }, 
+  "50": {  
+    "name": "ILM Hollow Point (5 Star)",
+    "rarity": "5",
+    "type": "Ammo",
+    "craft": "00:53:00",
+    "stats": "Damage +7-10, Armor Penetration -7 = -10",
+    "use": "HG, SMG",
+    "image": "https://images-ext-2.discordapp.net/external/NzxC1mK2_e1Jv1O6uo-Hi3R8NEBr8nbJ7gqNr7c_3Fo/https/i.imgur.com/yfIIgZi.png",
+    "link": "https://en.gfwiki.com/wiki/ILM_Hollow_Point"
+  },
+"51": {
+    "name": "SABOT Slug Ammo",
+    "rarity": "5",
+    "type": "Ammo",
+    "craft": "00:54:00",
+    "stats": "Target -2, Damage *3, Accuracy +8-12",
+    "use": "SG",
+    "image": "https://en.gfwiki.com/images/5/58/Generic_Slug_Shotgun_Ammo.png",
+    "link": "https://en.gfwiki.com/wiki/SABOT_Slug_Ammo"
+  },
+      "52": {
+    "name": "#000 Buckshot Ammo",
+    "rarity": "5",
+    "type": "Ammo",
+    "craft": "00:54:00",
+    "stats": "Damage +7-10, Critical Hit Damage +10-15%",
+    "use": "SG",
+    "image": "https://images-ext-1.discordapp.net/external/kSQm0hjo1PQT-xtvPKRwOi4oMdeD2JnUHbbIqu4iDV0/https/i.imgur.com/Y29Y6nK.png",
+    "link": "https://en.gfwiki.com/wiki/%EF%BC%83000_Buckshot_Ammo"
+  },
+"53": {
+    "name": "Mk211 High Explosive Armor-Piercing Ammo",
+    "rarity": "5",
+    "type": "Ammo",
+    "craft": "00:55:00",
+    "stats": "Armor Penetration +370-80",
+    "use": "MG, RF",
+    "image": "https://en.gfwiki.com/images/3/30/Generic_Armor-Piercing_Ammo.png",
+    "link": "https://en.gfwiki.com/wiki/Mk211_High_Explosive_Armor-Piercing_Ammo"
+  },
+"54": {
+    "name": "Termoptic Camo Cape",
+    "rarity": "2",
+    "type": "Camouflage",
+    "craft": "00:56:00",
+    "stats": "Critical Damage +11-15&, Movement Speed -3",
+    "use": "RF",
+    "image": "https://images-ext-2.discordapp.net/external/h9Y1QiVPsUsTNJr5ID1oS1o0nxE_6MCupzZSjrIezeo/https/i.imgur.com/NIk5UJQ.png?width=80&height=80",
+    "link": "https://en.gfwiki.com/wiki/Thermoptic_Camo_Cape"
+  },
+"55": {
+    "name": "IOP Extreme Ammo Box",
+    "rarity": "5",
+    "type": "Ammo Box",
+    "craft": "00:57:00",
+    "stats": "Clip Size +2-3, Evasion --2 - -3",
+    "use": "MG",
+    "image": "https://en.gfwiki.com/images/2/20/Generic_Ammo_Box.png",
+    "link": "https://en.gfwiki.com/wiki/IOP_Extreme_Ammo_Box"
+  },
+  "56": {
+    "name": "APCR High-Velocity Ammo",
+    "rarity": "5",
+    "type": "Ammo",
+    "craft": "00:58:00",
+    "stats": "Damage +8-12",
+    "use": "AR",
+    "image": "https://en.gfwiki.com/images/4/41/Generic_High-Velocity_Ammo.png",
+    "link": "https://en.gfwiki.com/wiki/APCR_High-Velocity_Ammo"
   }
 }
