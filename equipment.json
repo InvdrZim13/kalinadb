@@ -16,5 +16,23 @@
     "stats": "Crit Hit Rate +5, Evasion +2",
     "image": "https://en.gfwiki.com/images/c/cc/Generic_Silencer.png",
     "link": "https://en.gfwiki.com/wiki/AC1_Silencer"
+  },
+      "3": {
+    "name": "EOT 506",
+    "rarity": "2",
+    "type": "Holographic Sight",
+    "craft": "00:08:00",
+    "stats": "Accuracy +1, Damage +1, ROF -1",
+    "image": "https://en.gfwiki.com/images/1/12/Generic_Holographic_Sight.png",
+    "link": "https://en.gfwiki.com/wiki/EOT_506"
+  } ,     
+  "4": {
+    "name": "PEQ-2",
+    "rarity": "2",
+    "type": "Night Combat Equipment",
+    "craft": "00:09:00",
+    "stats": "Night Vision +52%",
+    "image": "https://images-ext-1.discordapp.net/external/JyA3y3U1nYjsO74vAW8Es4Qgqo95S3yYzavI2QXV3nM/https/i.imgur.com/o03gzHo.png",
+    "link": "https://en.gfwiki.com/wiki/PEQ-2"
   }
 }
