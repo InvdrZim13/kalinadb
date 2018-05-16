@@ -4,8 +4,17 @@
     "rarity": "2",
     "type": "Telescopic Sight",
     "craft": "00:05:00",
-    "stats": "Crit +5-8%",
+    "stats": "Crit Chance +5-8%",
     "image": "https://en.gfwiki.com/images/0/06/Generic_Telescopic_Sight.png",
     "link": "https://en.gfwiki.com/wiki/BM_3-12X40"
+  },
+    "2": {
+    "name": "AC1 Silencer",
+    "rarity": "2",
+    "type": "Silencer",
+    "craft": "00:07:00",
+    "stats": "Crit Hit Rate +5, Evasion +2",
+    "image": "https://en.gfwiki.com/images/c/cc/Generic_Silencer.png",
+    "link": "https://en.gfwiki.com/wiki/AC1_Silencer"
   }
 }
