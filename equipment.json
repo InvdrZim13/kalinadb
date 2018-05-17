@@ -524,7 +524,7 @@
     "rarity": "5",
     "type": "Ammo",
     "craft": "00:55:00",
-    "stats": "Armor Penetration +370-80",
+    "stats": "Armor Penetration +70-80",
     "use": "MG, RF",
     "image": "https://en.gfwiki.com/images/3/30/Generic_Armor-Piercing_Ammo.png",
     "link": "https://en.gfwiki.com/wiki/Mk211_High_Explosive_Armor-Piercing_Ammo"
