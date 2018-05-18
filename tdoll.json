@@ -144,6 +144,7 @@
     "skill": "Cover Command",
     "skillDesc": "Increases all allies evasion by 55% for 8 seconds. (12s CD, 6s initial CD)",
     "tile": ":black_circle: :large_blue_circle: :large_blue_circle:\n:black_circle: :white_circle: :black_circle:\n:black_circle: :large_blue_circle: :large_blue_circle:",
+    "formBonus": "Increases ROF by 10% (x1), increases accuracy by 25% (x1)",
     "image": "https://en.gfwiki.com/images/7/7f/Tokarev_S.png",
     "link": "https://en.gfwiki.com/wiki/Tokarev",
     "note": "\n"
