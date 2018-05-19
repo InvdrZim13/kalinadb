@@ -558,5 +558,15 @@
     "use": "AR",
     "image": "https://en.gfwiki.com/images/4/41/Generic_High-Velocity_Ammo.png",
     "link": "https://en.gfwiki.com/wiki/APCR_High-Velocity_Ammo"
+  },
+    "57": {
+    "name": ".300BLK High-Velocity Ammo",
+    "rarity": "5",
+    "type": "Ammo",
+    "craft": "Drop Only",
+    "stats": "Damage +12-16, Accuracy -1 - -5",
+    "use": "AR-15",
+    "image": "https://en.gfwiki.com/images/f/ff/.300BLK_High-Velocity_Ammo.png",
+    "link": "https://en.gfwiki.com/wiki/.300BLK_High-Velocity_Ammo"
   }
 }
