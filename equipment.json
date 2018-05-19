@@ -563,10 +563,80 @@
     "name": ".300BLK High-Velocity Ammo",
     "rarity": "5",
     "type": "Ammo",
-    "craft": "Drop Only",
+    "craft": "Drop Only (3-4N)",
     "stats": "Damage +12-16, Accuracy -1 - -5",
     "use": "AR-15",
     "image": "https://en.gfwiki.com/images/f/ff/.300BLK_High-Velocity_Ammo.png",
     "link": "https://en.gfwiki.com/wiki/.300BLK_High-Velocity_Ammo"
+  },
+      "58": {
+    "name": "Blue Thickened Cape",
+    "rarity": "5",
+    "type": "Camouflage",
+    "craft": "Can be exchanged for 100 Easter eggs during the 2018 Easter Egg Frag Delay event.",
+    "stats": "Crit Damage +11-15%, ROF +1, Movement -3 - -5",
+    "use": "PTRD",
+    "image": "https://en.gfwiki.com/images/2/29/Blue_Thickened_Cape.png",
+    "link": "https://en.gfwiki.com/wiki/Blue_Thickened_Cape"
+  },
+        "59": {
+    "name": "GSG UX Exoskeleton",
+    "rarity": "5",
+    "type": "Exoskeleton",
+    "craft": "Drop Only (4-4N)",
+    "stats": "Evasion +30-45%, Damage -6 - -10",
+    "use": "MP5",
+    "image": "https://en.gfwiki.com/images/c/cf/GSG_UX_Exoskeleton.png",
+    "link": "https://en.gfwiki.com/wiki/GSG_UX_Exoskeleton"
+  },
+          "60": {
+    "name": "Hayha Memory Chip",
+    "rarity": "5",
+    "type": "Microchip",
+    "craft": "Drop Only (5-4N)",
+    "stats": "Damage +18-25, Evasion +2-4, Crit Damage +15-20%",
+    "use": "Mosin-Nagant",
+    "image": "https://en.gfwiki.com/images/a/a6/Hayha_Memory_Chip.png",
+    "link": "https://en.gfwiki.com/wiki/Hayha_Memory_Chip"
+  },
+            "61": {
+    "name": "Light Weight Rail System",
+    "rarity": "5",
+    "type": "Special",
+    "craft": "Special equipment given to player after stage 3 Digi-mind upgrade of ST AR-15.",
+    "stats": "Crit Damage +11-15%, Accuracy +4-6",
+    "use": "ST AR-15",
+    "image": "https://en.gfwiki.com/images/2/25/Light_Weight_Rail_System.png",
+    "link": "https://en.gfwiki.com/wiki/Light_Weight_Rail_System"
+  },
+              "62": {
+    "name": "Match Grade Armor-Piercing Ammo",
+    "rarity": "5",
+    "type": "Ammo",
+    "craft": "Drop only (1-4N)",
+    "stats": "Armor penetration +75-85, ROF +1-8",
+    "use": "Springfield",
+    "image": "https://en.gfwiki.com/images/2/25/Match_Grade_Armor-Piercing_Ammo.png",
+    "link": "https://en.gfwiki.com/wiki/Match_Grade_Armor-Piercing_Ammo"
+  },
+                "63": {
+    "name": "Titan Fire Control Chip",
+    "rarity": "5",
+    "type": "Microchip",
+    "craft": "Drop only (2-4N)",
+    "stats": "Clip size +3-4, Damage -2 - -4, ROF -1 - -8",
+    "use": "M1918",
+    "image": "https://en.gfwiki.com/images/e/e1/Titan_Fire_Control_Chip.png",
+    "link": "https://en.gfwiki.com/wiki/Titan_Fire_Control_Chip"
+  }
+                "64": {
+    "name": "UMP UX Exoskeleton",
+    "rarity": "5",
+    "type": "Exoskeleton",
+    "craft": "Obtainable during the 2017 Summer event Operation Deep Dive",
+    "stats": "Evasion +20-25, Crit Damage +11-15%",
+    "use": "UMP9, UMP40, UMP45",
+    "image": "https://en.gfwiki.com/images/a/a4/UMP_UX_Exoskeleton.png",
+    "link": "https://en.gfwiki.com/wiki/UMP_UX_Exoskeleton"
   }
 }
