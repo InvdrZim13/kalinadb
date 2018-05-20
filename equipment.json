@@ -613,7 +613,7 @@
     "name": "Match Grade Armor-Piercing Ammo",
     "rarity": "5",
     "type": "Ammo",
-    "craft": "Drop only (1-4N)",
+    "craft": "1-4N",
     "stats": "Armor penetration +75-85, ROF +1-8",
     "use": "Springfield",
     "image": "https://en.gfwiki.com/images/2/25/Match_Grade_Armor-Piercing_Ammo.png",
