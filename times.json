@@ -1,17 +1,757 @@
-{
-	"5": {
-  "name": "0:05",
-	"dollList": "No T-dolls with this build time",
-	"equipList": "BM 3-12X40"
+{ 
+"5": {
+    "name": "0:05",
+    "dollList": "No T-dolls with this build time",
+    "equipList": "BM 3-12X40"
 },
-"7": {
-  "name": "0:07",
-	"dollList": "No T-dolls with this build time",
-	"equipList": "AC1 Suppressor"
+
+    "7": {
+    "name": "0:07",
+    "dollList": "No T-dolls with this build time",
+    "equipList": "BM 3-12X40"
 },
-"100": {
-  "name": "1:00",
-	"dollList": "Welrod MkII",
-	"equipList": "No equipment with this build time."
+
+    "8": {
+    "name": "0:08",
+    "dollList": "No T-dolls with this build time",
+    "equipList": "EOT 506"
+},
+
+    "9": {
+    "name": "0:09",
+    "dollList": "No T-dolls with this build time",
+    "equipList": "PEQ-2"
+},
+
+    "10": {
+    "name": "0:10",
+    "dollList": "No T-dolls with this build time",
+    "equipList": "AMP COMPM2"
+},
+
+    "12": {
+    "name": "0:12",
+    "dollList": "No T-dolls with this build time",
+    "equipList": "IOP X1 Exoskeleton, IOP T1 Exoskeleton"
+},
+
+    "13": {
+    "name": "0:13",
+    "dollList": "No T-dolls with this build time",
+    "equipList": "ILM Hollow Point Ammo (2*)"
+},
+
+    "14": {
+    "name": "0:14",
+    "dollList": "No T-dolls with this build time",
+    "equipList": "#1 Buckshot Ammo, BK Slug Ammo"
+},
+
+    "15": {
+    "name": "0:15",
+    "dollList": "No T-dolls with this build time",
+    "equipList": "ILM Hollow Point Ammo (2*)"
+},
+
+    "16": {
+    "name": "0:16",
+    "dollList": "No T-dolls with this build time",
+    "equipList": "Ragged Cape"
+},
+
+    "18": {
+    "name": "0:18",
+    "dollList": "No T-dolls with this build time",
+    "equipList": "FMJ High-Velocity Ammo"
+},
+
+    "20": {
+    "name": "0:20",
+    "dollList": "M1911, M1895, P38",
+    "equipList": "LRA 2-12x50"
+},
+
+    "22": {
+    "name": "0:22",
+    "dollList": "PPK",
+    "equipList": "AC2 Suppressor"
+},
+
+    "23": {
+    "name": "0:23",
+    "dollList": "No T-dolls with this build time",
+    "equipList": "EOT 512"
+},
+
+    "24": {
+    "name": "0:24",
+    "dollList": "No T-dolls with this build time",
+    "equipList": "PEQ-5"
+},
+
+    "25": {
+    "name": "0:25",
+    "dollList": "FF FNP9, MP-446",
+    "equipList": "AMP COMPM4"
+},
+
+    "26": {
+    "name": "0:26",
+    "dollList": "No T-dolls with this build time",
+    "equipList": "Type 1 Ballistic Plate"
+},
+
+    "27": {
+    "name": "0:27",
+    "dollList": "No T-dolls with this build time",
+    "equipList": "IOP X2 Exoskeleton"
+},
+
+    "28": {
+    "name": "0:28",
+    "dollList": "USP Compact, Bren Ten",
+    "equipList": "ILM Hollow Point Ammo (3*)"
+},
+
+    "29": {
+    "name": "0:29",
+    "dollList": "No T-dolls with this build time",
+    "equipList": "FST Slug Ammo, #0 Buckshot Ammo"
+},
+
+    "30": {
+    "name": "0:30",
+    "dollList": "C96, P08",
+    "equipList": "M993 Armor-Piercing Ammo"
+},
+
+    "31": {
+    "name": "0:31",
+    "dollList": "No T-dolls with this build time",
+    "equipList": "Camouflage Cape"
+},
+
+    "33": {
+    "name": "0:33",
+    "dollList": "No T-dolls with this build time",
+    "equipList": "JSP High-Velocity Ammo"
+},
+
+    "35": {
+    "name": "0:35",
+    "dollList": "P99, Type 92",
+    "equipList": "PSO-1 Telescopic Sight"
+},
+
+    "37": {
+    "name": "0:37",
+    "dollList": "No T-dolls with this build time",
+    "equipList": "AC3 Suppressor"
+},
+
+    "38": {
+    "name": "0:38",
+    "dollList": "No T-dolls with this build time",
+    "equipList": "EOT 516"
+},
+
+    "39": {
+    "name": "0:39",
+    "dollList": "No T-dolls with this build time",
+    "equipList": "PEQ-15"
+},
+
+    "40": {
+    "name": "0:40",
+    "dollList": "Astra, M9, Makarov",
+    "equipList": "COG M150"
+},
+
+    "41": {
+    "name": "0:41",
+    "dollList": "No T-dolls with this build time",
+    "equipList": "Type 2 Ballistic Plate"
+},
+
+    "42": {
+    "name": "0:42",
+    "dollList": "No T-dolls with this build time",
+    "equipList": "IOP T3 Exoskeleton, IOP X3 Exoskeleton"
+},
+
+    "43": {
+    "name": "0:43",
+    "dollList": "No T-dolls with this build time",
+    "equipList": "ILM Hollow Point Ammo (4*)"
+},
+
+    "44": {
+    "name": "0:44",
+    "dollList": "No T-dolls with this build time",
+    "equipList": "#00 Buckshot Ammo, WAD Slug Ammo"
+},
+
+    "45": {
+    "name": "0:45",
+    "dollList": "Tokarev",
+    "equipList": "VFL 6-24x56, Mk169 Armor-Piercing Ammo"
+},
+
+    "46": {
+    "name": "0:46",
+    "dollList": "No T-dolls with this build time",
+    "equipList": "Urban Camouflage Cape"
+},
+
+    "47": {
+    "name": "0:47",
+    "dollList": "No T-dolls with this build time",
+    "equipList": "AC4 Suppressor, IOP High-Capacity Ammo Box"
+},
+
+    "48": {
+    "name": "0:48",
+    "dollList": "No T-dolls with this build time",
+    "equipList": "JHP High-Velocity Ammo, EOT 518"
+},
+
+    "49": {
+    "name": "0:49",
+    "dollList": "No T-dolls with this build time",
+    "equipList": "PEQ-16A"
+},
+
+    "50": {
+    "name": "0:50",
+    "dollList": "SAA, Gr Mk23",
+    "equipList": "ITI Mars"
+},
+
+    "51": {
+    "name": "0:51",
+    "dollList": "No T-dolls with this build time",
+    "equipList": "Type 3 Ballistic Plate"
+},
+
+    "52": {
+    "name": "0:52",
+    "dollList": "Spitfire",
+    "equipList": "IOP X4 Exoskeleton, IOP T4 Exoskeleton"
+},
+
+    "53": {
+    "name": "0:53",
+    "dollList": "K5",
+    "equipList": "ILM Hollow Point Ammo (5*)"
+},
+
+    "54": {
+    "name": "0:54",
+    "dollList": "No T-dolls with this build time",
+    "equipList": "SABOT Slug Ammo, #000 Buckshot Ammo"
+},
+
+    "55": {
+    "name": "0:55",
+    "dollList": "Stechkin, P7",
+    "equipList": "Mk211 High Explosive Armor-Piercing Ammo"
+},
+
+    "56": {
+    "name": "0:56",
+    "dollList": "No T-dolls with this build time",
+    "equipList": "Thermoptic Camouflage Cape"
+},
+
+    "57": {
+    "name": "0:57",
+    "dollList": "No T-dolls with this build time",
+    "equipList": "IOP Maximum Ammo Box"
+},
+
+    "58": {
+    "name": "0:58",
+    "dollList": "No T-dolls with this build time",
+    "equipList": "APCR High-Velocity Ammo"
+},
+
+    "60": {
+    "name": "1:00",
+    "dollList": "Welrod MkII",
+    "equipList": "No equipment with this build time"
+},
+
+    "62": {
+    "name": "1:02",
+    "dollList": "Contender",
+    "equipList": "No equipment with this build time"
+},
+
+    "65": {
+    "name": "1:05",
+    "dollList": "M950A, NZ75",
+    "equipList": "No equipment with this build time"
+},
+
+    "70": {
+    "name": "1:10",
+    "dollList": "Grizzly MkV, IDW, PP-2000",
+    "equipList": "No equipment with this build time"
+},
+
+    "80": {
+    "name": "1:20",
+    "dollList": "m45, Spectre M4",
+    "equipList": "No equipment with this build time"
+},
+
+    "85": {
+    "name": "1:25",
+    "dollList": "Type 64",
+    "equipList": "No equipment with this build time"
+},
+
+    "90": {
+    "name": "1:30",
+    "dollList": "M38, M3, MP40",
+    "equipList": "No equipment with this build time"
+},
+
+    "100": {
+    "name": "1:40",
+    "dollList": "Sten MkII, Micro Uzi",
+    "equipList": "No equipment with this build time"
+},
+
+    "110": {
+    "name": "1:50",
+    "dollList": "PPSh-41, F1",
+    "equipList": "No equipment with this build time"
+},
+
+    "120": {
+    "name": "2:00",
+    "dollList": "Ingram, Skorpion",
+    "equipList": "No equipment with this build time"
+},
+
+    "125": {
+    "name": "2:05",
+    "dollList": "Z-62",
+    "equipList": "No equipment with this build time"
+},
+
+    "130": {
+    "name": "2:10",
+    "dollList": "PPS-43",
+    "equipList": "No equipment with this build time"
+},
+
+    "135": {
+    "name": "2:15",
+    "dollList": "UMP9, UMP45",
+    "equipList": "No equipment with this build time"
+},
+
+    "138": {
+    "name": "2:18",
+    "dollList": "Shipka, PP-19-01",
+    "equipList": "No equipment with this build time"
+},
+
+    "140": {
+    "name": "2:20",
+    "dollList": "Gr MP5, PP-90",
+    "equipList": "No equipment with this build time"
+},
+
+    "145": {
+    "name": "2:25",
+    "dollList": "Suomi",
+    "equipList": "No equipment with this build time"
+},
+
+    "148": {
+    "name": "2:28",
+    "dollList": "C-MS",
+    "equipList": "No equipment with this build time"
+},
+
+    "150": {
+    "name": "2:30",
+    "dollList": "Gr G36C, Thompson",
+    "equipList": "No equipment with this build time"
+},
+
+    "153": {
+    "name": "2:33",
+    "dollList": "SR-3MP",
+    "equipList": "No equipment with this build time"
+},
+
+    "155": {
+    "name": "2:35",
+    "dollList": "Type 79, Vector",
+    "equipList": "No equipment with this build time"
+},
+
+    "160": {
+    "name": "2:40",
+    "dollList": "Galil, SIG-510",
+    "equipList": "No equipment with this build time"
+},
+
+    "165": {
+    "name": "2:45",
+    "dollList": "FF F2000, Type 63",
+    "equipList": "No equipment with this build time"
+},
+
+    "170": {
+    "name": "2:50",
+    "dollList": "Gr G3, L85A1",
+    "equipList": "No equipment with this build time"
+},
+
+    "180": {
+    "name": "3:00",
+    "dollList": "StG44",
+    "equipList": "No equipment with this build time"
+},
+
+    "190": {
+    "name": "3:10",
+    "dollList": "OTs-12, G43, FF FN49",
+    "equipList": "No equipment with this build time"
+},
+
+    "195": {
+    "name": "3:15",
+    "dollList": "ARX-160",
+    "equipList": "No equipment with this build time"
+},
+
+    "200": {
+    "name": "3:20",
+    "dollList": "AK-47, FFC, VM59",
+    "equipList": "No equipment with this build time"
+},
+
+    "205": {
+    "name": "3:25",
+    "dollList": "Type 56-1, XM8",
+    "equipList": "No equipment with this build time"
+},
+
+    "210": {
+    "name": "3:30",
+    "dollList": "AS Val, FMS, TAR-21, SVT-38, Simonov",
+    "equipList": "No equipment with this build time"
+},
+
+    "215": {
+    "name": "3:35",
+    "dollList": "9A-91",
+    "equipList": "No equipment with this build time"
+},
+
+    "220": {
+    "name": "3:40",
+    "dollList": "Gr G36, Ribeyrolles, M14, SV-98",
+    "equipList": "No equipment with this build time"
+},
+
+    "225": {
+    "name": "3:45",
+    "dollList": "FAL",
+    "equipList": "No equipment with this build time"
+},
+
+    "228": {
+    "name": "3:48",
+    "dollList": "T91",
+    "equipList": "No equipment with this build time"
+},
+
+    "230": {
+    "name": "3:50",
+    "dollList": "Type 95, Type 97, Hanyang Type 88, OTs-44",
+    "equipList": "No equipment with this build time"
+},
+
+    "232": {
+    "name": "3:52",
+    "dollList": "K2",
+    "equipList": "No equipment with this build time"
+},
+
+    "233": {
+    "name": "3:53",
+    "dollList": "MDR",
+    "equipList": "No equipment with this build time"
+},
+
+    "235": {
+    "name": "3:55",
+    "dollList": "416",
+    "equipList": "No equipment with this build time"
+},
+
+    "238": {
+    "name": "3:58",
+    "dollList": "RFB",
+    "equipList": "No equipment with this build time"
+},
+
+    "240": {
+    "name": "4:00",
+    "dollList": "M1 Garand",
+    "equipList": "No equipment with this build time"
+},
+
+    "244": {
+    "name": "4:04",
+    "dollList": "G11",
+    "equipList": "No equipment with this build time"
+},
+
+    "245": {
+    "name": "4:05",
+    "dollList": "Gr G41, Zas M21",
+    "equipList": "No equipment with this build time"
+},
+
+    "249": {
+    "name": "4:09",
+    "dollList": "AN-94",
+    "equipList": "No equipment with this build time"
+},
+
+    "250": {
+    "name": "4:10",
+    "dollList": "Mosin-Nagant, T-5000",
+    "equipList": "No equipment with this build time"
+},
+
+    "252": {
+    "name": "4:12",
+    "dollList": "AK-12",
+    "equipList": "No equipment with this build time"
+},
+
+    "255": {
+    "name": "4:15",
+    "dollList": "SVD",
+    "equipList": "No equipment with this build time"
+},
+
+    "260": {
+    "name": "4:20",
+    "dollList": "PSG-1, G28",
+    "equipList": "No equipment with this build time"
+},
+
+    "265": {
+    "name": "4:25",
+    "dollList": "Springfield",
+    "equipList": "No equipment with this build time"
+},
+
+    "270": {
+    "name": "4:30",
+    "dollList": "PTRD, PzB 39",
+    "equipList": "No equipment with this build time"
+},
+
+    "278": {
+    "name": "4:38",
+    "dollList": "Carcano M1891",
+    "equipList": "No equipment with this build time"
+},
+
+    "280": {
+    "name": "4:40",
+    "dollList": "Kar98k",
+    "equipList": "No equipment with this build time"
+},
+
+    "282": {
+    "name": "4:42",
+    "dollList": "Carcano M91/38",
+    "equipList": "No equipment with this build time"
+},
+
+    "285": {
+    "name": "4:45",
+    "dollList": "NTW-20",
+    "equipList": "No equipment with this build time"
+},
+
+    "290": {
+    "name": "4:50",
+    "dollList": "WA2000, AAT-52, FG42",
+    "equipList": "No equipment with this build time"
+},
+
+    "292": {
+    "name": "4:52",
+    "dollList": "IWS-2000",
+    "equipList": "No equipment with this build time"
+},
+
+    "295": {
+    "name": "4:55",
+    "dollList": "M99",
+    "equipList": "No equipment with this build time"
+},
+
+    "300": {
+    "name": "5:00",
+    "dollList": "Lee-Enfield, MG34, DP28",
+    "equipList": "No equipment with this build time"
+},
+
+    "310": {
+    "name": "5:10",
+    "dollList": "LWMMG",
+    "equipList": "No equipment with this build time"
+},
+
+    "320": {
+    "name": "5:20",
+    "dollList": "Bren",
+    "equipList": "No equipment with this build time"
+},
+
+    "340": {
+    "name": "5:40",
+    "dollList": "M1919A4",
+    "equipList": "No equipment with this build time"
+},
+
+    "350": {
+    "name": "5:50",
+    "dollList": "MG42",
+    "equipList": "No equipment with this build time"
+},
+
+    "370": {
+    "name": "6:10",
+    "dollList": "M60, M2HB",
+    "equipList": "No equipment with this build time"
+},
+
+    "375": {
+    "name": "6:15",
+    "dollList": "Type 80",
+    "equipList": "No equipment with this build time"
+},
+
+    "380": {
+    "name": "6:20",
+    "dollList": "Mk48, AEK-999",
+    "equipList": "No equipment with this build time"
+},
+
+    "385": {
+    "name": "6:25",
+    "dollList": "M1918, Ameli",
+    "equipList": "No equipment with this build time"
+},
+
+    "390": {
+    "name": "6:30",
+    "dollList": "PK, MG3",
+    "equipList": "No equipment with this build time"
+},
+
+    "395": {
+    "name": "6:35",
+    "dollList": "Negev",
+    "equipList": "No equipment with this build time"
+},
+
+    "400": {
+    "name": "6:40",
+    "dollList": "MG4",
+    "equipList": "No equipment with this build time"
+},
+
+    "405": {
+    "name": "6:45",
+    "dollList": "MG5",
+    "equipList": "No equipment with this build time"
+},
+
+    "410": {
+    "name": "6:50",
+    "dollList": "PKP",
+    "equipList": "No equipment with this build time"
+},
+
+    "435": {
+    "name": "7:15",
+    "dollList": "NS2000",
+    "equipList": "No equipment with this build time"
+},
+
+    "440": {
+    "name": "7:20",
+    "dollList": "M500",
+    "equipList": "No equipment with this build time"
+},
+
+    "445": {
+    "name": "7:25",
+    "dollList": "KS-23",
+    "equipList": "No equipment with this build time"
+},
+
+    "450": {
+    "name": "7:30",
+    "dollList": "RMB-93, M1897",
+    "equipList": "No equipment with this build time"
+},
+
+    "460": {
+    "name": "7:40",
+    "dollList": "M590, SPAS-12",
+    "equipList": "No equipment with this build time"
+},
+
+    "465": {
+    "name": "7:45",
+    "dollList": "M37",
+    "equipList": "No equipment with this build time"
+},
+
+    "470": {
+    "name": "7:50",
+    "dollList": "Super-Shorty",
+    "equipList": "No equipment with this build time"
+},
+
+    "475": {
+    "name": "7:55",
+    "dollList": "USAS-12",
+    "equipList": "No equipment with this build time"
+},
+
+    "480": {
+    "name": "8:00",
+    "dollList": "KSG",
+    "equipList": "No equipment with this build time"
+},
+
+    "485": {
+    "name": "8:05",
+    "dollList": "Saiga-12",
+    "equipList": "No equipment with this build time"
+},
+
+    "490": {
+    "name": "8:10",
+    "dollList": "S.A.T.8",
+    "equipList": "No equipment with this build time"
 }
 }
