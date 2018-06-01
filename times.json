@@ -4,9 +4,14 @@
 	"dollList": "No T-dolls with this build time",
 	"equipList": "BM 3-12X40"
 },
+"7": {
+  "name": "0:07",
+	"dollList": "No T-dolls with this build time",
+	"equipList": "AC1 Suppressor"
+},
 "100": {
   "name": "1:00",
-	"dollList": "Welrod",
+	"dollList": "Welrod MkII",
 	"equipList": "No equipment with this build time."
 }
 }
