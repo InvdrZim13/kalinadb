@@ -2965,7 +2965,7 @@
 	"baseROF": "49",
 	"maxROF": "75",
 	"skill1": "Cover Focus",
-	"skill1Desc": "Lv. 1: Increases own evasion by 60.0% for 3.0 seconds. (10.0s cooldown, 6s initial cooldown.)\nLv. 10: Increases own evasion by 60.0% for 3.0 seconds. (10.0s cooldown, 6s initial cooldown.)",
+	"skill1Desc": "Lv. 1: Increases own evasion by 60.0% for 3.0 seconds. (10.0s cooldown, 6s initial cooldown.)\nLv. 10: Increases own evasion by 110.0% for 3.0 seconds. (8.0s cooldown, 6s initial cooldown.)",
 	"skill2": "Lightning Carnival",
 	"skill2Desc": "Lv. 1: Start a battle with 3 bars of battery, each bar increasing rate of fire by 6% and damage by 12%. Consumes 1 bar of battery every 1.5 seconds. When IDW uses Cover Focus, battery replenishes back to 3. (Passive.)\nLv. 10: Start a battle with 3 bars of battery, each bar increasing rate of fire by 10% and damage by 20%. Consumes 1 bar of battery every 2.6 seconds. When IDW uses Cover Focus, battery replenishes back to 3. (Passive.)",
 	"tile": ":large_blue_circle: :black_circle: :black_circle:\n:large_blue_circle: :white_circle: :black_circle:\n:large_blue_circle: :black_circle: :black_circle:",
