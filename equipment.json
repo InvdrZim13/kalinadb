@@ -1,3000 +1,642 @@
-"00":{
-    "name": "0:00",
-    "dollList": "No dolls in 0:00",
-    "equipList": "No equipment in 0:00"
-},
-"01":{
-    "name": "0:01",
-    "dollList": "No dolls in 0:01",
-    "equipList": "No equipment in 0:01"
-},
-"02":{
-    "name": "0:02",
-    "dollList": "No dolls in 0:02",
-    "equipList": "No equipment in 0:02"
-},
-"03":{
-    "name": "0:03",
-    "dollList": "No dolls in 0:03",
-    "equipList": "No equipment in 0:03"
-},
-"04":{
-    "name": "0:04",
-    "dollList": "No dolls in 0:04",
-    "equipList": "No equipment in 0:04"
-},
-"05":{
-    "name": "0:05",
-    "dollList": "No dolls in 0:05",
-    "equipList": "BM 3-12X40"
-},
-"06":{
-    "name": "0:06",
-    "dollList": "No dolls in 0:06",
-    "equipList": "No equipment in 0:06"
-},
-"07":{
-    "name": "0:07",
-    "dollList": "No dolls in 0:07",
-    "equipList": "AC1 Suppressor"
-},
-"08":{
-    "name": "0:08",
-    "dollList": "No dolls in 0:08",
-    "equipList": "EOT 506"
-},
-"09":{
-    "name": "0:09",
-    "dollList": "No dolls in 0:09",
-    "equipList": "PEQ-2"
-},
-"10":{
-    "name": "0:10",
-    "dollList": "No dolls in 0:10",
-    "equipList": "AMP COMPM2"
-},
-"11":{
-    "name": "0:11",
-    "dollList": "No dolls in 0:11",
-    "equipList": "No equipment in 0:11"
-},
-"12":{
-    "name": "0:12",
-    "dollList": "No dolls in 0:12",
-    "equipList": "IOP X1 Exoskeleton, IOP T1 Exoskeleton"
-},
-"13":{
-    "name": "0:13",
-    "dollList": "No dolls in 0:13",
-    "equipList": "ILM Hollow Point Ammo (2-Star)"
-},
-"14":{
-    "name": "0:14",
-    "dollList": "No dolls in 0:14",
-    "equipList": "＃1 Buckshot Ammo, BK Slug Ammo"
-},
-"15":{
-    "name": "0:15",
-    "dollList": "No dolls in 0:15",
-    "equipList": "M61 Armor-Piercing Ammo"
-},
-"16":{
-    "name": "0:16",
-    "dollList": "No dolls in 0:16",
-    "equipList": "Ragged Cape"
-},
-"17":{
-    "name": "0:17",
-    "dollList": "No dolls in 0:17",
-    "equipList": "No equipment in 0:17"
-},
-"18":{
-    "name": "0:18",
-    "dollList": "No dolls in 0:18",
-    "equipList": "FMJ High-Velocity Ammo"
-},
-"19":{
-    "name": "0:19",
-    "dollList": "No dolls in 0:19",
-    "equipList": "No equipment in 0:19"
-},
-"20":{
-    "name": "0:20",
-    "dollList": "HG M1911, HG Nagant Revolver, HG P38",
-    "equipList": "LRA 2-12x50"
-},
-"21":{
-    "name": "0:21",
-    "dollList": "No dolls in 0:21",
-    "equipList": "No equipment in 0:21"
-},
-"22":{
-    "name": "0:22",
-    "dollList": "HG PPK",
-    "equipList": "AC2 Suppressor"
-},
-"23":{
-    "name": "0:23",
-    "dollList": "No dolls in 0:23",
-    "equipList": "EOT 512"
-},
-"24":{
-    "name": "0:24",
-    "dollList": "No dolls in 0:24",
-    "equipList": "PEQ-5"
-},
-"25":{
-    "name": "0:25",
-    "dollList": "HG FNP-9, HG MP-446",
-    "equipList": "AMP COMPM4"
-},
-"26":{
-    "name": "0:26",
-    "dollList": "No dolls in 0:26",
-    "equipList": "Type 1 Ballistic Plate"
-},
-"27":{
-    "name": "0:27",
-    "dollList": "No dolls in 0:27",
-    "equipList": "IOP T2 Exoskeleton, IOP X2 Exoskeleton"
-},
-"28":{
-    "name": "0:28",
-    "dollList": "HG USP Compact, HG Bren Ten",
-    "equipList": "ILM Hollow Point Ammo (3-Star)"
-},
-"29":{
-    "name": "0:29",
-    "dollList": "No dolls in 0:29",
-    "equipList": "FST Slug Ammo, ＃0 Buckshot Ammo"
-},
-"30":{
-    "name": "0:30",
-    "dollList": "HG C96, HG P08",
-    "equipList": "M993 Armor-Piercing Ammo"
-},
-"31":{
-    "name": "0:31",
-    "dollList": "No dolls in 0:31",
-    "equipList": "Camouflage Cape"
-},
-"32":{
-    "name": "0:32",
-    "dollList": "No dolls in 0:32",
-    "equipList": "No equipment in 0:32"
-},
-"33":{
-    "name": "0:33",
-    "dollList": "No dolls in 0:33",
-    "equipList": "JSP High-Velocity Ammo"
-},
-"34":{
-    "name": "0:34",
-    "dollList": "No dolls in 0:34",
-    "equipList": "No equipment in 0:34"
-},
-"35":{
-    "name": "0:35",
-    "dollList": "HG P99, HG Type 92",
-    "equipList": "PSO-1 Telescopic Sight"
-},
-"36":{
-    "name": "0:36",
-    "dollList": "No dolls in 0:36",
-    "equipList": "No equipment in 0:36"
-},
-"37":{
-    "name": "0:37",
-    "dollList": "No dolls in 0:37",
-    "equipList": "AC3 Suppressor"
-},
-"38":{
-    "name": "0:38",
-    "dollList": "No dolls in 0:38",
-    "equipList": "EOT 516"
-},
-"39":{
-    "name": "0:39",
-    "dollList": "No dolls in 0:39",
-    "equipList": "PEQ-15"
-},
-"40":{
-    "name": "0:40",
-    "dollList": "HG Astra Revolver, HG M9, HG Makarov",
-    "equipList": "COG M150"
-},
-"41":{
-    "name": "0:41",
-    "dollList": "No dolls in 0:41",
-    "equipList": "Type 2 Ballistic Plate"
-},
-"42":{
-    "name": "0:42",
-    "dollList": "No dolls in 0:42",
-    "equipList": "IOP T3 Exoskeleton, IOP X3 Exoskeleton"
-},
-"43":{
-    "name": "0:43",
-    "dollList": "No dolls in 0:43",
-    "equipList": "ILM Hollow Point Ammo (4-Star)"
-},
-"44":{
-    "name": "0:44",
-    "dollList": "No dolls in 0:44",
-    "equipList": "＃00 Buckshot Ammo, WAD Slug Ammo"
-},
-"45":{
-    "name": "0:45",
-    "dollList": "HG Tokarev",
-    "equipList": "VFL 6-24x56, Mk169 Armor-Piercing Ammo"
-},
-"46":{
-    "name": "0:46",
-    "dollList": "No dolls in 0:46",
-    "equipList": "Urban Camouflage Cape"
-},
-"47":{
-    "name": "0:47",
-    "dollList": "No dolls in 0:47",
-    "equipList": "IOP High-Capacity Ammo Box, AC4 Suppressor"
-},
-"48":{
-    "name": "0:48",
-    "dollList": "No dolls in 0:48",
-    "equipList": "JHP High-Velocity Ammo, EOT 518"
-},
-"49":{
-    "name": "0:49",
-    "dollList": "No dolls in 0:49",
-    "equipList": "PEQ-16A"
-},
-"50":{
-    "name": "0:50",
-    "dollList": "HG Colt Revolver, HG Mk23",
-    "equipList": "ITI Mars"
-},
-"51":{
-    "name": "0:51",
-    "dollList": "No dolls in 0:51",
-    "equipList": "Type 3 Ballistic Plate"
-},
-"52":{
-    "name": "0:52",
-    "dollList": "HG Spitfire",
-    "equipList": "IOP T4 Exoskeleton, IOP X4 Exoskeleton"
-},
-"53":{
-    "name": "0:53",
-    "dollList": "HG K5",
-    "equipList": "ILM Hollow Point Ammo"
-},
-"54":{
-    "name": "0:54",
-    "dollList": "No dolls in 0:54",
-    "equipList": "＃000 Buckshot Ammo, SABOT Slug Ammo"
-},
-"55":{
-    "name": "0:55",
-    "dollList": "HG Stechkin, HG P7",
-    "equipList": "Mk211 High Explosive Armor-Piercing Ammo"
-},
-"56":{
-    "name": "0:56",
-    "dollList": "No dolls in 0:56",
-    "equipList": "Thermoptic Camouflage Cape"
-},
-"57":{
-    "name": "0:57",
-    "dollList": "No dolls in 0:57",
-    "equipList": "IOP Maximum Ammo Box"
-},
-"58":{
-    "name": "0:58",
-    "dollList": "No dolls in 0:58",
-    "equipList": "APCR High-Velocity Ammo"
-},
-"59":{
-    "name": "0:59",
-    "dollList": "No dolls in 0:59",
-    "equipList": "No equipment in 0:59"
-},
-"1:00":{
-    "name": "1:00",
-    "dollList": "HG Welrod MkII",
-    "equipList": "No equipment in 1:00"
-},
-"1:01":{
-    "name": "1:01",
-    "dollList": "No dolls in 1:01",
-    "equipList": "No equipment in 1:01"
-},
-"1:02":{
-    "name": "1:02",
-    "dollList": "HG Contender",
-    "equipList": "No equipment in 1:02"
-},
-"1:03":{
-    "name": "1:03",
-    "dollList": "No dolls in 1:03",
-    "equipList": "No equipment in 1:03"
-},
-"1:04":{
-    "name": "1:04",
-    "dollList": "No dolls in 1:04",
-    "equipList": "No equipment in 1:04"
-},
-"1:05":{
-    "name": "1:05",
-    "dollList": "HG M950A, HG NZ75",
-    "equipList": "No equipment in 1:05"
-},
-"1:06":{
-    "name": "1:06",
-    "dollList": "No dolls in 1:06",
-    "equipList": "No equipment in 1:06"
-},
-"1:07":{
-    "name": "1:07",
-    "dollList": "No dolls in 1:07",
-    "equipList": "No equipment in 1:07"
-},
-"1:08":{
-    "name": "1:08",
-    "dollList": "No dolls in 1:08",
-    "equipList": "No equipment in 1:08"
-},
-"1:09":{
-    "name": "1:09",
-    "dollList": "No dolls in 1:09",
-    "equipList": "No equipment in 1:09"
-},
-"1:10":{
-    "name": "1:10",
-    "dollList": "HG Grizzly MkV, SMG IDW, SMG PP-2000",
-    "equipList": "No equipment in 1:10"
-},
-"1:11":{
-    "name": "1:11",
-    "dollList": "No dolls in 1:11",
-    "equipList": "No equipment in 1:11"
-},
-"1:12":{
-    "name": "1:12",
-    "dollList": "No dolls in 1:12",
-    "equipList": "No equipment in 1:12"
-},
-"1:13":{
-    "name": "1:13",
-    "dollList": "No dolls in 1:13",
-    "equipList": "No equipment in 1:13"
-},
-"1:14":{
-    "name": "1:14",
-    "dollList": "No dolls in 1:14",
-    "equipList": "No equipment in 1:14"
-},
-"1:15":{
-    "name": "1:15",
-    "dollList": "No dolls in 1:15",
-    "equipList": "No equipment in 1:15"
-},
-"1:16":{
-    "name": "1:16",
-    "dollList": "No dolls in 1:16",
-    "equipList": "No equipment in 1:16"
-},
-"1:17":{
-    "name": "1:17",
-    "dollList": "No dolls in 1:17",
-    "equipList": "No equipment in 1:17"
-},
-"1:18":{
-    "name": "1:18",
-    "dollList": "No dolls in 1:18",
-    "equipList": "No equipment in 1:18"
-},
-"1:19":{
-    "name": "1:19",
-    "dollList": "No dolls in 1:19",
-    "equipList": "No equipment in 1:19"
-},
-"1:20":{
-    "name": "1:20",
-    "dollList": "SMG m45, SMG Spectre M4",
-    "equipList": "No equipment in 1:20"
-},
-"1:21":{
-    "name": "1:21",
-    "dollList": "No dolls in 1:21",
-    "equipList": "No equipment in 1:21"
-},
-"1:22":{
-    "name": "1:22",
-    "dollList": "No dolls in 1:22",
-    "equipList": "No equipment in 1:22"
-},
-"1:23":{
-    "name": "1:23",
-    "dollList": "No dolls in 1:23",
-    "equipList": "No equipment in 1:23"
-},
-"1:24":{
-    "name": "1:24",
-    "dollList": "No dolls in 1:24",
-    "equipList": "No equipment in 1:24"
-},
-"1:25":{
-    "name": "1:25",
-    "dollList": "SMG Type 64",
-    "equipList": "No equipment in 1:25"
-},
-"1:26":{
-    "name": "1:26",
-    "dollList": "No dolls in 1:26",
-    "equipList": "No equipment in 1:26"
-},
-"1:27":{
-    "name": "1:27",
-    "dollList": "No dolls in 1:27",
-    "equipList": "No equipment in 1:27"
-},
-"1:28":{
-    "name": "1:28",
-    "dollList": "No dolls in 1:28",
-    "equipList": "No equipment in 1:28"
-},
-"1:29":{
-    "name": "1:29",
-    "dollList": "No dolls in 1:29",
-    "equipList": "No equipment in 1:29"
-},
-"1:30":{
-    "name": "1:30",
-    "dollList": "SMG Beretta Model 38, SMG M3, SMG MP40",
-    "equipList": "No equipment in 1:30"
-},
-"1:31":{
-    "name": "1:31",
-    "dollList": "No dolls in 1:31",
-    "equipList": "No equipment in 1:31"
-},
-"1:32":{
-    "name": "1:32",
-    "dollList": "No dolls in 1:32",
-    "equipList": "No equipment in 1:32"
-},
-"1:33":{
-    "name": "1:33",
-    "dollList": "No dolls in 1:33",
-    "equipList": "No equipment in 1:33"
-},
-"1:34":{
-    "name": "1:34",
-    "dollList": "No dolls in 1:34",
-    "equipList": "No equipment in 1:34"
-},
-"1:35":{
-    "name": "1:35",
-    "dollList": "No dolls in 1:35",
-    "equipList": "No equipment in 1:35"
-},
-"1:36":{
-    "name": "1:36",
-    "dollList": "No dolls in 1:36",
-    "equipList": "No equipment in 1:36"
-},
-"1:37":{
-    "name": "1:37",
-    "dollList": "No dolls in 1:37",
-    "equipList": "No equipment in 1:37"
-},
-"1:38":{
-    "name": "1:38",
-    "dollList": "No dolls in 1:38",
-    "equipList": "No equipment in 1:38"
-},
-"1:39":{
-    "name": "1:39",
-    "dollList": "No dolls in 1:39",
-    "equipList": "No equipment in 1:39"
-},
-"1:40":{
-    "name": "1:40",
-    "dollList": "SMG Sten MkII, SMG Micro Uzi",
-    "equipList": "No equipment in 1:40"
-},
-"1:41":{
-    "name": "1:41",
-    "dollList": "No dolls in 1:41",
-    "equipList": "No equipment in 1:41"
-},
-"1:42":{
-    "name": "1:42",
-    "dollList": "No dolls in 1:42",
-    "equipList": "No equipment in 1:42"
-},
-"1:43":{
-    "name": "1:43",
-    "dollList": "No dolls in 1:43",
-    "equipList": "No equipment in 1:43"
-},
-"1:44":{
-    "name": "1:44",
-    "dollList": "No dolls in 1:44",
-    "equipList": "No equipment in 1:44"
-},
-"1:45":{
-    "name": "1:45",
-    "dollList": "No dolls in 1:45",
-    "equipList": "No equipment in 1:45"
-},
-"1:46":{
-    "name": "1:46",
-    "dollList": "No dolls in 1:46",
-    "equipList": "No equipment in 1:46"
-},
-"1:47":{
-    "name": "1:47",
-    "dollList": "No dolls in 1:47",
-    "equipList": "No equipment in 1:47"
-},
-"1:48":{
-    "name": "1:48",
-    "dollList": "No dolls in 1:48",
-    "equipList": "No equipment in 1:48"
-},
-"1:49":{
-    "name": "1:49",
-    "dollList": "No dolls in 1:49",
-    "equipList": "No equipment in 1:49"
-},
-"1:50":{
-    "name": "1:50",
-    "dollList": "SMG PPSh-41 SMG F1",
-    "equipList": "No equipment in 1:50"
-},
-"1:51":{
-    "name": "1:51",
-    "dollList": "No dolls in 1:51",
-    "equipList": "No equipment in 1:51"
-},
-"1:52":{
-    "name": "1:52",
-    "dollList": "No dolls in 1:52",
-    "equipList": "No equipment in 1:52"
-},
-"1:53":{
-    "name": "1:53",
-    "dollList": "No dolls in 1:53",
-    "equipList": "No equipment in 1:53"
-},
-"1:54":{
-    "name": "1:54",
-    "dollList": "No dolls in 1:54",
-    "equipList": "No equipment in 1:54"
-},
-"1:55":{
-    "name": "1:55",
-    "dollList": "No dolls in 1:55",
-    "equipList": "No equipment in 1:55"
-},
-"1:56":{
-    "name": "1:56",
-    "dollList": "No dolls in 1:56",
-    "equipList": "No equipment in 1:56"
-},
-"1:57":{
-    "name": "1:57",
-    "dollList": "No dolls in 1:57",
-    "equipList": "No equipment in 1:57"
-},
-"1:58":{
-    "name": "1:58",
-    "dollList": "No dolls in 1:58",
-    "equipList": "No equipment in 1:58"
-},
-"1:59":{
-    "name": "1:59",
-    "dollList": "No dolls in 1:59",
-    "equipList": "No equipment in 1:59"
-},
-"2:00":{
-    "name": "2:00",
-    "dollList": "SMG MAC-10, SMG Skorpion",
-    "equipList": "No equipment in 2:00"
-},
-"2:01":{
-    "name": "2:01",
-    "dollList": "No dolls in 2:01",
-    "equipList": "No equipment in 2:01"
-},
-"2:02":{
-    "name": "2:02",
-    "dollList": "No dolls in 2:02",
-    "equipList": "No equipment in 2:02"
-},
-"2:03":{
-    "name": "2:03",
-    "dollList": "No dolls in 2:03",
-    "equipList": "No equipment in 2:03"
-},
-"2:04":{
-    "name": "2:04",
-    "dollList": "No dolls in 2:04",
-    "equipList": "No equipment in 2:04"
-},
-"2:05":{
-    "name": "2:05",
-    "dollList": "SMG Z-62",
-    "equipList": "No equipment in 2:05"
-},
-"2:06":{
-    "name": "2:06",
-    "dollList": "No dolls in 2:06",
-    "equipList": "No equipment in 2:06"
-},
-"2:07":{
-    "name": "2:07",
-    "dollList": "No dolls in 2:07",
-    "equipList": "No equipment in 2:07"
-},
-"2:08":{
-    "name": "2:08",
-    "dollList": "No dolls in 2:08",
-    "equipList": "No equipment in 2:08"
-},
-"2:09":{
-    "name": "2:09",
-    "dollList": "No dolls in 2:09",
-    "equipList": "No equipment in 2:09"
-},
-"2:10":{
-    "name": "2:10",
-    "dollList": "SMG PPS-43",
-    "equipList": "No equipment in 2:10"
-},
-"2:11":{
-    "name": "2:11",
-    "dollList": "No dolls in 2:11",
-    "equipList": "No equipment in 2:11"
-},
-"2:12":{
-    "name": "2:12",
-    "dollList": "No dolls in 2:12",
-    "equipList": "No equipment in 2:12"
-},
-"2:13":{
-    "name": "2:13",
-    "dollList": "No dolls in 2:13",
-    "equipList": "No equipment in 2:13"
-},
-"2:14":{
-    "name": "2:14",
-    "dollList": "No dolls in 2:14",
-    "equipList": "No equipment in 2:14"
-},
-"2:15":{
-    "name": "2:15",
-    "dollList": "SMG UMP9, SMG UMP45",
-    "equipList": "No equipment in 2:15"
-},
-"2:16":{
-    "name": "2:16",
-    "dollList": "No dolls in 2:16",
-    "equipList": "No equipment in 2:16"
-},
-"2:17":{
-    "name": "2:17",
-    "dollList": "No dolls in 2:17",
-    "equipList": "No equipment in 2:17"
-},
-"2:18":{
-    "name": "2:18",
-    "dollList": "SMG Shipka, SMG PP-19-01",
-    "equipList": "No equipment in 2:18"
-},
-"2:19":{
-    "name": "2:19",
-    "dollList": "No dolls in 2:19",
-    "equipList": "No equipment in 2:19"
-},
-"2:20":{
-    "name": "2:20",
-    "dollList": "SMG MP5, SMG PP-90",
-    "equipList": "No equipment in 2:20"
-},
-"2:21":{
-    "name": "2:21",
-    "dollList": "No dolls in 2:21",
-    "equipList": "No equipment in 2:21"
-},
-"2:22":{
-    "name": "2:22",
-    "dollList": "No dolls in 2:22",
-    "equipList": "No equipment in 2:22"
-},
-"2:23":{
-    "name": "2:23",
-    "dollList": "No dolls in 2:23",
-    "equipList": "No equipment in 2:23"
-},
-"2:24":{
-    "name": "2:24",
-    "dollList": "No dolls in 2:24",
-    "equipList": "No equipment in 2:24"
-},
-"2:25":{
-    "name": "2:25",
-    "dollList": "SMG Suomi",
-    "equipList": "No equipment in 2:25"
-},
-"2:26":{
-    "name": "2:26",
-    "dollList": "No dolls in 2:26",
-    "equipList": "No equipment in 2:26"
-},
-"2:27":{
-    "name": "2:27",
-    "dollList": "No dolls in 2:27",
-    "equipList": "No equipment in 2:27"
-},
-"2:28":{
-    "name": "2:28",
-    "dollList": "SMG C-MS",
-    "equipList": "No equipment in 2:28"
-},
-"2:29":{
-    "name": "2:29",
-    "dollList": "No dolls in 2:29",
-    "equipList": "No equipment in 2:29"
-},
-"2:30":{
-    "name": "2:30",
-    "dollList": "SMG G36C, SMG Thompson",
-    "equipList": "No equipment in 2:30"
-},
-"2:31":{
-    "name": "2:31",
-    "dollList": "No dolls in 2:31",
-    "equipList": "No equipment in 2:31"
-},
-"2:32":{
-    "name": "2:32",
-    "dollList": "No dolls in 2:32",
-    "equipList": "No equipment in 2:32"
-},
-"2:33":{
-    "name": "2:33",
-    "dollList": "SMG SR-3MP",
-    "equipList": "No equipment in 2:33"
-},
-"2:34":{
-    "name": "2:34",
-    "dollList": "No dolls in 2:34",
-    "equipList": "No equipment in 2:34"
-},
-"2:35":{
-    "name": "2:35",
-    "dollList": "SMG Type 79, SMG Vector",
-    "equipList": "No equipment in 2:35"
-},
-"2:36":{
-    "name": "2:36",
-    "dollList": "No dolls in 2:36",
-    "equipList": "No equipment in 2:36"
-},
-"2:37":{
-    "name": "2:37",
-    "dollList": "No dolls in 2:37",
-    "equipList": "No equipment in 2:37"
-},
-"2:38":{
-    "name": "2:38",
-    "dollList": "No dolls in 2:38",
-    "equipList": "No equipment in 2:38"
-},
-"2:39":{
-    "name": "2:39",
-    "dollList": "No dolls in 2:39",
-    "equipList": "No equipment in 2:39"
-},
-"2:40":{
-    "name": "2:40",
-    "dollList": "AR Galil, AR SIG-510",
-    "equipList": "No equipment in 2:40"
-},
-"2:41":{
-    "name": "2:41",
-    "dollList": "No dolls in 2:41",
-    "equipList": "No equipment in 2:41"
-},
-"2:42":{
-    "name": "2:42",
-    "dollList": "No dolls in 2:42",
-    "equipList": "No equipment in 2:42"
-},
-"2:43":{
-    "name": "2:43",
-    "dollList": "No dolls in 2:43",
-    "equipList": "No equipment in 2:43"
-},
-"2:44":{
-    "name": "2:44",
-    "dollList": "No dolls in 2:44",
-    "equipList": "No equipment in 2:44"
-},
-"2:45":{
-    "name": "2:45",
-    "dollList": "AR F2000, AR Type 63",
-    "equipList": "No equipment in 2:45"
-},
-"2:46":{
-    "name": "2:46",
-    "dollList": "No dolls in 2:46",
-    "equipList": "No equipment in 2:46"
-},
-"2:47":{
-    "name": "2:47",
-    "dollList": "No dolls in 2:47",
-    "equipList": "No equipment in 2:47"
-},
-"2:48":{
-    "name": "2:48",
-    "dollList": "No dolls in 2:48",
-    "equipList": "No equipment in 2:48"
-},
-"2:49":{
-    "name": "2:49",
-    "dollList": "No dolls in 2:49",
-    "equipList": "No equipment in 2:49"
-},
-"2:50":{
-    "name": "2:50",
-    "dollList": "AR G3, AR L85A1",
-    "equipList": "No equipment in 2:50"
-},
-"2:51":{
-    "name": "2:51",
-    "dollList": "No dolls in 2:51",
-    "equipList": "No equipment in 2:51"
-},
-"2:52":{
-    "name": "2:52",
-    "dollList": "No dolls in 2:52",
-    "equipList": "No equipment in 2:52"
-},
-"2:53":{
-    "name": "2:53",
-    "dollList": "No dolls in 2:53",
-    "equipList": "No equipment in 2:53"
-},
-"2:54":{
-    "name": "2:54",
-    "dollList": "No dolls in 2:54",
-    "equipList": "No equipment in 2:54"
-},
-"2:55":{
-    "name": "2:55",
-    "dollList": "No dolls in 2:55",
-    "equipList": "No equipment in 2:55"
-},
-"2:56":{
-    "name": "2:56",
-    "dollList": "No dolls in 2:56",
-    "equipList": "No equipment in 2:56"
-},
-"2:57":{
-    "name": "2:57",
-    "dollList": "No dolls in 2:57",
-    "equipList": "No equipment in 2:57"
-},
-"2:58":{
-    "name": "2:58",
-    "dollList": "No dolls in 2:58",
-    "equipList": "No equipment in 2:58"
-},
-"2:59":{
-    "name": "2:59",
-    "dollList": "No dolls in 2:59",
-    "equipList": "No equipment in 2:59"
-},
-"3:00":{
-    "name": "3:00",
-    "dollList": "AR StG44",
-    "equipList": "No equipment in 3:00"
-},
-"3:01":{
-    "name": "3:01",
-    "dollList": "No dolls in 3:01",
-    "equipList": "No equipment in 3:01"
-},
-"3:02":{
-    "name": "3:02",
-    "dollList": "No dolls in 3:02",
-    "equipList": "No equipment in 3:02"
-},
-"3:03":{
-    "name": "3:03",
-    "dollList": "No dolls in 3:03",
-    "equipList": "No equipment in 3:03"
-},
-"3:04":{
-    "name": "3:04",
-    "dollList": "No dolls in 3:04",
-    "equipList": "No equipment in 3:04"
-},
-"3:05":{
-    "name": "3:05",
-    "dollList": "No dolls in 3:05",
-    "equipList": "No equipment in 3:05"
-},
-"3:06":{
-    "name": "3:06",
-    "dollList": "No dolls in 3:06",
-    "equipList": "No equipment in 3:06"
-},
-"3:07":{
-    "name": "3:07",
-    "dollList": "No dolls in 3:07",
-    "equipList": "No equipment in 3:07"
-},
-"3:08":{
-    "name": "3:08",
-    "dollList": "No dolls in 3:08",
-    "equipList": "No equipment in 3:08"
-},
-"3:09":{
-    "name": "3:09",
-    "dollList": "No dolls in 3:09",
-    "equipList": "No equipment in 3:09"
-},
-"3:10":{
-    "name": "3:10",
-    "dollList": "AR OTs-12, RF G43, RF FN-49",
-    "equipList": "No equipment in 3:10"
-},
-"3:11":{
-    "name": "3:11",
-    "dollList": "No dolls in 3:11",
-    "equipList": "No equipment in 3:11"
-},
-"3:12":{
-    "name": "3:12",
-    "dollList": "No dolls in 3:12",
-    "equipList": "No equipment in 3:12"
-},
-"3:13":{
-    "name": "3:13",
-    "dollList": "No dolls in 3:13",
-    "equipList": "No equipment in 3:13"
-},
-"3:14":{
-    "name": "3:14",
-    "dollList": "No dolls in 3:14",
-    "equipList": "No equipment in 3:14"
-},
-"3:15":{
-    "name": "3:15",
-    "dollList": "AR ARX-160",
-    "equipList": "No equipment in 3:15"
-},
-"3:16":{
-    "name": "3:16",
-    "dollList": "No dolls in 3:16",
-    "equipList": "No equipment in 3:16"
-},
-"3:17":{
-    "name": "3:17",
-    "dollList": "No dolls in 3:17",
-    "equipList": "No equipment in 3:17"
-},
-"3:18":{
-    "name": "3:18",
-    "dollList": "No dolls in 3:18",
-    "equipList": "No equipment in 3:18"
-},
-"3:19":{
-    "name": "3:19",
-    "dollList": "No dolls in 3:19",
-    "equipList": "No equipment in 3:19"
-},
-"3:20":{
-    "name": "3:20",
-    "dollList": "AR AK-47, AR FNC, RF BM59",
-    "equipList": "No equipment in 3:20"
-},
-"3:21":{
-    "name": "3:21",
-    "dollList": "No dolls in 3:21",
-    "equipList": "No equipment in 3:21"
-},
-"3:22":{
-    "name": "3:22",
-    "dollList": "No dolls in 3:22",
-    "equipList": "No equipment in 3:22"
-},
-"3:23":{
-    "name": "3:23",
-    "dollList": "No dolls in 3:23",
-    "equipList": "No equipment in 3:23"
-},
-"3:24":{
-    "name": "3:24",
-    "dollList": "No dolls in 3:24",
-    "equipList": "No equipment in 3:24"
-},
-"3:25":{
-    "name": "3:25",
-    "dollList": "AR Type 56-1, AR XM8",
-    "equipList": "No equipment in 3:25"
-},
-"3:26":{
-    "name": "3:26",
-    "dollList": "No dolls in 3:26",
-    "equipList": "No equipment in 3:26"
-},
-"3:27":{
-    "name": "3:27",
-    "dollList": "No dolls in 3:27",
-    "equipList": "No equipment in 3:27"
-},
-"3:28":{
-    "name": "3:28",
-    "dollList": "No dolls in 3:28",
-    "equipList": "No equipment in 3:28"
-},
-"3:29":{
-    "name": "3:29",
-    "dollList": "No dolls in 3:29",
-    "equipList": "No equipment in 3:29"
-},
-"3:30":{
-    "name": "3:30",
-    "dollList": "AR AS Val, AR FAMAS, AR TAR-21, RF SVT-38, RF Simonov",
-    "equipList": "No equipment in 3:30"
-},
-"3:31":{
-    "name": "3:31",
-    "dollList": "No dolls in 3:31",
-    "equipList": "No equipment in 3:31"
-},
-"3:32":{
-    "name": "3:32",
-    "dollList": "No dolls in 3:32",
-    "equipList": "No equipment in 3:32"
-},
-"3:33":{
-    "name": "3:33",
-    "dollList": "No dolls in 3:33",
-    "equipList": "No equipment in 3:33"
-},
-"3:34":{
-    "name": "3:34",
-    "dollList": "No dolls in 3:34",
-    "equipList": "No equipment in 3:34"
-},
-"3:35":{
-    "name": "3:35",
-    "dollList": "AR 9A-91",
-    "equipList": "No equipment in 3:35"
-},
-"3:36":{
-    "name": "3:36",
-    "dollList": "No dolls in 3:36",
-    "equipList": "No equipment in 3:36"
-},
-"3:37":{
-    "name": "3:37",
-    "dollList": "No dolls in 3:37",
-    "equipList": "No equipment in 3:37"
-},
-"3:38":{
-    "name": "3:38",
-    "dollList": "No dolls in 3:38",
-    "equipList": "No equipment in 3:38"
-},
-"3:39":{
-    "name": "3:39",
-    "dollList": "No dolls in 3:39",
-    "equipList": "No equipment in 3:39"
-},
-"3:40":{
-    "name": "3:40",
-    "dollList": "AR G36, AR Ribeyrolles, RF M14, RF SV-98",
-    "equipList": "No equipment in 3:40"
-},
-"3:41":{
-    "name": "3:41",
-    "dollList": "No dolls in 3:41",
-    "equipList": "No equipment in 3:41"
-},
-"3:42":{
-    "name": "3:42",
-    "dollList": "No dolls in 3:42",
-    "equipList": "No equipment in 3:42"
-},
-"3:43":{
-    "name": "3:43",
-    "dollList": "No dolls in 3:43",
-    "equipList": "No equipment in 3:43"
-},
-"3:44":{
-    "name": "3:44",
-    "dollList": "No dolls in 3:44",
-    "equipList": "No equipment in 3:44"
-},
-"3:45":{
-    "name": "3:45",
-    "dollList": "AR FAL",
-    "equipList": "No equipment in 3:45"
-},
-"3:46":{
-    "name": "3:46",
-    "dollList": "No dolls in 3:46",
-    "equipList": "No equipment in 3:46"
-},
-"3:47":{
-    "name": "3:47",
-    "dollList": "No dolls in 3:47",
-    "equipList": "No equipment in 3:47"
-},
-"3:48":{
-    "name": "3:48",
-    "dollList": "AR T91",
-    "equipList": "No equipment in 3:48"
-},
-"3:49":{
-    "name": "3:49",
-    "dollList": "No dolls in 3:49",
-    "equipList": "No equipment in 3:49"
-},
-"3:50":{
-    "name": "3:50",
-    "dollList": "AR Type 95, AR Type 97, RF Hanyang Type 88, RF OTs-44",
-    "equipList": "No equipment in 3:50"
-},
-"3:51":{
-    "name": "3:51",
-    "dollList": "No dolls in 3:51",
-    "equipList": "No equipment in 3:51"
-},
-"3:52":{
-    "name": "3:52",
-    "dollList": "AR K2",
-    "equipList": "No equipment in 3:52"
-},
-"3:53":{
-    "name": "3:53",
-    "dollList": "AR MDR",
-    "equipList": "No equipment in 3:53"
-},
-"3:54":{
-    "name": "3:54",
-    "dollList": "No dolls in 3:54",
-    "equipList": "No equipment in 3:54"
-},
-"3:55":{
-    "name": "3:55",
-    "dollList": "AR HK416",
-    "equipList": "No equipment in 3:55"
-},
-"3:56":{
-    "name": "3:56",
-    "dollList": "No dolls in 3:56",
-    "equipList": "No equipment in 3:56"
-},
-"3:57":{
-    "name": "3:57",
-    "dollList": "No dolls in 3:57",
-    "equipList": "No equipment in 3:57"
-},
-"3:58":{
-    "name": "3:58",
-    "dollList": "AR RFB",
-    "equipList": "No equipment in 3:58"
-},
-"3:59":{
-    "name": "3:59",
-    "dollList": "No dolls in 3:59",
-    "equipList": "No equipment in 3:59"
-},
-"4:00":{
-    "name": "4:00",
-    "dollList": "RF M1 Garand",
-    "equipList": "No equipment in 4:00"
-},
-"4:01":{
-    "name": "4:01",
-    "dollList": "No dolls in 4:01",
-    "equipList": "No equipment in 4:01"
-},
-"4:02":{
-    "name": "4:02",
-    "dollList": "No dolls in 4:02",
-    "equipList": "No equipment in 4:02"
-},
-"4:03":{
-    "name": "4:03",
-    "dollList": "No dolls in 4:03",
-    "equipList": "No equipment in 4:03"
-},
-"4:04":{
-    "name": "4:04",
-    "dollList": "AR G11",
-    "equipList": "No equipment in 4:04"
-},
-"4:05":{
-    "name": "4:05",
-    "dollList": "AR G41, AR Zas M21",
-    "equipList": "No equipment in 4:05"
-},
-"4:06":{
-    "name": "4:06",
-    "dollList": "No dolls in 4:06",
-    "equipList": "No equipment in 4:06"
-},
-"4:07":{
-    "name": "4:07",
-    "dollList": "No dolls in 4:07",
-    "equipList": "No equipment in 4:07"
-},
-"4:08":{
-    "name": "4:08",
-    "dollList": "No dolls in 4:08",
-    "equipList": "No equipment in 4:08"
-},
-"4:09":{
-    "name": "4:09",
-    "dollList": "AR AN-94",
-    "equipList": "No equipment in 4:09"
-},
-"4:10":{
-    "name": "4:10",
-    "dollList": "RF Mosin-Nagant, RF T-5000",
-    "equipList": "No equipment in 4:10"
-},
-"4:11":{
-    "name": "4:11",
-    "dollList": "No dolls in 4:11",
-    "equipList": "No equipment in 4:11"
-},
-"4:12":{
-    "name": "4:12",
-    "dollList": "AR AK-12",
-    "equipList": "No equipment in 4:12"
-},
-"4:13":{
-    "name": "4:13",
-    "dollList": "No dolls in 4:13",
-    "equipList": "No equipment in 4:13"
-},
-"4:14":{
-    "name": "4:14",
-    "dollList": "No dolls in 4:14",
-    "equipList": "No equipment in 4:14"
-},
-"4:15":{
-    "name": "4:15",
-    "dollList": "RF SVD",
-    "equipList": "No equipment in 4:15"
-},
-"4:16":{
-    "name": "4:16",
-    "dollList": "No dolls in 4:16",
-    "equipList": "No equipment in 4:16"
-},
-"4:17":{
-    "name": "4:17",
-    "dollList": "No dolls in 4:17",
-    "equipList": "No equipment in 4:17"
-},
-"4:18":{
-    "name": "4:18",
-    "dollList": "No dolls in 4:18",
-    "equipList": "No equipment in 4:18"
-},
-"4:19":{
-    "name": "4:19",
-    "dollList": "No dolls in 4:19",
-    "equipList": "No equipment in 4:19"
-},
-"4:20":{
-    "name": "4:20",
-    "dollList": "RF PSG-1, RF G28",
-    "equipList": "No equipment in 4:20"
-},
-"4:21":{
-    "name": "4:21",
-    "dollList": "No dolls in 4:21",
-    "equipList": "No equipment in 4:21"
-},
-"4:22":{
-    "name": "4:22",
-    "dollList": "No dolls in 4:22",
-    "equipList": "No equipment in 4:22"
-},
-"4:23":{
-    "name": "4:23",
-    "dollList": "No dolls in 4:23",
-    "equipList": "No equipment in 4:23"
-},
-"4:24":{
-    "name": "4:24",
-    "dollList": "No dolls in 4:24",
-    "equipList": "No equipment in 4:24"
-},
-"4:25":{
-    "name": "4:25",
-    "dollList": "RF Springfield",
-    "equipList": "No equipment in 4:25"
-},
-"4:26":{
-    "name": "4:26",
-    "dollList": "No dolls in 4:26",
-    "equipList": "No equipment in 4:26"
-},
-"4:27":{
-    "name": "4:27",
-    "dollList": "No dolls in 4:27",
-    "equipList": "No equipment in 4:27"
-},
-"4:28":{
-    "name": "4:28",
-    "dollList": "No dolls in 4:28",
-    "equipList": "No equipment in 4:28"
-},
-"4:29":{
-    "name": "4:29",
-    "dollList": "No dolls in 4:29",
-    "equipList": "No equipment in 4:29"
-},
-"4:30":{
-    "name": "4:30",
-    "dollList": "RF PTRD, RF PzB 39",
-    "equipList": "No equipment in 4:30"
-},
-"4:31":{
-    "name": "4:31",
-    "dollList": "No dolls in 4:31",
-    "equipList": "No equipment in 4:31"
-},
-"4:32":{
-    "name": "4:32",
-    "dollList": "No dolls in 4:32",
-    "equipList": "No equipment in 4:32"
-},
-"4:33":{
-    "name": "4:33",
-    "dollList": "No dolls in 4:33",
-    "equipList": "No equipment in 4:33"
-},
-"4:34":{
-    "name": "4:34",
-    "dollList": "No dolls in 4:34",
-    "equipList": "No equipment in 4:34"
-},
-"4:35":{
-    "name": "4:35",
-    "dollList": "No dolls in 4:35",
-    "equipList": "No equipment in 4:35"
-},
-"4:36":{
-    "name": "4:36",
-    "dollList": "No dolls in 4:36",
-    "equipList": "No equipment in 4:36"
-},
-"4:37":{
-    "name": "4:37",
-    "dollList": "No dolls in 4:37",
-    "equipList": "No equipment in 4:37"
-},
-"4:38":{
-    "name": "4:38",
-    "dollList": "RF Carcano M1891",
-    "equipList": "No equipment in 4:38"
-},
-"4:39":{
-    "name": "4:39",
-    "dollList": "No dolls in 4:39",
-    "equipList": "No equipment in 4:39"
-},
-"4:40":{
-    "name": "4:40",
-    "dollList": "RF Kar98k",
-    "equipList": "No equipment in 4:40"
-},
-"4:41":{
-    "name": "4:41",
-    "dollList": "No dolls in 4:41",
-    "equipList": "No equipment in 4:41"
-},
-"4:42":{
-    "name": "4:42",
-    "dollList": "RF Carcano M91∕38",
-    "equipList": "No equipment in 4:42"
-},
-"4:43":{
-    "name": "4:43",
-    "dollList": "No dolls in 4:43",
-    "equipList": "No equipment in 4:43"
-},
-"4:44":{
-    "name": "4:44",
-    "dollList": "No dolls in 4:44",
-    "equipList": "No equipment in 4:44"
-},
-"4:45":{
-    "name": "4:45",
-    "dollList": "RF NTW-20",
-    "equipList": "No equipment in 4:45"
-},
-"4:46":{
-    "name": "4:46",
-    "dollList": "No dolls in 4:46",
-    "equipList": "No equipment in 4:46"
-},
-"4:47":{
-    "name": "4:47",
-    "dollList": "No dolls in 4:47",
-    "equipList": "No equipment in 4:47"
-},
-"4:48":{
-    "name": "4:48",
-    "dollList": "No dolls in 4:48",
-    "equipList": "No equipment in 4:48"
-},
-"4:49":{
-    "name": "4:49",
-    "dollList": "No dolls in 4:49",
-    "equipList": "No equipment in 4:49"
-},
-"4:50":{
-    "name": "4:50",
-    "dollList": "RF WA2000, MG AAT-52, MG FG42",
-    "equipList": "No equipment in 4:50"
-},
-"4:51":{
-    "name": "4:51",
-    "dollList": "No dolls in 4:51",
-    "equipList": "No equipment in 4:51"
-},
-"4:52":{
-    "name": "4:52",
-    "dollList": "RF IWS-2000",
-    "equipList": "No equipment in 4:52"
-},
-"4:53":{
-    "name": "4:53",
-    "dollList": "No dolls in 4:53",
-    "equipList": "No equipment in 4:53"
-},
-"4:54":{
-    "name": "4:54",
-    "dollList": "No dolls in 4:54",
-    "equipList": "No equipment in 4:54"
-},
-"4:55":{
-    "name": "4:55",
-    "dollList": "RF M99",
-    "equipList": "No equipment in 4:55"
-},
-"4:56":{
-    "name": "4:56",
-    "dollList": "No dolls in 4:56",
-    "equipList": "No equipment in 4:56"
-},
-"4:57":{
-    "name": "4:57",
-    "dollList": "No dolls in 4:57",
-    "equipList": "No equipment in 4:57"
-},
-"4:58":{
-    "name": "4:58",
-    "dollList": "No dolls in 4:58",
-    "equipList": "No equipment in 4:58"
-},
-"4:59":{
-    "name": "4:59",
-    "dollList": "No dolls in 4:59",
-    "equipList": "No equipment in 4:59"
-},
-"5:00":{
-    "name": "5:00",
-    "dollList": "RF Lee-Enfield, MG MG34, MG DP28",
-    "equipList": "No equipment in 5:00"
-},
-"5:01":{
-    "name": "5:01",
-    "dollList": "No dolls in 5:01",
-    "equipList": "No equipment in 5:01"
-},
-"5:02":{
-    "name": "5:02",
-    "dollList": "No dolls in 5:02",
-    "equipList": "No equipment in 5:02"
-},
-"5:03":{
-    "name": "5:03",
-    "dollList": "No dolls in 5:03",
-    "equipList": "No equipment in 5:03"
-},
-"5:04":{
-    "name": "5:04",
-    "dollList": "No dolls in 5:04",
-    "equipList": "No equipment in 5:04"
-},
-"5:05":{
-    "name": "5:05",
-    "dollList": "No dolls in 5:05",
-    "equipList": "No equipment in 5:05"
-},
-"5:06":{
-    "name": "5:06",
-    "dollList": "No dolls in 5:06",
-    "equipList": "No equipment in 5:06"
-},
-"5:07":{
-    "name": "5:07",
-    "dollList": "No dolls in 5:07",
-    "equipList": "No equipment in 5:07"
-},
-"5:08":{
-    "name": "5:08",
-    "dollList": "No dolls in 5:08",
-    "equipList": "No equipment in 5:08"
-},
-"5:09":{
-    "name": "5:09",
-    "dollList": "No dolls in 5:09",
-    "equipList": "No equipment in 5:09"
-},
-"5:10":{
-    "name": "5:10",
-    "dollList": "MG LWMMG",
-    "equipList": "No equipment in 5:10"
-},
-"5:11":{
-    "name": "5:11",
-    "dollList": "No dolls in 5:11",
-    "equipList": "No equipment in 5:11"
-},
-"5:12":{
-    "name": "5:12",
-    "dollList": "No dolls in 5:12",
-    "equipList": "No equipment in 5:12"
-},
-"5:13":{
-    "name": "5:13",
-    "dollList": "No dolls in 5:13",
-    "equipList": "No equipment in 5:13"
-},
-"5:14":{
-    "name": "5:14",
-    "dollList": "No dolls in 5:14",
-    "equipList": "No equipment in 5:14"
-},
-"5:15":{
-    "name": "5:15",
-    "dollList": "No dolls in 5:15",
-    "equipList": "No equipment in 5:15"
-},
-"5:16":{
-    "name": "5:16",
-    "dollList": "No dolls in 5:16",
-    "equipList": "No equipment in 5:16"
-},
-"5:17":{
-    "name": "5:17",
-    "dollList": "No dolls in 5:17",
-    "equipList": "No equipment in 5:17"
-},
-"5:18":{
-    "name": "5:18",
-    "dollList": "No dolls in 5:18",
-    "equipList": "No equipment in 5:18"
-},
-"5:19":{
-    "name": "5:19",
-    "dollList": "No dolls in 5:19",
-    "equipList": "No equipment in 5:19"
-},
-"5:20":{
-    "name": "5:20",
-    "dollList": "MG Bren",
-    "equipList": "No equipment in 5:20"
-},
-"5:21":{
-    "name": "5:21",
-    "dollList": "No dolls in 5:21",
-    "equipList": "No equipment in 5:21"
-},
-"5:22":{
-    "name": "5:22",
-    "dollList": "No dolls in 5:22",
-    "equipList": "No equipment in 5:22"
-},
-"5:23":{
-    "name": "5:23",
-    "dollList": "No dolls in 5:23",
-    "equipList": "No equipment in 5:23"
-},
-"5:24":{
-    "name": "5:24",
-    "dollList": "No dolls in 5:24",
-    "equipList": "No equipment in 5:24"
-},
-"5:25":{
-    "name": "5:25",
-    "dollList": "No dolls in 5:25",
-    "equipList": "No equipment in 5:25"
-},
-"5:26":{
-    "name": "5:26",
-    "dollList": "No dolls in 5:26",
-    "equipList": "No equipment in 5:26"
-},
-"5:27":{
-    "name": "5:27",
-    "dollList": "No dolls in 5:27",
-    "equipList": "No equipment in 5:27"
-},
-"5:28":{
-    "name": "5:28",
-    "dollList": "No dolls in 5:28",
-    "equipList": "No equipment in 5:28"
-},
-"5:29":{
-    "name": "5:29",
-    "dollList": "No dolls in 5:29",
-    "equipList": "No equipment in 5:29"
-},
-"5:30":{
-    "name": "5:30",
-    "dollList": "No dolls in 5:30",
-    "equipList": "No equipment in 5:30"
-},
-"5:31":{
-    "name": "5:31",
-    "dollList": "No dolls in 5:31",
-    "equipList": "No equipment in 5:31"
-},
-"5:32":{
-    "name": "5:32",
-    "dollList": "No dolls in 5:32",
-    "equipList": "No equipment in 5:32"
-},
-"5:33":{
-    "name": "5:33",
-    "dollList": "No dolls in 5:33",
-    "equipList": "No equipment in 5:33"
-},
-"5:34":{
-    "name": "5:34",
-    "dollList": "No dolls in 5:34",
-    "equipList": "No equipment in 5:34"
-},
-"5:35":{
-    "name": "5:35",
-    "dollList": "No dolls in 5:35",
-    "equipList": "No equipment in 5:35"
-},
-"5:36":{
-    "name": "5:36",
-    "dollList": "No dolls in 5:36",
-    "equipList": "No equipment in 5:36"
-},
-"5:37":{
-    "name": "5:37",
-    "dollList": "No dolls in 5:37",
-    "equipList": "No equipment in 5:37"
-},
-"5:38":{
-    "name": "5:38",
-    "dollList": "No dolls in 5:38",
-    "equipList": "No equipment in 5:38"
-},
-"5:39":{
-    "name": "5:39",
-    "dollList": "No dolls in 5:39",
-    "equipList": "No equipment in 5:39"
-},
-"5:40":{
-    "name": "5:40",
-    "dollList": "MG M1919A4",
-    "equipList": "No equipment in 5:40"
-},
-"5:41":{
-    "name": "5:41",
-    "dollList": "No dolls in 5:41",
-    "equipList": "No equipment in 5:41"
-},
-"5:42":{
-    "name": "5:42",
-    "dollList": "No dolls in 5:42",
-    "equipList": "No equipment in 5:42"
-},
-"5:43":{
-    "name": "5:43",
-    "dollList": "No dolls in 5:43",
-    "equipList": "No equipment in 5:43"
-},
-"5:44":{
-    "name": "5:44",
-    "dollList": "No dolls in 5:44",
-    "equipList": "No equipment in 5:44"
-},
-"5:45":{
-    "name": "5:45",
-    "dollList": "No dolls in 5:45",
-    "equipList": "No equipment in 5:45"
-},
-"5:46":{
-    "name": "5:46",
-    "dollList": "No dolls in 5:46",
-    "equipList": "No equipment in 5:46"
-},
-"5:47":{
-    "name": "5:47",
-    "dollList": "No dolls in 5:47",
-    "equipList": "No equipment in 5:47"
-},
-"5:48":{
-    "name": "5:48",
-    "dollList": "No dolls in 5:48",
-    "equipList": "No equipment in 5:48"
-},
-"5:49":{
-    "name": "5:49",
-    "dollList": "No dolls in 5:49",
-    "equipList": "No equipment in 5:49"
-},
-"5:50":{
-    "name": "5:50",
-    "dollList": "MG MG42",
-    "equipList": "No equipment in 5:50"
-},
-"5:51":{
-    "name": "5:51",
-    "dollList": "No dolls in 5:51",
-    "equipList": "No equipment in 5:51"
-},
-"5:52":{
-    "name": "5:52",
-    "dollList": "No dolls in 5:52",
-    "equipList": "No equipment in 5:52"
-},
-"5:53":{
-    "name": "5:53",
-    "dollList": "No dolls in 5:53",
-    "equipList": "No equipment in 5:53"
-},
-"5:54":{
-    "name": "5:54",
-    "dollList": "No dolls in 5:54",
-    "equipList": "No equipment in 5:54"
-},
-"5:55":{
-    "name": "5:55",
-    "dollList": "No dolls in 5:55",
-    "equipList": "No equipment in 5:55"
-},
-"5:56":{
-    "name": "5:56",
-    "dollList": "No dolls in 5:56",
-    "equipList": "No equipment in 5:56"
-},
-"5:57":{
-    "name": "5:57",
-    "dollList": "No dolls in 5:57",
-    "equipList": "No equipment in 5:57"
-},
-"5:58":{
-    "name": "5:58",
-    "dollList": "No dolls in 5:58",
-    "equipList": "No equipment in 5:58"
-},
-"5:59":{
-    "name": "5:59",
-    "dollList": "No dolls in 5:59",
-    "equipList": "No equipment in 5:59"
-},
-"6:00":{
-    "name": "6:00",
-    "dollList": "No dolls in 6:00",
-    "equipList": "No equipment in 6:00"
-},
-"6:01":{
-    "name": "6:01",
-    "dollList": "No dolls in 6:01",
-    "equipList": "No equipment in 6:01"
-},
-"6:02":{
-    "name": "6:02",
-    "dollList": "No dolls in 6:02",
-    "equipList": "No equipment in 6:02"
-},
-"6:03":{
-    "name": "6:03",
-    "dollList": "No dolls in 6:03",
-    "equipList": "No equipment in 6:03"
-},
-"6:04":{
-    "name": "6:04",
-    "dollList": "No dolls in 6:04",
-    "equipList": "No equipment in 6:04"
-},
-"6:05":{
-    "name": "6:05",
-    "dollList": "No dolls in 6:05",
-    "equipList": "No equipment in 6:05"
-},
-"6:06":{
-    "name": "6:06",
-    "dollList": "No dolls in 6:06",
-    "equipList": "No equipment in 6:06"
-},
-"6:07":{
-    "name": "6:07",
-    "dollList": "No dolls in 6:07",
-    "equipList": "No equipment in 6:07"
-},
-"6:08":{
-    "name": "6:08",
-    "dollList": "No dolls in 6:08",
-    "equipList": "No equipment in 6:08"
-},
-"6:09":{
-    "name": "6:09",
-    "dollList": "No dolls in 6:09",
-    "equipList": "No equipment in 6:09"
-},
-"6:10":{
-    "name": "6:10",
-    "dollList": "MG M60, MG M2HB",
-    "equipList": "No equipment in 6:10"
-},
-"6:11":{
-    "name": "6:11",
-    "dollList": "No dolls in 6:11",
-    "equipList": "No equipment in 6:11"
-},
-"6:12":{
-    "name": "6:12",
-    "dollList": "No dolls in 6:12",
-    "equipList": "No equipment in 6:12"
-},
-"6:13":{
-    "name": "6:13",
-    "dollList": "No dolls in 6:13",
-    "equipList": "No equipment in 6:13"
-},
-"6:14":{
-    "name": "6:14",
-    "dollList": "No dolls in 6:14",
-    "equipList": "No equipment in 6:14"
-},
-"6:15":{
-    "name": "6:15",
-    "dollList": "MG Type 80",
-    "equipList": "No equipment in 6:15"
-},
-"6:16":{
-    "name": "6:16",
-    "dollList": "No dolls in 6:16",
-    "equipList": "No equipment in 6:16"
-},
-"6:17":{
-    "name": "6:17",
-    "dollList": "No dolls in 6:17",
-    "equipList": "No equipment in 6:17"
-},
-"6:18":{
-    "name": "6:18",
-    "dollList": "No dolls in 6:18",
-    "equipList": "No equipment in 6:18"
-},
-"6:19":{
-    "name": "6:19",
-    "dollList": "No dolls in 6:19",
-    "equipList": "No equipment in 6:19"
-},
-"6:20":{
-    "name": "6:20",
-    "dollList": "MG Mk48, MG AEK-999",
-    "equipList": "No equipment in 6:20"
-},
-"6:21":{
-    "name": "6:21",
-    "dollList": "No dolls in 6:21",
-    "equipList": "No equipment in 6:21"
-},
-"6:22":{
-    "name": "6:22",
-    "dollList": "No dolls in 6:22",
-    "equipList": "No equipment in 6:22"
-},
-"6:23":{
-    "name": "6:23",
-    "dollList": "No dolls in 6:23",
-    "equipList": "No equipment in 6:23"
-},
-"6:24":{
-    "name": "6:24",
-    "dollList": "No dolls in 6:24",
-    "equipList": "No equipment in 6:24"
-},
-"6:25":{
-    "name": "6:25",
-    "dollList": "MG M1918, MG Ameli",
-    "equipList": "No equipment in 6:25"
-},
-"6:26":{
-    "name": "6:26",
-    "dollList": "No dolls in 6:26",
-    "equipList": "No equipment in 6:26"
-},
-"6:27":{
-    "name": "6:27",
-    "dollList": "No dolls in 6:27",
-    "equipList": "No equipment in 6:27"
-},
-"6:28":{
-    "name": "6:28",
-    "dollList": "No dolls in 6:28",
-    "equipList": "No equipment in 6:28"
-},
-"6:29":{
-    "name": "6:29",
-    "dollList": "No dolls in 6:29",
-    "equipList": "No equipment in 6:29"
-},
-"6:30":{
-    "name": "6:30",
-    "dollList": "MG PK, MG MG3",
-    "equipList": "No equipment in 6:30"
-},
-"6:31":{
-    "name": "6:31",
-    "dollList": "No dolls in 6:31",
-    "equipList": "No equipment in 6:31"
-},
-"6:32":{
-    "name": "6:32",
-    "dollList": "No dolls in 6:32",
-    "equipList": "No equipment in 6:32"
-},
-"6:33":{
-    "name": "6:33",
-    "dollList": "No dolls in 6:33",
-    "equipList": "No equipment in 6:33"
-},
-"6:34":{
-    "name": "6:34",
-    "dollList": "No dolls in 6:34",
-    "equipList": "No equipment in 6:34"
-},
-"6:35":{
-    "name": "6:35",
-    "dollList": "MG Negev",
-    "equipList": "No equipment in 6:35"
-},
-"6:36":{
-    "name": "6:36",
-    "dollList": "No dolls in 6:36",
-    "equipList": "No equipment in 6:36"
-},
-"6:37":{
-    "name": "6:37",
-    "dollList": "No dolls in 6:37",
-    "equipList": "No equipment in 6:37"
-},
-"6:38":{
-    "name": "6:38",
-    "dollList": "No dolls in 6:38",
-    "equipList": "No equipment in 6:38"
-},
-"6:39":{
-    "name": "6:39",
-    "dollList": "No dolls in 6:39",
-    "equipList": "No equipment in 6:39"
-},
-"6:40":{
-    "name": "6:40",
-    "dollList": "MG MG4",
-    "equipList": "No equipment in 6:40"
-},
-"6:41":{
-    "name": "6:41",
-    "dollList": "No dolls in 6:41",
-    "equipList": "No equipment in 6:41"
-},
-"6:42":{
-    "name": "6:42",
-    "dollList": "No dolls in 6:42",
-    "equipList": "No equipment in 6:42"
-},
-"6:43":{
-    "name": "6:43",
-    "dollList": "No dolls in 6:43",
-    "equipList": "No equipment in 6:43"
-},
-"6:44":{
-    "name": "6:44",
-    "dollList": "No dolls in 6:44",
-    "equipList": "No equipment in 6:44"
-},
-"6:45":{
-    "name": "6:45",
-    "dollList": "MG MG5",
-    "equipList": "No equipment in 6:45"
-},
-"6:46":{
-    "name": "6:46",
-    "dollList": "No dolls in 6:46",
-    "equipList": "No equipment in 6:46"
-},
-"6:47":{
-    "name": "6:47",
-    "dollList": "No dolls in 6:47",
-    "equipList": "No equipment in 6:47"
-},
-"6:48":{
-    "name": "6:48",
-    "dollList": "No dolls in 6:48",
-    "equipList": "No equipment in 6:48"
-},
-"6:49":{
-    "name": "6:49",
-    "dollList": "No dolls in 6:49",
-    "equipList": "No equipment in 6:49"
-},
-"6:50":{
-    "name": "6:50",
-    "dollList": "MG PKP",
-    "equipList": "No equipment in 6:50"
-},
-"6:51":{
-    "name": "6:51",
-    "dollList": "No dolls in 6:51",
-    "equipList": "No equipment in 6:51"
-},
-"6:52":{
-    "name": "6:52",
-    "dollList": "No dolls in 6:52",
-    "equipList": "No equipment in 6:52"
-},
-"6:53":{
-    "name": "6:53",
-    "dollList": "No dolls in 6:53",
-    "equipList": "No equipment in 6:53"
-},
-"6:54":{
-    "name": "6:54",
-    "dollList": "No dolls in 6:54",
-    "equipList": "No equipment in 6:54"
-},
-"6:55":{
-    "name": "6:55",
-    "dollList": "No dolls in 6:55",
-    "equipList": "No equipment in 6:55"
-},
-"6:56":{
-    "name": "6:56",
-    "dollList": "No dolls in 6:56",
-    "equipList": "No equipment in 6:56"
-},
-"6:57":{
-    "name": "6:57",
-    "dollList": "No dolls in 6:57",
-    "equipList": "No equipment in 6:57"
-},
-"6:58":{
-    "name": "6:58",
-    "dollList": "No dolls in 6:58",
-    "equipList": "No equipment in 6:58"
-},
-"6:59":{
-    "name": "6:59",
-    "dollList": "No dolls in 6:59",
-    "equipList": "No equipment in 6:59"
-},
-"7:00":{
-    "name": "7:00",
-    "dollList": "No dolls in 7:00",
-    "equipList": "No equipment in 7:00"
-},
-"7:01":{
-    "name": "7:01",
-    "dollList": "No dolls in 7:01",
-    "equipList": "No equipment in 7:01"
-},
-"7:02":{
-    "name": "7:02",
-    "dollList": "No dolls in 7:02",
-    "equipList": "No equipment in 7:02"
-},
-"7:03":{
-    "name": "7:03",
-    "dollList": "No dolls in 7:03",
-    "equipList": "No equipment in 7:03"
-},
-"7:04":{
-    "name": "7:04",
-    "dollList": "No dolls in 7:04",
-    "equipList": "No equipment in 7:04"
-},
-"7:05":{
-    "name": "7:05",
-    "dollList": "No dolls in 7:05",
-    "equipList": "No equipment in 7:05"
-},
-"7:06":{
-    "name": "7:06",
-    "dollList": "No dolls in 7:06",
-    "equipList": "No equipment in 7:06"
-},
-"7:07":{
-    "name": "7:07",
-    "dollList": "No dolls in 7:07",
-    "equipList": "No equipment in 7:07"
-},
-"7:08":{
-    "name": "7:08",
-    "dollList": "No dolls in 7:08",
-    "equipList": "No equipment in 7:08"
-},
-"7:09":{
-    "name": "7:09",
-    "dollList": "No dolls in 7:09",
-    "equipList": "No equipment in 7:09"
-},
-"7:10":{
-    "name": "7:10",
-    "dollList": "No dolls in 7:10",
-    "equipList": "No equipment in 7:10"
-},
-"7:11":{
-    "name": "7:11",
-    "dollList": "No dolls in 7:11",
-    "equipList": "No equipment in 7:11"
-},
-"7:12":{
-    "name": "7:12",
-    "dollList": "No dolls in 7:12",
-    "equipList": "No equipment in 7:12"
-},
-"7:13":{
-    "name": "7:13",
-    "dollList": "No dolls in 7:13",
-    "equipList": "No equipment in 7:13"
-},
-"7:14":{
-    "name": "7:14",
-    "dollList": "SG M1014",
-    "equipList": "No equipment in 7:14"
-},
-"7:15":{
-    "name": "7:15",
-    "dollList": "SG NS2000",
-    "equipList": "No equipment in 7:15"
-},
-"7:16":{
-    "name": "7:16",
-    "dollList": "No dolls in 7:16",
-    "equipList": "No equipment in 7:16"
-},
-"7:17":{
-    "name": "7:17",
-    "dollList": "No dolls in 7:17",
-    "equipList": "No equipment in 7:17"
-},
-"7:18":{
-    "name": "7:18",
-    "dollList": "No dolls in 7:18",
-    "equipList": "No equipment in 7:18"
-},
-"7:19":{
-    "name": "7:19",
-    "dollList": "No dolls in 7:19",
-    "equipList": "No equipment in 7:19"
-},
-"7:20":{
-    "name": "7:20",
-    "dollList": "SG M500",
-    "equipList": "No equipment in 7:20"
-},
-"7:21":{
-    "name": "7:21",
-    "dollList": "No dolls in 7:21",
-    "equipList": "No equipment in 7:21"
-},
-"7:22":{
-    "name": "7:22",
-    "dollList": "No dolls in 7:22",
-    "equipList": "No equipment in 7:22"
-},
-"7:23":{
-    "name": "7:23",
-    "dollList": "No dolls in 7:23",
-    "equipList": "No equipment in 7:23"
-},
-"7:24":{
-    "name": "7:24",
-    "dollList": "No dolls in 7:24",
-    "equipList": "No equipment in 7:24"
-},
-"7:25":{
-    "name": "7:25",
-    "dollList": "SG KS-23",
-    "equipList": "No equipment in 7:25"
-},
-"7:26":{
-    "name": "7:26",
-    "dollList": "No dolls in 7:26",
-    "equipList": "No equipment in 7:26"
-},
-"7:27":{
-    "name": "7:27",
-    "dollList": "No dolls in 7:27",
-    "equipList": "No equipment in 7:27"
-},
-"7:28":{
-    "name": "7:28",
-    "dollList": "No dolls in 7:28",
-    "equipList": "No equipment in 7:28"
-},
-"7:29":{
-    "name": "7:29",
-    "dollList": "No dolls in 7:29",
-    "equipList": "No equipment in 7:29"
-},
-"7:30":{
-    "name": "7:30",
-    "dollList": "SG RMB-93, SG M1897",
-    "equipList": "No equipment in 7:30"
-},
-"7:31":{
-    "name": "7:31",
-    "dollList": "No dolls in 7:31",
-    "equipList": "No equipment in 7:31"
-},
-"7:32":{
-    "name": "7:32",
-    "dollList": "No dolls in 7:32",
-    "equipList": "No equipment in 7:32"
-},
-"7:33":{
-    "name": "7:33",
-    "dollList": "No dolls in 7:33",
-    "equipList": "No equipment in 7:33"
-},
-"7:34":{
-    "name": "7:34",
-    "dollList": "No dolls in 7:34",
-    "equipList": "No equipment in 7:34"
-},
-"7:35":{
-    "name": "7:35",
-    "dollList": "No dolls in 7:35",
-    "equipList": "No equipment in 7:35"
-},
-"7:36":{
-    "name": "7:36",
-    "dollList": "No dolls in 7:36",
-    "equipList": "No equipment in 7:36"
-},
-"7:37":{
-    "name": "7:37",
-    "dollList": "No dolls in 7:37",
-    "equipList": "No equipment in 7:37"
-},
-"7:38":{
-    "name": "7:38",
-    "dollList": "No dolls in 7:38",
-    "equipList": "No equipment in 7:38"
-},
-"7:39":{
-    "name": "7:39",
-    "dollList": "No dolls in 7:39",
-    "equipList": "No equipment in 7:39"
-},
-"7:40":{
-    "name": "7:40",
-    "dollList": "SG M590, SG SPAS-12",
-    "equipList": "No equipment in 7:40"
-},
-"7:41":{
-    "name": "7:41",
-    "dollList": "No dolls in 7:41",
-    "equipList": "No equipment in 7:41"
-},
-"7:42":{
-    "name": "7:42",
-    "dollList": "No dolls in 7:42",
-    "equipList": "No equipment in 7:42"
-},
-"7:43":{
-    "name": "7:43",
-    "dollList": "No dolls in 7:43",
-    "equipList": "No equipment in 7:43"
-},
-"7:44":{
-    "name": "7:44",
-    "dollList": "No dolls in 7:44",
-    "equipList": "No equipment in 7:44"
-},
-"7:45":{
-    "name": "7:45",
-    "dollList": "SG M37",
-    "equipList": "No equipment in 7:45"
-},
-"7:46":{
-    "name": "7:46",
-    "dollList": "No dolls in 7:46",
-    "equipList": "No equipment in 7:46"
-},
-"7:47":{
-    "name": "7:47",
-    "dollList": "No dolls in 7:47",
-    "equipList": "No equipment in 7:47"
-},
-"7:48":{
-    "name": "7:48",
-    "dollList": "No dolls in 7:48",
-    "equipList": "No equipment in 7:48"
-},
-"7:49":{
-    "name": "7:49",
-    "dollList": "No dolls in 7:49",
-    "equipList": "No equipment in 7:49"
-},
-"7:50":{
-    "name": "7:50",
-    "dollList": "SG Super-Shorty",
-    "equipList": "No equipment in 7:50"
-},
-"7:51":{
-    "name": "7:51",
-    "dollList": "No dolls in 7:51",
-    "equipList": "No equipment in 7:51"
-},
-"7:52":{
-    "name": "7:52",
-    "dollList": "No dolls in 7:52",
-    "equipList": "No equipment in 7:52"
-},
-"7:53":{
-    "name": "7:53",
-    "dollList": "No dolls in 7:53",
-    "equipList": "No equipment in 7:53"
-},
-"7:54":{
-    "name": "7:54",
-    "dollList": "No dolls in 7:54",
-    "equipList": "No equipment in 7:54"
-},
-"7:55":{
-    "name": "7:55",
-    "dollList": "SG USAS-12",
-    "equipList": "No equipment in 7:55"
-},
-"7:56":{
-    "name": "7:56",
-    "dollList": "No dolls in 7:56",
-    "equipList": "No equipment in 7:56"
-},
-"7:57":{
-    "name": "7:57",
-    "dollList": "No dolls in 7:57",
-    "equipList": "No equipment in 7:57"
-},
-"7:58":{
-    "name": "7:58",
-    "dollList": "No dolls in 7:58",
-    "equipList": "No equipment in 7:58"
-},
-"7:59":{
-    "name": "7:59",
-    "dollList": "No dolls in 7:59",
-    "equipList": "No equipment in 7:59"
-},
-"8:00":{
-    "name": "8:00",
-    "dollList": "SG KSG",
-    "equipList": "No equipment in 8:00"
-},
-"8:01":{
-    "name": "8:01",
-    "dollList": "No dolls in 8:01",
-    "equipList": "No equipment in 8:01"
-},
-"8:02":{
-    "name": "8:02",
-    "dollList": "No dolls in 8:02",
-    "equipList": "No equipment in 8:02"
-},
-"8:03":{
-    "name": "8:03",
-    "dollList": "No dolls in 8:03",
-    "equipList": "No equipment in 8:03"
-},
-"8:04":{
-    "name": "8:04",
-    "dollList": "No dolls in 8:04",
-    "equipList": "No equipment in 8:04"
-},
-"8:05":{
-    "name": "8:05",
-    "dollList": "SG Saiga-12",
-    "equipList": "No equipment in 8:05"
-},
-"8:06":{
-    "name": "8:06",
-    "dollList": "SG FP-6",
-    "equipList": "No equipment in 8:06"
-},
-"8:07":{
-    "name": "8:07",
-    "dollList": "No dolls in 8:07",
-    "equipList": "No equipment in 8:07"
-},
-"8:08":{
-    "name": "8:08",
-    "dollList": "No dolls in 8:08",
-    "equipList": "No equipment in 8:08"
-},
-"8:09":{
-    "name": "8:09",
-    "dollList": "No dolls in 8:09",
-    "equipList": "No equipment in 8:09"
-},
-"8:10":{
-    "name": "8:10",
-    "dollList": "SG S.A.T.8",
-    "equipList": "No equipment in 8:10"
-},
-"8:11":{
-    "name": "8:11",
-    "dollList": "No dolls in 8:11",
-    "equipList": "No equipment in 8:11"
-},
-"8:12":{
-    "name": "8:12",
-    "dollList": "SG AA-12",
-    "equipList": "No equipment in 8:12"
-},
-"8:13":{
-    "name": "8:13",
-    "dollList": "No dolls in 8:13",
-    "equipList": "No equipment in 8:13"
-},
-"8:14":{
-    "name": "8:14",
-    "dollList": "No dolls in 8:14",
-    "equipList": "No equipment in 8:14"
-},
-"8:15":{
-    "name": "8:15",
-    "dollList": "No dolls in 8:15",
-    "equipList": "No equipment in 8:15"
-},
-"8:16":{
-    "name": "8:16",
-    "dollList": "No dolls in 8:16",
-    "equipList": "No equipment in 8:16"
-},
-"8:17":{
-    "name": "8:17",
-    "dollList": "No dolls in 8:17",
-    "equipList": "No equipment in 8:17"
-},
-"8:18":{
-    "name": "8:18",
-    "dollList": "No dolls in 8:18",
-    "equipList": "No equipment in 8:18"
-},
-"8:19":{
-    "name": "8:19",
-    "dollList": "No dolls in 8:19",
-    "equipList": "No equipment in 8:19"
-},
-"8:20":{
-    "name": "8:20",
-    "dollList": "No dolls in 8:20",
-    "equipList": "No equipment in 8:20"
-},
-"8:21":{
-    "name": "8:21",
-    "dollList": "No dolls in 8:21",
-    "equipList": "No equipment in 8:21"
-},
-"8:22":{
-    "name": "8:22",
-    "dollList": "No dolls in 8:22",
-    "equipList": "No equipment in 8:22"
-},
-"8:23":{
-    "name": "8:23",
-    "dollList": "No dolls in 8:23",
-    "equipList": "No equipment in 8:23"
-},
-"8:24":{
-    "name": "8:24",
-    "dollList": "No dolls in 8:24",
-    "equipList": "No equipment in 8:24"
-},
-"8:25":{
-    "name": "8:25",
-    "dollList": "No dolls in 8:25",
-    "equipList": "No equipment in 8:25"
-},
-"8:26":{
-    "name": "8:26",
-    "dollList": "No dolls in 8:26",
-    "equipList": "No equipment in 8:26"
-},
-"8:27":{
-    "name": "8:27",
-    "dollList": "No dolls in 8:27",
-    "equipList": "No equipment in 8:27"
-},
-"8:28":{
-    "name": "8:28",
-    "dollList": "No dolls in 8:28",
-    "equipList": "No equipment in 8:28"
-},
-"8:29":{
-    "name": "8:29",
-    "dollList": "No dolls in 8:29",
-    "equipList": "No equipment in 8:29"
-},
-"8:30":{
-    "name": "8:30",
-    "dollList": "No dolls in 8:30",
-    "equipList": "No equipment in 8:30"
-},
-"8:31":{
-    "name": "8:31",
-    "dollList": "No dolls in 8:31",
-    "equipList": "No equipment in 8:31"
-},
-"8:32":{
-    "name": "8:32",
-    "dollList": "No dolls in 8:32",
-    "equipList": "No equipment in 8:32"
-},
-"8:33":{
-    "name": "8:33",
-    "dollList": "No dolls in 8:33",
-    "equipList": "No equipment in 8:33"
-},
-"8:34":{
-    "name": "8:34",
-    "dollList": "No dolls in 8:34",
-    "equipList": "No equipment in 8:34"
-},
-"8:35":{
-    "name": "8:35",
-    "dollList": "No dolls in 8:35",
-    "equipList": "No equipment in 8:35"
-},
-"8:36":{
-    "name": "8:36",
-    "dollList": "No dolls in 8:36",
-    "equipList": "No equipment in 8:36"
-},
-"8:37":{
-    "name": "8:37",
-    "dollList": "No dolls in 8:37",
-    "equipList": "No equipment in 8:37"
-},
-"8:38":{
-    "name": "8:38",
-    "dollList": "No dolls in 8:38",
-    "equipList": "No equipment in 8:38"
-},
-"8:39":{
-    "name": "8:39",
-    "dollList": "No dolls in 8:39",
-    "equipList": "No equipment in 8:39"
-},
-"8:40":{
-    "name": "8:40",
-    "dollList": "No dolls in 8:40",
-    "equipList": "No equipment in 8:40"
-},
-"8:41":{
-    "name": "8:41",
-    "dollList": "No dolls in 8:41",
-    "equipList": "No equipment in 8:41"
-},
-"8:42":{
-    "name": "8:42",
-    "dollList": "No dolls in 8:42",
-    "equipList": "No equipment in 8:42"
-},
-"8:43":{
-    "name": "8:43",
-    "dollList": "No dolls in 8:43",
-    "equipList": "No equipment in 8:43"
-},
-"8:44":{
-    "name": "8:44",
-    "dollList": "No dolls in 8:44",
-    "equipList": "No equipment in 8:44"
-},
-"8:45":{
-    "name": "8:45",
-    "dollList": "No dolls in 8:45",
-    "equipList": "No equipment in 8:45"
-},
-"8:46":{
-    "name": "8:46",
-    "dollList": "No dolls in 8:46",
-    "equipList": "No equipment in 8:46"
-},
-"8:47":{
-    "name": "8:47",
-    "dollList": "No dolls in 8:47",
-    "equipList": "No equipment in 8:47"
-},
-"8:48":{
-    "name": "8:48",
-    "dollList": "No dolls in 8:48",
-    "equipList": "No equipment in 8:48"
-},
-"8:49":{
-    "name": "8:49",
-    "dollList": "No dolls in 8:49",
-    "equipList": "No equipment in 8:49"
-},
-"8:50":{
-    "name": "8:50",
-    "dollList": "No dolls in 8:50",
-    "equipList": "No equipment in 8:50"
-},
-"8:51":{
-    "name": "8:51",
-    "dollList": "No dolls in 8:51",
-    "equipList": "No equipment in 8:51"
-},
-"8:52":{
-    "name": "8:52",
-    "dollList": "No dolls in 8:52",
-    "equipList": "No equipment in 8:52"
-},
-"8:53":{
-    "name": "8:53",
-    "dollList": "No dolls in 8:53",
-    "equipList": "No equipment in 8:53"
-},
-"8:54":{
-    "name": "8:54",
-    "dollList": "No dolls in 8:54",
-    "equipList": "No equipment in 8:54"
-},
-"8:55":{
-    "name": "8:55",
-    "dollList": "No dolls in 8:55",
-    "equipList": "No equipment in 8:55"
-},
-"8:56":{
-    "name": "8:56",
-    "dollList": "No dolls in 8:56",
-    "equipList": "No equipment in 8:56"
-},
-"8:57":{
-    "name": "8:57",
-    "dollList": "No dolls in 8:57",
-    "equipList": "No equipment in 8:57"
-},
-"8:58":{
-    "name": "8:58",
-    "dollList": "No dolls in 8:58",
-    "equipList": "No equipment in 8:58"
-},
-"8:59":{
-    "name": "8:59",
-    "dollList": "No dolls in 8:59",
-    "equipList": "No equipment in 8:59"
-},
-"9:00":{
-    "name": "9:00",
-    "dollList": "No dolls in 9:00",
-    "equipList": "No equipment in 9:00"
-},
-"9:01":{
-    "name": "9:01",
-    "dollList": "No dolls in 9:01",
-    "equipList": "No equipment in 9:01"
-},
-"9:02":{
-    "name": "9:02",
-    "dollList": "No dolls in 9:02",
-    "equipList": "No equipment in 9:02"
-},
-"9:03":{
-    "name": "9:03",
-    "dollList": "No dolls in 9:03",
-    "equipList": "No equipment in 9:03"
-},
-"9:04":{
-    "name": "9:04",
-    "dollList": "No dolls in 9:04",
-    "equipList": "No equipment in 9:04"
-},
-"9:05":{
-    "name": "9:05",
-    "dollList": "No dolls in 9:05",
-    "equipList": "No equipment in 9:05"
-},
-"9:06":{
-    "name": "9:06",
-    "dollList": "No dolls in 9:06",
-    "equipList": "No equipment in 9:06"
-},
-"9:07":{
-    "name": "9:07",
-    "dollList": "No dolls in 9:07",
-    "equipList": "No equipment in 9:07"
-},
-"9:08":{
-    "name": "9:08",
-    "dollList": "No dolls in 9:08",
-    "equipList": "No equipment in 9:08"
-},
-"9:09":{
-    "name": "9:09",
-    "dollList": "No dolls in 9:09",
-    "equipList": "No equipment in 9:09"
-},
-"9:10":{
-    "name": "9:10",
-    "dollList": "No dolls in 9:10",
-    "equipList": "No equipment in 9:10"
-},
-"9:11":{
-    "name": "9:11",
-    "dollList": "No dolls in 9:11",
-    "equipList": "No equipment in 9:11"
-},
-"9:12":{
-    "name": "9:12",
-    "dollList": "No dolls in 9:12",
-    "equipList": "No equipment in 9:12"
-},
-"9:13":{
-    "name": "9:13",
-    "dollList": "No dolls in 9:13",
-    "equipList": "No equipment in 9:13"
-},
-"9:14":{
-    "name": "9:14",
-    "dollList": "No dolls in 9:14",
-    "equipList": "No equipment in 9:14"
-},
-"9:15":{
-    "name": "9:15",
-    "dollList": "No dolls in 9:15",
-    "equipList": "No equipment in 9:15"
-},
-"9:16":{
-    "name": "9:16",
-    "dollList": "No dolls in 9:16",
-    "equipList": "No equipment in 9:16"
-},
-"9:17":{
-    "name": "9:17",
-    "dollList": "No dolls in 9:17",
-    "equipList": "No equipment in 9:17"
-},
-"9:18":{
-    "name": "9:18",
-    "dollList": "No dolls in 9:18",
-    "equipList": "No equipment in 9:18"
-},
-"9:19":{
-    "name": "9:19",
-    "dollList": "No dolls in 9:19",
-    "equipList": "No equipment in 9:19"
-},
-"9:20":{
-    "name": "9:20",
-    "dollList": "No dolls in 9:20",
-    "equipList": "No equipment in 9:20"
-},
-"9:21":{
-    "name": "9:21",
-    "dollList": "No dolls in 9:21",
-    "equipList": "No equipment in 9:21"
-},
-"9:22":{
-    "name": "9:22",
-    "dollList": "No dolls in 9:22",
-    "equipList": "No equipment in 9:22"
-},
-"9:23":{
-    "name": "9:23",
-    "dollList": "No dolls in 9:23",
-    "equipList": "No equipment in 9:23"
-},
-"9:24":{
-    "name": "9:24",
-    "dollList": "No dolls in 9:24",
-    "equipList": "No equipment in 9:24"
-},
-"9:25":{
-    "name": "9:25",
-    "dollList": "No dolls in 9:25",
-    "equipList": "No equipment in 9:25"
-},
-"9:26":{
-    "name": "9:26",
-    "dollList": "No dolls in 9:26",
-    "equipList": "No equipment in 9:26"
-},
-"9:27":{
-    "name": "9:27",
-    "dollList": "No dolls in 9:27",
-    "equipList": "No equipment in 9:27"
-},
-"9:28":{
-    "name": "9:28",
-    "dollList": "No dolls in 9:28",
-    "equipList": "No equipment in 9:28"
-},
-"9:29":{
-    "name": "9:29",
-    "dollList": "No dolls in 9:29",
-    "equipList": "No equipment in 9:29"
-},
-"9:30":{
-    "name": "9:30",
-    "dollList": "No dolls in 9:30",
-    "equipList": "No equipment in 9:30"
-},
-"9:31":{
-    "name": "9:31",
-    "dollList": "No dolls in 9:31",
-    "equipList": "No equipment in 9:31"
-},
-"9:32":{
-    "name": "9:32",
-    "dollList": "No dolls in 9:32",
-    "equipList": "No equipment in 9:32"
-},
-"9:33":{
-    "name": "9:33",
-    "dollList": "No dolls in 9:33",
-    "equipList": "No equipment in 9:33"
-},
-"9:34":{
-    "name": "9:34",
-    "dollList": "No dolls in 9:34",
-    "equipList": "No equipment in 9:34"
-},
-"9:35":{
-    "name": "9:35",
-    "dollList": "No dolls in 9:35",
-    "equipList": "No equipment in 9:35"
-},
-"9:36":{
-    "name": "9:36",
-    "dollList": "No dolls in 9:36",
-    "equipList": "No equipment in 9:36"
-},
-"9:37":{
-    "name": "9:37",
-    "dollList": "No dolls in 9:37",
-    "equipList": "No equipment in 9:37"
-},
-"9:38":{
-    "name": "9:38",
-    "dollList": "No dolls in 9:38",
-    "equipList": "No equipment in 9:38"
-},
-"9:39":{
-    "name": "9:39",
-    "dollList": "No dolls in 9:39",
-    "equipList": "No equipment in 9:39"
-},
-"9:40":{
-    "name": "9:40",
-    "dollList": "No dolls in 9:40",
-    "equipList": "No equipment in 9:40"
-},
-"9:41":{
-    "name": "9:41",
-    "dollList": "No dolls in 9:41",
-    "equipList": "No equipment in 9:41"
-},
-"9:42":{
-    "name": "9:42",
-    "dollList": "No dolls in 9:42",
-    "equipList": "No equipment in 9:42"
-},
-"9:43":{
-    "name": "9:43",
-    "dollList": "No dolls in 9:43",
-    "equipList": "No equipment in 9:43"
-},
-"9:44":{
-    "name": "9:44",
-    "dollList": "No dolls in 9:44",
-    "equipList": "No equipment in 9:44"
-},
-"9:45":{
-    "name": "9:45",
-    "dollList": "No dolls in 9:45",
-    "equipList": "No equipment in 9:45"
-},
-"9:46":{
-    "name": "9:46",
-    "dollList": "No dolls in 9:46",
-    "equipList": "No equipment in 9:46"
-},
-"9:47":{
-    "name": "9:47",
-    "dollList": "No dolls in 9:47",
-    "equipList": "No equipment in 9:47"
-},
-"9:48":{
-    "name": "9:48",
-    "dollList": "No dolls in 9:48",
-    "equipList": "No equipment in 9:48"
-},
-"9:49":{
-    "name": "9:49",
-    "dollList": "No dolls in 9:49",
-    "equipList": "No equipment in 9:49"
-},
-"9:50":{
-    "name": "9:50",
-    "dollList": "No dolls in 9:50",
-    "equipList": "No equipment in 9:50"
-},
-"9:51":{
-    "name": "9:51",
-    "dollList": "No dolls in 9:51",
-    "equipList": "No equipment in 9:51"
-},
-"9:52":{
-    "name": "9:52",
-    "dollList": "No dolls in 9:52",
-    "equipList": "No equipment in 9:52"
-},
-"9:53":{
-    "name": "9:53",
-    "dollList": "No dolls in 9:53",
-    "equipList": "No equipment in 9:53"
-},
-"9:54":{
-    "name": "9:54",
-    "dollList": "No dolls in 9:54",
-    "equipList": "No equipment in 9:54"
-},
-"9:55":{
-    "name": "9:55",
-    "dollList": "No dolls in 9:55",
-    "equipList": "No equipment in 9:55"
-},
-"9:56":{
-    "name": "9:56",
-    "dollList": "No dolls in 9:56",
-    "equipList": "No equipment in 9:56"
-},
-"9:57":{
-    "name": "9:57",
-    "dollList": "No dolls in 9:57",
-    "equipList": "No equipment in 9:57"
-},
-"9:58":{
-    "name": "9:58",
-    "dollList": "No dolls in 9:58",
-    "equipList": "No equipment in 9:58"
-},
-"9:59":{
-    "name": "9:59",
-    "dollList": "No dolls in 9:59",
-    "equipList": "No equipment in 9:59"
+{
+  "1": {
+    "name": "BM 3-12x40",
+    "rarity": "2",
+    "type": "Telescopic Sight",
+    "craft": "00:05:00",
+    "stats": "Crit Chance +5-8%",
+    "use": "SMG, AR, MG, RF, SG",
+    "image": "https://en.gfwiki.com/images/0/06/Generic_Telescopic_Sight.png",
+    "link": "https://en.gfwiki.com/wiki/BM_3-12X40"
+  },
+    "2": {
+    "name": "AC1 Silencer",
+    "rarity": "2",
+    "type": "Silencer",
+    "craft": "00:07:00",
+    "stats": "Crit Hit Rate +5, Evasion +2",
+    "use": "HG, SMG, AR, RF",
+    "image": "https://en.gfwiki.com/images/c/cc/Generic_Silencer.png",
+    "link": "https://en.gfwiki.com/wiki/AC1_Silencer"
+  },
+      "3": {
+    "name": "EOT 506",
+    "rarity": "2",
+    "type": "Holographic Sight",
+    "craft": "00:08:00",
+    "stats": "Accuracy +1, Damage +1, ROF -1",
+    "use": "SMG, AR, MG, RF, SG",
+    "image": "https://en.gfwiki.com/images/1/12/Generic_Holographic_Sight.png",
+    "link": "https://en.gfwiki.com/wiki/EOT_506"
+  },     
+  "4": {
+    "name": "PEQ-2",
+    "rarity": "2",
+    "type": "Night Combat Equipment",
+    "craft": "00:09:00",
+    "stats": "Night Vision +51-55%",
+    "use": "HG, SMG, AR, SG",
+    "image": "https://images-ext-1.discordapp.net/external/JyA3y3U1nYjsO74vAW8Es4Qgqo95S3yYzavI2QXV3nM/https/i.imgur.com/o03gzHo.png",
+    "link": "https://en.gfwiki.com/wiki/PEQ-2"
+  },
+    "5": {
+    "name": "AMP COMPM2",
+    "rarity": "2",
+    "type": "Red Dot Sight",
+    "craft": "00:10:00",
+    "stats": "Accuracy +2-3, ROF -1",
+    "use": "SMG, AR, MG, RF, SG",
+    "image": "https://en.gfwiki.com/images/f/f9/Generic_Red_Dot_Sight.png",
+    "link": "https://en.gfwiki.com/wiki/AMP_COMPM2"
+  },
+      "6": {
+    "name": "IOP X1 Exoskeleton",
+    "rarity": "2",
+    "type": "Exoskeleton",
+    "craft": "00:12:00",
+    "stats": "Evasion +2",
+    "use": "HG, SMG, AR",
+    "image": "https://en.gfwiki.com/images/6/68/Generic_Exoskeleton.png",
+    "link": "https://en.gfwiki.com/wiki/IOP_X1_Exoskeleton"
+  },
+        "7": {
+    "name": "IOP T1 Exoskeleton",
+    "rarity": "2",
+    "type": "Exoskeleton",
+    "craft": "00:12:00",
+    "stats": "Evasion +2",
+    "use": "HG, SMG, AR",
+    "image": "https://en.gfwiki.com/images/6/68/Generic_Exoskeleton.png",
+    "link": "https://en.gfwiki.com/wiki/IOP_T1_Exoskeleton"
+  },
+          "8": {
+    "name": "ILM Hollow Point (2 Star)",
+    "rarity": "2",
+    "type": "Ammo",
+    "craft": "00:13:00",
+    "stats": "Damage +1, Armor Penetration -1",
+    "use": "HG, SMG",
+    "image": "https://images-ext-2.discordapp.net/external/NzxC1mK2_e1Jv1O6uo-Hi3R8NEBr8nbJ7gqNr7c_3Fo/https/i.imgur.com/yfIIgZi.png",
+    "link": "https://en.gfwiki.com/wiki/ILM_Hollow_Point_(2-Star)"
+  },
+            "9": {
+    "name": "BK Slug Ammo",
+    "rarity": "2",
+    "type": "Ammo",
+    "craft": "00:14:00",
+    "stats": "Target -2, Damage *3, Accuracy +1-2",
+    "use": "SG",
+    "image": "https://en.gfwiki.com/images/5/58/Generic_Slug_Shotgun_Ammo.png",
+    "link": "https://en.gfwiki.com/wiki/BK_Slug_Ammo"
+  },
+              "10": {
+    "name": "M61 Armor Piercing Ammo",
+    "rarity": "2",
+    "type": "Ammo",
+    "craft": "00:15:00",
+    "stats": "Armor Penetration +34",
+    "use": "MG, RF",
+    "image": "https://en.gfwiki.com/images/3/30/Generic_Armor-Piercing_Ammo.png",
+    "link": "https://en.gfwiki.com/wiki/M61_Armor_Piercing_Ammo"
+  },
+                "11": {
+    "name": "Ragged Cape",
+    "rarity": "2",
+    "type": "Camouflage",
+    "craft": "00:16:00",
+    "stats": "Critical Damage +3, Movement Speed -3",
+    "use": "RF",
+    "image": "https://images-ext-2.discordapp.net/external/h9Y1QiVPsUsTNJr5ID1oS1o0nxE_6MCupzZSjrIezeo/https/i.imgur.com/NIk5UJQ.png?width=80&height=80",
+    "link": "https://en.gfwiki.com/wiki/Ragged_Cape"
+  },
+"12": {
+    "name": "FMJ High-Velocity Ammo",
+    "rarity": "2",
+    "type": "Ammo",
+    "craft": "00:18:00",
+    "stats": "Damage +2",
+    "use": "AR",
+    "image": "https://en.gfwiki.com/images/4/41/Generic_High-Velocity_Ammo.png",
+    "link": "https://en.gfwiki.com/wiki/FMJ_High-Velocity_Ammo"
+  },
+  "13": {
+    "name": "LRA 2-12x50",
+    "rarity": "3",
+    "type": "Telescopic Sight",
+    "craft": "00:20:00",
+    "stats": "Critical Hit Chance +9-12%",
+    "use": "SMG, AR, MG, RF, SG",
+    "image": "https://en.gfwiki.com/images/0/06/Generic_Telescopic_Sight.png",
+    "link": "https://en.gfwiki.com/wiki/LRA_2-12x50"
+  },
+    "14": {
+    "name": "AC2 Silencer",
+    "rarity": "3",
+    "type": "Silencer",
+    "craft": "00:22:00",
+    "stats": "Critical Hit Rate +6-8%, Evasion +3",
+    "use": "HG, SMG, AR, RF",
+    "image": "https://en.gfwiki.com/images/c/cc/Generic_Silencer.png",
+    "link": "https://en.gfwiki.com/wiki/AC2_Silencer"
+  },
+  "15": {
+    "name": "EOT 512",
+    "rarity": "3",
+    "type": "Holographic Sight",
+    "craft": "00:23:00",
+    "stats": "Accuracy +2, Damage +1-2, ROF -2",
+    "use": "SMG, AR, MG, RF, SG",
+    "image": "https://en.gfwiki.com/images/1/12/Generic_Holographic_Sight.png",
+    "link": "https://en.gfwiki.com/wiki/EOT_512"
+  },
+    "16": {
+    "name": "PEQ-5",
+    "rarity": "3",
+    "type": "Night Combat Equipment",
+    "craft": "00:24:00",
+    "stats": "Night Vision +61-70%",
+    "use": "HG, SMG, AR, SG",
+    "image": "https://images-ext-1.discordapp.net/external/JyA3y3U1nYjsO74vAW8Es4Qgqo95S3yYzavI2QXV3nM/https/i.imgur.com/o03gzHo.png",
+    "link": "https://en.gfwiki.com/wiki/PEQ-5"
+  },
+    "17": {
+    "name": "AMP COMPM4",
+    "rarity": "3",
+    "type": "Red Dot Sight",
+    "craft": "00:25:00",
+    "stats": "Accuracy +4-6, ROF -1 - -2",
+    "use": "SMG, AR, MG, RF, SG",
+    "image": "https://images-ext-1.discordapp.net/external/JyA3y3U1nYjsO74vAW8Es4Qgqo95S3yYzavI2QXV3nM/https/i.imgur.com/o03gzHo.png",
+    "link": "https://en.gfwiki.com/wiki/AMP_COMPM4"
+  },
+      "18": {
+    "name": "Type 1 Ballistic Plate",
+    "rarity": "3",
+    "type": "Ballistic Plate",
+    "craft": "00:26:00",
+    "stats": "Evasion -1, Armor +4-5",
+    "use": "SG",
+    "image": "https://images-ext-2.discordapp.net/external/X7dZwmP41YTJiUkYmkBPXMYohvuPrG84JS9VNCpef0s/https/i.imgur.com/XVFyhjz.png",
+    "link": "https://en.gfwiki.com/wiki/Type_1_Ballistic_Plate"
+  },
+      "19": {
+    "name": "IOP X2 Exoskeleton",
+    "rarity": "3",
+    "type": "Exoskeleton",
+    "craft": "00:27:00",
+    "stats": "Evasion +4-5",
+    "use": "HG, SMG, AR",
+    "image": "https://en.gfwiki.com/images/6/68/Generic_Exoskeleton.png",
+    "link": "https://en.gfwiki.com/wiki/IOP_X2_Exoskeleton"
+  },          
+ "20": {
+    "name": "ILM Hollow Point (3 Star)",
+    "rarity": "3",
+    "type": "Ammo",
+    "craft": "00:28:00",
+    "stats": "Damage +2-3, Armor Penetration -2 - -3",
+    "use": "HG, SMG",
+    "image": "https://images-ext-2.discordapp.net/external/NzxC1mK2_e1Jv1O6uo-Hi3R8NEBr8nbJ7gqNr7c_3Fo/https/i.imgur.com/yfIIgZi.png",
+    "link": "https://en.gfwiki.com/wiki/ILM_Hollow_Point_(3-Star)"
+  },           
+  "21": {
+    "name": "FST Slug Ammo",
+    "rarity": "3",
+    "type": "Ammo",
+    "craft": "00:29:00",
+    "stats": "Target -2, Damage *3, Accuracy +8-12",
+    "use": "SG",
+    "image": "https://en.gfwiki.com/images/5/58/Generic_Slug_Shotgun_Ammo.png",
+    "link": "https://en.gfwiki.com/wiki/FST_Slug_Ammo"
+  },
+    "22": {
+    "name": "#0 Buckshot Ammo",
+    "rarity": "3",
+    "type": "Ammo",
+    "craft": "00:29:00",
+    "stats": "Damage +2-3, Critical Hit Damage +5-6%",
+    "use": "SG",
+    "image": "https://images-ext-1.discordapp.net/external/kSQm0hjo1PQT-xtvPKRwOi4oMdeD2JnUHbbIqu4iDV0/https/i.imgur.com/Y29Y6nK.png",
+    "link": "https://en.gfwiki.com/wiki/%EF%BC%830_Buckshot_Ammo"
+  },
+ "23": {
+    "name": "M993 Armor Piercing Ammo",
+    "rarity": "3",
+    "type": "Ammo",
+    "craft": "00:30:00",
+    "stats": "Armor Penetration +40-50",
+    "use": "MG, RF",
+    "image": "https://en.gfwiki.com/images/3/30/Generic_Armor-Piercing_Ammo.png",
+    "link": "https://en.gfwiki.com/wiki/M993_Armor-Piercing_Ammo"
+  },
+ "24": {
+    "name": "Camouflage Cape",
+    "rarity": "3",
+    "type": "Camouflage",
+    "craft": "00:31:00",
+    "stats": "Movement Speed -3, Critical Hit Damage +5-7%",
+    "use": "RF",
+    "image": "https://images-ext-2.discordapp.net/external/h9Y1QiVPsUsTNJr5ID1oS1o0nxE_6MCupzZSjrIezeo/https/i.imgur.com/NIk5UJQ.png?width=80&height=80",
+    "link": "https://en.gfwiki.com/wiki/Ragged_Cape"
+  },
+  "25": {
+    "name": "JSP High-Velocity Ammo",
+    "rarity": "3",
+    "type": "Ammo",
+    "craft": "00:33:00",
+    "stats": "Damage +2-4",
+    "use": "AR",
+    "image": "https://en.gfwiki.com/images/4/41/Generic_High-Velocity_Ammo.png",
+    "link": "https://en.gfwiki.com/wiki/JSP_High-Velocity_Ammo"
+  },
+    "26": {
+    "name": "PSO-1 Telescopic Sight",
+    "rarity": "4",
+    "type": "Telescopic Sight",
+    "craft": "00:35:00",
+    "stats": "Critical Hit Chance +13-16%",
+    "use": "SMG, AR, MG, RF, SG",
+    "image": "https://en.gfwiki.com/images/0/06/Generic_Telescopic_Sight.png",
+    "link": "https://en.gfwiki.com/wiki/PSO-1_Telescopic_Sight"
+  },
+    "27": {
+    "name": "AC3 Silencer",
+    "rarity": "4",
+    "type": "Silencer",
+    "craft": "00:37:00",
+    "stats": "Evasion +4-5, Critical hit rate +9-11",
+    "use": "SMG, AR, RF, SG",
+    "image": "https://en.gfwiki.com/images/c/cc/Generic_Silencer.png",
+    "link": "https://en.gfwiki.com/wiki/AC3_Silencer"
+  },
+    "28": {
+    "name": "EOT 516",
+    "rarity": "4",
+    "type": "Holographic Sight",
+    "craft": "00:38:00",
+    "stats": "Accuracy +3-5, Damage +2-3, ROF -3 - -4",
+    "use": "SMG, AR, MG, RF, SG",
+    "image": "https://en.gfwiki.com/images/1/12/Generic_Holographic_Sight.png",
+    "link": "https://en.gfwiki.com/wiki/EOT_516"
+  },
+      "29": {
+    "name": "PEQ-15",
+    "rarity": "4",
+    "type": "Night Combat Equipment",
+    "craft": "00:39:00",
+    "stats": "Night Vision +76-85%",
+    "use": "HG, SMG, AR, SG",
+    "image": "https://images-ext-1.discordapp.net/external/JyA3y3U1nYjsO74vAW8Es4Qgqo95S3yYzavI2QXV3nM/https/i.imgur.com/o03gzHo.png",
+    "link": "https://en.gfwiki.com/wiki/PEQ-15"
+  },
+      "30": {
+    "name": "COG M150",
+    "rarity": "4",
+    "type": "Red Dot Sight",
+    "craft": "00:40:00",
+    "stats": "Accuracy +7-10, ROF -1",
+    "use": "SMG, AR, MG, RF, SG",
+    "image": "https://images-ext-1.discordapp.net/external/JyA3y3U1nYjsO74vAW8Es4Qgqo95S3yYzavI2QXV3nM/https/i.imgur.com/o03gzHo.png",
+    "link": "https://en.gfwiki.com/wiki/COG_M150"
+  },
+"31": {
+    "name": "Type 2 Ballistic Plate",
+    "rarity": "4",
+    "type": "Ballistic Plate",
+    "craft": "00:41:00",
+    "stats": "Evasion -1, Armor +4-5",
+    "use": "SG",
+    "image": "https://images-ext-2.discordapp.net/external/X7dZwmP41YTJiUkYmkBPXMYohvuPrG84JS9VNCpef0s/https/i.imgur.com/XVFyhjz.png",
+    "link": "https://en.gfwiki.com/wiki/Type_2_Ballistic_Plate"
+  },
+"32": {
+    "name": "IOP T2 Exoskeleton",
+    "rarity": "3",
+    "type": "Exoskeleton",
+    "craft": "00:27:00",
+    "stats": "Evasion +12, Damage -4",
+    "use": "HG, SMG, AR",
+    "image": "https://en.gfwiki.com/images/6/68/Generic_Exoskeleton.png",
+    "link": "https://en.gfwiki.com/wiki/IOP_T2_Exoskeleton"
+  }, 
+"33": {
+    "name": "IOP T3 Exoskeleton",
+    "rarity": "4",
+    "type": "Exoskeleton",
+    "craft": "00:42:00",
+    "stats": "Evasion +14-16, Damage -5 - -6",
+    "use": "HG, SMG, AR",
+    "image": "https://en.gfwiki.com/images/6/68/Generic_Exoskeleton.png",
+    "link": "https://en.gfwiki.com/wiki/IOP_T3_Exoskeleton"
+  }, 
+"34": {
+    "name": "IOP X3 Exoskeleton",
+    "rarity": "4",
+    "type": "Exoskeleton",
+    "craft": "00:42:00",
+    "stats": "Evasion +6-7",
+    "use": "HG, SMG, AR",
+    "image": "https://en.gfwiki.com/images/6/68/Generic_Exoskeleton.png",
+    "link": "https://en.gfwiki.com/wiki/IOP_X3_Exoskeleton"
+  }, 
+   "35": {
+    "name": "ILM Hollow Point (4 Star)",
+    "rarity": "4",
+    "type": "Ammo",
+    "craft": "00:43:00",
+    "stats": "Damage +4-6, Armor Penetration -4 - -6",
+    "use": "HG, SMG",
+    "image": "https://images-ext-2.discordapp.net/external/NzxC1mK2_e1Jv1O6uo-Hi3R8NEBr8nbJ7gqNr7c_3Fo/https/i.imgur.com/yfIIgZi.png",
+    "link": "https://en.gfwiki.com/wiki/ILM_Hollow_Point_(4-Star)"
+  }, 
+      "36": {
+    "name": "#00 Buckshot Ammo",
+    "rarity": "4",
+    "type": "Ammo",
+    "craft": "00:44:00",
+    "stats": "Damage +4-6, Critical Hit Damage +7-9%",
+    "use": "SG",
+    "image": "https://images-ext-1.discordapp.net/external/kSQm0hjo1PQT-xtvPKRwOi4oMdeD2JnUHbbIqu4iDV0/https/i.imgur.com/Y29Y6nK.png",
+    "link": "https://en.gfwiki.com/wiki/%EF%BC%8300_Buckshot_Ammo"
+  },
+    "37": {
+    "name": "WAD Slug Ammo",
+    "rarity": "4",
+    "type": "Ammo",
+    "craft": "00:44:00",
+    "stats": "Target -2, Damage *3, Accuracy +5-7",
+    "use": "SG",
+    "image": "https://en.gfwiki.com/images/5/58/Generic_Slug_Shotgun_Ammo.png",
+    "link": "https://en.gfwiki.com/wiki/WAD_Slug_Ammo"
+  },
+      "38": {
+    "name": "VFL 6-24x56",
+    "rarity": "4",
+    "type": "Telescopic Sight",
+    "craft": "00:45:00",
+    "stats": "Critical Hit Chance +17-24%",
+    "use": "SMG, AR, MG, RF, SG",
+    "image": "https://en.gfwiki.com/images/0/06/Generic_Telescopic_Sight.png",
+    "link": "https://en.gfwiki.com/wiki/VFL_6-24x56"
+  },
+   "39": {
+    "name": "Mk169 Armor Piercing Ammo",
+    "rarity": "4",
+    "type": "Ammo",
+    "craft": "00:45:00",
+    "stats": "Armor Penetration +55-65",
+    "use": "MG, RF",
+    "image": "https://en.gfwiki.com/images/3/30/Generic_Armor-Piercing_Ammo.png",
+    "link": "https://en.gfwiki.com/wiki/Mk169_Armor-Piercing_Ammo"
+  },
+   "40": {
+    "name": "Urban Camo Cape",
+    "rarity": "4",
+    "type": "Camouflage",
+    "craft": "00:46:00",
+    "stats": "Movement Speed -3, Critical Hit Damage +8-10%",
+    "use": "RF",
+    "image": "https://images-ext-2.discordapp.net/external/h9Y1QiVPsUsTNJr5ID1oS1o0nxE_6MCupzZSjrIezeo/https/i.imgur.com/NIk5UJQ.png?width=80&height=80",
+    "link": "https://en.gfwiki.com/wiki/Urban_Camo_Cape"
+  },
+      "41": {
+    "name": "AC4 Silencer",
+    "rarity": "5",
+    "type": "Silencer",
+    "craft": "00:47:00",
+    "stats": "Evasion +6-8, Critical hit rate +12-15",
+    "use": "SMG, AR, RF, SG",
+    "image": "https://en.gfwiki.com/images/c/cc/Generic_Silencer.png",
+    "link": "https://en.gfwiki.com/wiki/AC4_Silencer"
+  },
+        "42": {
+    "name": "IOP High-Capacity Ammo Box",
+    "rarity": "5",
+    "type": "Ammo Box",
+    "craft": "00:47:00",
+    "stats": "Clip Size +1, Evasion -1",
+    "use": "MG",
+    "image": "https://en.gfwiki.com/images/2/20/Generic_Ammo_Box.png",
+    "link": "https://en.gfwiki.com/wiki/IOP_High-Capacity_Ammo_Box"
+  },
+  "43": {
+    "name": "JHP High-Velocity Ammo",
+    "rarity": "4",
+    "type": "Ammo",
+    "craft": "00:48:00",
+    "stats": "Damage +3-6",
+    "use": "AR",
+    "image": "https://en.gfwiki.com/images/4/41/Generic_High-Velocity_Ammo.png",
+    "link": "https://en.gfwiki.com/wiki/JHP_High-Velocity_Ammo"
+  },
+        "44": {
+    "name": "EOT 518",
+    "rarity": "5",
+    "type": "Holographic Sight",
+    "craft": "00:48:00",
+    "stats": "Accuracy +6-10, Damage +4-6, ROF -4 - -6",
+    "use": "SMG, AR, MG, RF, SG",
+    "image": "https://en.gfwiki.com/images/1/12/Generic_Holographic_Sight.png",
+    "link": "https://en.gfwiki.com/wiki/EOT_518"
+  }, 
+    "45": {
+    "name": "PEQ-16A",
+    "rarity": "5",
+    "type": "Night Combat Equipment",
+    "craft": "00:49:00",
+    "stats": "Night Vision +91-100%",
+    "use": "HG, SMG, AR, SG",
+    "image": "https://images-ext-1.discordapp.net/external/JyA3y3U1nYjsO74vAW8Es4Qgqo95S3yYzavI2QXV3nM/https/i.imgur.com/o03gzHo.png",
+    "link": "https://en.gfwiki.com/wiki/PEQ-16A"
+  },
+      "46": {
+    "name": "ITI Mars",
+    "rarity": "5",
+    "type": "Red Dot Sight",
+    "craft": "00:50:00",
+    "stats": "Accuracy +11-15, ROF -1 - -4",
+    "use": "SMG, AR, MG, RF, SG",
+    "image": "https://en.gfwiki.com/images/f/f9/Generic_Red_Dot_Sight.png",
+    "link": "https://en.gfwiki.com/wiki/ITI_Mars"
+  },
+        "47": {
+    "name": "Type 3 Ballistic Plate",
+    "rarity": "5",
+    "type": "Ballistic Plate",
+    "craft": "00:51:00",
+    "stats": "Evasion -2 - -3, Armor +6-8",
+    "use": "SG",
+    "image": "https://images-ext-2.discordapp.net/external/X7dZwmP41YTJiUkYmkBPXMYohvuPrG84JS9VNCpef0s/https/i.imgur.com/XVFyhjz.png",
+    "link": "https://en.gfwiki.com/wiki/Type_3_Ballistic_Plate"
+  },
+  "48": {
+    "name": "IOP X4 Exoskeleton",
+    "rarity": "5",
+    "type": "Exoskeleton",
+    "craft": "00:52:00",
+    "stats": "Evasion +8-12",
+    "use": "HG, SMG, AR",
+    "image": "https://en.gfwiki.com/images/6/68/Generic_Exoskeleton.png",
+    "link": "https://en.gfwiki.com/wiki/IOP_X4_Exoskeleton"
+  }, 
+    "49": {
+    "name": "IOP T4 Exoskeleton",
+    "rarity": "5",
+    "type": "Exoskeleton",
+    "craft": "00:52:00",
+    "stats": "Evasion +20-25, Damage -6 - -8",
+    "use": "HG, SMG, AR",
+    "image": "https://en.gfwiki.com/images/6/68/Generic_Exoskeleton.png",
+    "link": "https://en.gfwiki.com/wiki/IOP_T4_Exoskeleton"
+  }, 
+  "50": {  
+    "name": "ILM Hollow Point (5 Star)",
+    "rarity": "5",
+    "type": "Ammo",
+    "craft": "00:53:00",
+    "stats": "Damage +7-10, Armor Penetration -7 = -10",
+    "use": "HG, SMG",
+    "image": "https://images-ext-2.discordapp.net/external/NzxC1mK2_e1Jv1O6uo-Hi3R8NEBr8nbJ7gqNr7c_3Fo/https/i.imgur.com/yfIIgZi.png",
+    "link": "https://en.gfwiki.com/wiki/ILM_Hollow_Point"
+  },
+"51": {
+    "name": "SABOT Slug Ammo",
+    "rarity": "5",
+    "type": "Ammo",
+    "craft": "00:54:00",
+    "stats": "Target -2, Damage *3, Accuracy +8-12",
+    "use": "SG",
+    "image": "https://en.gfwiki.com/images/5/58/Generic_Slug_Shotgun_Ammo.png",
+    "link": "https://en.gfwiki.com/wiki/SABOT_Slug_Ammo"
+  },
+      "52": {
+    "name": "#000 Buckshot Ammo",
+    "rarity": "5",
+    "type": "Ammo",
+    "craft": "00:54:00",
+    "stats": "Damage +7-10, Critical Hit Damage +10-15%",
+    "use": "SG",
+    "image": "https://images-ext-1.discordapp.net/external/kSQm0hjo1PQT-xtvPKRwOi4oMdeD2JnUHbbIqu4iDV0/https/i.imgur.com/Y29Y6nK.png",
+    "link": "https://en.gfwiki.com/wiki/%EF%BC%83000_Buckshot_Ammo"
+  },
+"53": {
+    "name": "Mk211 High Explosive Armor-Piercing Ammo",
+    "rarity": "5",
+    "type": "Ammo",
+    "craft": "00:55:00",
+    "stats": "Armor Penetration +70-80",
+    "use": "MG, RF",
+    "image": "https://en.gfwiki.com/images/3/30/Generic_Armor-Piercing_Ammo.png",
+    "link": "https://en.gfwiki.com/wiki/Mk211_High_Explosive_Armor-Piercing_Ammo"
+  },
+"54": {
+    "name": "Termoptic Camo Cape",
+    "rarity": "2",
+    "type": "Camouflage",
+    "craft": "00:56:00",
+    "stats": "Critical Damage +11-15&, Movement Speed -3",
+    "use": "RF",
+    "image": "https://images-ext-2.discordapp.net/external/h9Y1QiVPsUsTNJr5ID1oS1o0nxE_6MCupzZSjrIezeo/https/i.imgur.com/NIk5UJQ.png?width=80&height=80",
+    "link": "https://en.gfwiki.com/wiki/Thermoptic_Camo_Cape"
+  },
+"55": {
+    "name": "IOP Extreme Ammo Box",
+    "rarity": "5",
+    "type": "Ammo Box",
+    "craft": "00:57:00",
+    "stats": "Clip Size +2-3, Evasion --2 - -3",
+    "use": "MG",
+    "image": "https://en.gfwiki.com/images/2/20/Generic_Ammo_Box.png",
+    "link": "https://en.gfwiki.com/wiki/IOP_Extreme_Ammo_Box"
+  },
+  "56": {
+    "name": "APCR High-Velocity Ammo",
+    "rarity": "5",
+    "type": "Ammo",
+    "craft": "00:58:00",
+    "stats": "Damage +8-12",
+    "use": "AR",
+    "image": "https://en.gfwiki.com/images/4/41/Generic_High-Velocity_Ammo.png",
+    "link": "https://en.gfwiki.com/wiki/APCR_High-Velocity_Ammo"
+  },
+    "57": {
+    "name": ".300BLK High-Velocity Ammo",
+    "rarity": "5",
+    "type": "Ammo",
+    "craft": "3-4N",
+    "stats": "Damage +12-16, Accuracy -1 - -5",
+    "use": "AR-15",
+    "image": "https://en.gfwiki.com/images/f/ff/.300BLK_High-Velocity_Ammo.png",
+    "link": "https://en.gfwiki.com/wiki/.300BLK_High-Velocity_Ammo"
+  },
+      "58": {
+    "name": "Blue Thickened Cape",
+    "rarity": "5",
+    "type": "Camouflage",
+    "craft": "Event Only",
+    "stats": "Crit Damage +11-15%, ROF +1, Movement -3 - -5",
+    "use": "PTRD",
+    "image": "https://en.gfwiki.com/images/2/29/Blue_Thickened_Cape.png",
+    "link": "https://en.gfwiki.com/wiki/Blue_Thickened_Cape"
+  },
+        "59": {
+    "name": "GSG UX Exoskeleton",
+    "rarity": "5",
+    "type": "Exoskeleton",
+    "craft": "4-4N",
+    "stats": "Evasion +30-45%, Damage -6 - -10",
+    "use": "MP5",
+    "image": "https://en.gfwiki.com/images/c/cf/GSG_UX_Exoskeleton.png",
+    "link": "https://en.gfwiki.com/wiki/GSG_UX_Exoskeleton"
+  },
+          "60": {
+    "name": "Hayha Memory Chip",
+    "rarity": "5",
+    "type": "Microchip",
+    "craft": "5-4N",
+    "stats": "Damage +18-25, Evasion +2-4, Crit Damage +15-20%",
+    "use": "Mosin-Nagant",
+    "image": "https://en.gfwiki.com/images/a/a6/Hayha_Memory_Chip.png",
+    "link": "https://en.gfwiki.com/wiki/Hayha_Memory_Chip"
+  },
+            "61": {
+    "name": "Light Weight Rail System",
+    "rarity": "5",
+    "type": "Special",
+    "craft": "N/A.",
+    "stats": "Crit Damage +11-15%, Accuracy +4-6",
+    "use": "ST AR-15",
+    "image": "https://en.gfwiki.com/images/2/25/Light_Weight_Rail_System.png",
+    "link": "https://en.gfwiki.com/wiki/Light_Weight_Rail_System"
+  },
+              "62": {
+    "name": "Match Grade Armor-Piercing Ammo",
+    "rarity": "5",
+    "type": "Ammo",
+    "craft": "1-4N",
+    "stats": "Armor penetration +75-85, ROF +1-8",
+    "use": "Springfield",
+    "image": "https://en.gfwiki.com/images/2/25/Match_Grade_Armor-Piercing_Ammo.png",
+    "link": "https://en.gfwiki.com/wiki/Match_Grade_Armor-Piercing_Ammo"
+  },
+                "63": {
+    "name": "Titan Fire Control Chip",
+    "rarity": "5",
+    "type": "Microchip",
+    "craft": "2-4N",
+    "stats": "Clip size +3-4, Damage -2 - -4, ROF -1 - -8",
+    "use": "M1918",
+    "image": "https://en.gfwiki.com/images/e/e1/Titan_Fire_Control_Chip.png",
+    "link": "https://en.gfwiki.com/wiki/Titan_Fire_Control_Chip"
+  },
+                "64": {
+    "name": "UMP UX Exoskeleton",
+    "rarity": "5",
+    "type": "Exoskeleton",
+    "craft": "Event Only",
+    "stats": "Evasion +20-25, Crit Damage +11-15%",
+    "use": "UMP9, UMP40, UMP45",
+    "image": "https://en.gfwiki.com/images/a/a4/UMP_UX_Exoskeleton.png",
+    "link": "https://en.gfwiki.com/wiki/UMP_UX_Exoskeleton"
+  }
 }
