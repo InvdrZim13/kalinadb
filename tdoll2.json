@@ -2718,7 +2718,7 @@
 	"link": "https://en.gfwiki.com/wiki/PK",
 	"note": "Can equip: telescopic sights, holographic sights, red dot sights, ap ammo, microchips, ammo boxes."
 },
-"125": {
+"86": {
 	"rarity": "5",
 	"maxDMG": "84",
 	"name": "MG4",
@@ -2750,7 +2750,7 @@
 	"link": "https://en.gfwiki.com/wiki/MG4",
 	"note": "Can equip: telescopic sights, holographic sights, red dot sights, ap ammo, microchips, ammo boxes."
 },
-"86": {
+"125": {
 	"rarity": "3",
 	"maxDMG": "87",
 	"name": "MG42",
