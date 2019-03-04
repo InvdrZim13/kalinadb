@@ -7386,5 +7386,8 @@
 	"skill2Desc": "N/A",
 	"tile": ":white_circle: :large_blue_circle: :black_circle:\n::black_circle: :large_blue_circle: :black_circle:\n:black_circle: :black_circle: :black_circle:",
 	"formBonus": "Affects hand guns:\nDecreases skill cooldown by 18%\n",
+	"image": "https://en.gfwiki.com/images/6/65/M200_S.png",
+	"link": "https://en.gfwiki.com/wiki/M200",
+	"note": "Can equip: telescopic sights, holographic sights, red dot sights, silencers, ap ammo, microchips, camouflage capes."
 }
 }
