@@ -7381,7 +7381,7 @@
 	"baseROF": "22",
 	"maxROF": "34",
 	"skill1": "Killing Intent of the Silent",
-	"skill1Desc": "Lv. 1: Enter sniper mode for 9 seconds. After every 2.5 seconds of aiming, deal 1.5x damage (This shot can CRIT and is also affected by Armour) to the furthest target and decrease their damage by 5% for 3 seconds. Normal attacks against armorless enemies deal 1.05x damage. (20s cooldown, 6s initial cooldown).\nLv. 10: Enter sniper mode for 9 seconds. After every 1.5 seconds of aiming, deal 2.0x damage (This shot can CRIT and is also affected by Armour) to the furthest target and decrease their damage by 10% for 3 seconds. Normal attacks against armorless enemies deal 1.05x damage. (16s cooldown. 6s initial cooldown)",
+	"skill1Desc": "Lv. 1: Enter sniper mode for 9 seconds. After every 2.5 seconds of aiming, deal 1.5x damage (This shot can CRIT and is also affected by Armour) to the furthest target and decrease their damage by 5% for 3 seconds. Normal attacks against armorless enemies deal 1.05x damage. (20s cooldown, 6s initial cooldown).\nLv. 10: Enter sniper mode for 9 seconds. After every 1.5 seconds of aiming, deal 2.0x damage (This shot can CRIT and is also affected by Armour) to the furthest target and decrease their damage by 10% for 3 seconds. Normal attacks against armorless enemies deal 1.05x damage. (16s cooldown. 6s initial cooldown).",
 	"skill2": "N/A",
 	"skill2Desc": "N/A",
 	"tile": ":white_circle: :large_blue_circle: :black_circle:\n:black_circle: :large_blue_circle: :black_circle:\n:black_circle: :black_circle: :black_circle:",
